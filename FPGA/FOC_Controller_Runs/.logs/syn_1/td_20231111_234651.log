@@ -1,0 +1,813 @@
+============================================================
+   Tang Dynasty, V5.6.71036
+      Copyright (c) 2012-2023 Anlogic Inc.
+   Executable = D:/Anlogic/TD5.6.2/bin/td.exe
+   Built at =   20:34:38 Mar 21 2023
+   Run by =     15597
+   Run Date =   Sat Nov 11 23:46:51 2023
+
+   Run on =     XR097-DELL-G7
+============================================================
+RUN-1002 : start command "open_project FOC_Controller.prj"
+RUN-1002 : start command "set_param flow thread 32"
+RUN-1001 : Print Global Property
+RUN-1001 : ---------------------------------------------------------------
+RUN-1001 :        Parameters        |  Settings  |  Default Values  |  Note  
+RUN-1001 : ---------------------------------------------------------------
+RUN-1001 :          message         |  standard  |     standard     |        
+RUN-1001 :   mixed_pack_place_flow  |     on     |        on        |        
+RUN-1001 :        qor_monitor       |    off     |       off        |        
+RUN-1001 :        syn_ip_flow       |    off     |       off        |        
+RUN-1001 :          thread          |     32     |       auto       |   *    
+RUN-1001 : ---------------------------------------------------------------
+RUN-1001 : Print Design Property
+RUN-1001 : --------------------------------------------------------------
+RUN-1001 :        Parameters       |  Settings  |  Default Values  |  Note  
+RUN-1001 : --------------------------------------------------------------
+RUN-1001 :   default_reg_initial   |    auto    |       auto       |        
+RUN-1001 :        infer_add        |     on     |        on        |        
+RUN-1001 :        infer_fsm        |    off     |       off        |        
+RUN-1001 :        infer_mult       |     on     |        on        |        
+RUN-1001 :        infer_ram        |     on     |        on        |        
+RUN-1001 :        infer_reg        |     on     |        on        |        
+RUN-1001 :   infer_reg_init_value  |     on     |        on        |        
+RUN-1001 :        infer_rom        |     on     |        on        |        
+RUN-1001 :      infer_shifter      |     on     |        on        |        
+RUN-1001 : --------------------------------------------------------------
+RUN-1002 : start command "set_param rtl merge_mux on"
+RUN-1002 : start command "set_param rtl opt_mux on"
+RUN-1001 : Print Rtl Property
+RUN-1001 : --------------------------------------------------------------
+RUN-1001 :        Parameters       |  Settings  |  Default Values  |  Note  
+RUN-1001 : --------------------------------------------------------------
+RUN-1001 :       compress_add      |   ripple   |      ripple      |        
+RUN-1001 :        elf_sload        |    off     |       off        |        
+RUN-1001 :       fix_undriven      |     0      |        0         |        
+RUN-1001 :         flatten         |    off     |       off        |        
+RUN-1001 :       gate_sharing      |     on     |        on        |        
+RUN-1001 :    hdl_warning_level    |   normal   |      normal      |        
+RUN-1001 :   impl_internal_tribuf  |     on     |        on        |        
+RUN-1001 :      impl_set_reset     |     on     |        on        |        
+RUN-1001 :        infer_gsr        |    off     |       off        |        
+RUN-1001 :      keep_hierarchy     |    auto    |       auto       |        
+RUN-1001 :        max_fanout       |    9999    |       9999       |        
+RUN-1001 :      max_oh2bin_len     |     10     |        10        |        
+RUN-1001 :       merge_equal       |     on     |        on        |        
+RUN-1001 :       merge_equiv       |     on     |        on        |        
+RUN-1001 :        merge_mux        |     on     |       off        |   *    
+RUN-1001 :     min_control_set     |     8      |        8         |        
+RUN-1001 :      min_ripple_len     |    auto    |       auto       |        
+RUN-1001 :       oh2bin_ratio      |    0.08    |       0.08       |        
+RUN-1001 :     opt_adder_fanout    |     on     |        on        |        
+RUN-1001 :        opt_arith        |     on     |        on        |        
+RUN-1001 :       opt_big_gate      |    off     |       off        |        
+RUN-1001 :        opt_const        |     on     |        on        |        
+RUN-1001 :      opt_const_mult     |     on     |        on        |        
+RUN-1001 :       opt_lessthan      |     on     |        on        |        
+RUN-1001 :         opt_mux         |     on     |       off        |   *    
+RUN-1001 :         opt_ram         |    high    |       high       |        
+RUN-1001 :      rtl_sim_model      |    off     |       off        |        
+RUN-1001 :         seq_syn         |     on     |        on        |        
+RUN-1001 : --------------------------------------------------------------
+HDL-1007 : analyze verilog file ../../al_ip/pll.v
+HDL-1007 : undeclared symbol 'open', assumed default net type 'wire' in ../../al_ip/pll.v(88)
+HDL-1007 : analyze verilog file ../../al_ip/MCU.v
+HDL-1007 : analyze verilog file ../../RTL/adc_ad7928.v
+HDL-1007 : analyze verilog file ../../RTL/foc/cartesian2polar.v
+HDL-1007 : analyze verilog file ../../RTL/foc/clark_tr.v
+HDL-1007 : analyze verilog file ../../RTL/foc/foc_top.v
+HDL-1007 : analyze verilog file ../../RTL/foc/hold_detect.v
+HDL-1007 : analyze verilog file ../../RTL/foc/park_tr.v
+HDL-1007 : analyze verilog file ../../RTL/foc/pi_controller.v
+HDL-1007 : analyze verilog file ../../RTL/foc/sincos.v
+HDL-1007 : analyze verilog file ../../RTL/foc/svpwm.v
+HDL-1007 : analyze verilog file ../../RTL/fpga_top.v
+HDL-1007 : analyze verilog file ../../RTL/i2c_register_read.v
+HDL-1007 : analyze verilog file ../../TOP.v
+HDL-1007 : analyze verilog file ../../AS5600_sensor.v
+HDL-1007 : analyze verilog file ../../ahb_foc_controller.v
+RUN-1001 : Project manager successfully analyzed 16 source files.
+RUN-1002 : start command "import_device sf1_6.db -package SF1S60CG121I"
+ARC-1001 : Device Initialization.
+ARC-1001 : -------------------------------------------------
+ARC-1001 :       OPTION       |      IO       |   SETTING   
+ARC-1001 : -------------------------------------------------
+ARC-1001 :        done        |      B4       |    gpio    
+ARC-1001 :        initn       |      A5       |    gpio    
+ARC-1001 :       jtagen       |      B7       |    gpio    
+ARC-1001 :      programn      |      B5       |  dedicate  
+ARC-1001 :   tdi/tms/tck/tdo  |  C4/A6/A7/C5  |  dedicate  
+ARC-1001 : -------------------------------------------------
+ARC-1004 : Device setting, marked 5 dedicate IOs in total.
+RUN-1003 : finish command "import_device sf1_6.db -package SF1S60CG121I" in  1.018244s wall, 0.562500s user + 0.015625s system = 0.578125s CPU (56.8%)
+
+RUN-1004 : used memory is 110 MB, reserved memory is 80 MB, peak memory is 110 MB
+RUN-1002 : start command "elaborate -top fpga_top"
+RUN-1001 : Print Design Property
+RUN-1001 : --------------------------------------------------------------
+RUN-1001 :        Parameters       |  Settings  |  Default Values  |  Note  
+RUN-1001 : --------------------------------------------------------------
+RUN-1001 :   default_reg_initial   |    auto    |       auto       |        
+RUN-1001 :        infer_add        |     on     |        on        |        
+RUN-1001 :        infer_fsm        |    off     |       off        |        
+RUN-1001 :        infer_mult       |     on     |        on        |        
+RUN-1001 :        infer_ram        |     on     |        on        |        
+RUN-1001 :        infer_reg        |     on     |        on        |        
+RUN-1001 :   infer_reg_init_value  |     on     |        on        |        
+RUN-1001 :        infer_rom        |     on     |        on        |        
+RUN-1001 :      infer_shifter      |     on     |        on        |        
+RUN-1001 : --------------------------------------------------------------
+RUN-1002 : start command "set_param rtl merge_mux on"
+RUN-1002 : start command "set_param rtl opt_mux on"
+RUN-1001 : Print Rtl Property
+RUN-1001 : --------------------------------------------------------------
+RUN-1001 :        Parameters       |  Settings  |  Default Values  |  Note  
+RUN-1001 : --------------------------------------------------------------
+RUN-1001 :       compress_add      |   ripple   |      ripple      |        
+RUN-1001 :        elf_sload        |    off     |       off        |        
+RUN-1001 :       fix_undriven      |     0      |        0         |        
+RUN-1001 :         flatten         |    off     |       off        |        
+RUN-1001 :       gate_sharing      |     on     |        on        |        
+RUN-1001 :    hdl_warning_level    |   normal   |      normal      |        
+RUN-1001 :   impl_internal_tribuf  |     on     |        on        |        
+RUN-1001 :      impl_set_reset     |     on     |        on        |        
+RUN-1001 :        infer_gsr        |    off     |       off        |        
+RUN-1001 :      keep_hierarchy     |    auto    |       auto       |        
+RUN-1001 :        max_fanout       |    9999    |       9999       |        
+RUN-1001 :      max_oh2bin_len     |     10     |        10        |        
+RUN-1001 :       merge_equal       |     on     |        on        |        
+RUN-1001 :       merge_equiv       |     on     |        on        |        
+RUN-1001 :        merge_mux        |     on     |       off        |   *    
+RUN-1001 :     min_control_set     |     8      |        8         |        
+RUN-1001 :      min_ripple_len     |    auto    |       auto       |        
+RUN-1001 :       oh2bin_ratio      |    0.08    |       0.08       |        
+RUN-1001 :     opt_adder_fanout    |     on     |        on        |        
+RUN-1001 :        opt_arith        |     on     |        on        |        
+RUN-1001 :       opt_big_gate      |    off     |       off        |        
+RUN-1001 :        opt_const        |     on     |        on        |        
+RUN-1001 :      opt_const_mult     |     on     |        on        |        
+RUN-1001 :       opt_lessthan      |     on     |        on        |        
+RUN-1001 :         opt_mux         |     on     |       off        |   *    
+RUN-1001 :         opt_ram         |    high    |       high       |        
+RUN-1001 :      rtl_sim_model      |    off     |       off        |        
+RUN-1001 :         seq_syn         |     on     |        on        |        
+RUN-1001 : --------------------------------------------------------------
+RUN-1002 : start command "set_param flow thread 32"
+RUN-1001 : Print Global Property
+RUN-1001 : ---------------------------------------------------------------
+RUN-1001 :        Parameters        |  Settings  |  Default Values  |  Note  
+RUN-1001 : ---------------------------------------------------------------
+RUN-1001 :          message         |  standard  |     standard     |        
+RUN-1001 :   mixed_pack_place_flow  |     on     |        on        |        
+RUN-1001 :        qor_monitor       |    off     |       off        |        
+RUN-1001 :        syn_ip_flow       |    off     |       off        |        
+RUN-1001 :          thread          |     32     |       auto       |   *    
+RUN-1001 : ---------------------------------------------------------------
+RUN-1001 : Print Design Property
+RUN-1001 : --------------------------------------------------------------
+RUN-1001 :        Parameters       |  Settings  |  Default Values  |  Note  
+RUN-1001 : --------------------------------------------------------------
+RUN-1001 :   default_reg_initial   |    auto    |       auto       |        
+RUN-1001 :        infer_add        |     on     |        on        |        
+RUN-1001 :        infer_fsm        |    off     |       off        |        
+RUN-1001 :        infer_mult       |     on     |        on        |        
+RUN-1001 :        infer_ram        |     on     |        on        |        
+RUN-1001 :        infer_reg        |     on     |        on        |        
+RUN-1001 :   infer_reg_init_value  |     on     |        on        |        
+RUN-1001 :        infer_rom        |     on     |        on        |        
+RUN-1001 :      infer_shifter      |     on     |        on        |        
+RUN-1001 : --------------------------------------------------------------
+HDL-1007 : port 'mtip' remains unconnected for this instance in ../../TOP.v(59)
+HDL-1007 : elaborate module fpga_top in ../../TOP.v(1)
+HDL-1007 : elaborate module pll in ../../al_ip/pll.v(23)
+HDL-1007 : elaborate module SF1_LOGIC_BUFG in D:/Anlogic/TD5.6.2/arch/sf1_macro.v(8)
+HDL-1007 : elaborate module SF1_PHY_PLL(FIN="25.000",FBCLK_DIV=4,CLKC0_DIV=10,CLKC1_DIV=25,CLKC0_ENABLE="ENABLE",CLKC1_ENABLE="ENABLE",FEEDBK_PATH="CLKC0_EXT",STDBY_ENABLE="DISABLE",CLKC0_CPHASE=9,CLKC1_CPHASE=24,GMC_GAIN=2,GMC_TEST=9,ICP_CURRENT=9,KVCO=2,LPF_CAPACITOR=1,LPF_RESISTOR=8,SYNC_ENABLE="DISABLE",OFFSET_MODE="EXT",CLKC0_DUTY=0.5,CLKC1_DUTY=0.5,CLKC0_DUTY_INT=5,CLKC1_DUTY_INT=13) in D:/Anlogic/TD5.6.2/arch/sf1_macro.v(1354)
+HDL-1007 : elaborate module MCU in ../../al_ip/MCU.v(14)
+HDL-1007 : elaborate module SF1_LOGIC_MCU(RESET_VECTOR=32'b011100000000000000000) in D:/Anlogic/TD5.6.2/arch/sf1_macro.v(453)
+HDL-1007 : elaborate module SF1_LOGIC_MCU_JTAG in D:/Anlogic/TD5.6.2/arch/sf1_macro.v(78)
+HDL-1007 : elaborate module SF1_LOGIC_IOTRIBUF in D:/Anlogic/TD5.6.2/arch/sf1_macro.v(584)
+HDL-1007 : elaborate module SF1_LOGIC_IOBUF in D:/Anlogic/TD5.6.2/arch/sf1_macro.v(574)
+HDL-1007 : elaborate module SF1_PHY_INTFLASH in D:/Anlogic/TD5.6.2/arch/sf1_macro.v(978)
+HDL-1007 : elaborate module ahb_foc_controller in ../../ahb_foc_controller.v(1)
+HDL-1007 : elaborate module foc_controller in ../../RTL/fpga_top.v(6)
+HDL-1007 : elaborate module as5600_encoder in ../../AS5600_sensor.v(1)
+HDL-1007 : elaborate module i2c_register_read(CLK_DIV=16'b01010) in ../../RTL/i2c_register_read.v(9)
+HDL-1007 : elaborate module adc_ad7928(CH_CNT=3'b010,CH0=3'b01,CH1=3'b010,CH2=3'b011) in ../../RTL/adc_ad7928.v(11)
+HDL-1007 : elaborate module foc_top(INIT_CYCLES=20000000,MAX_AMP=9'b110000000,SAMPLE_DELAY=9'b01111000) in ../../RTL/foc/foc_top.v(1)
+HDL-1007 : elaborate module clark_tr in ../../RTL/foc/clark_tr.v(9)
+HDL-1007 : elaborate module park_tr in ../../RTL/foc/park_tr.v(9)
+HDL-1007 : elaborate module sincos in ../../RTL/foc/sincos.v(11)
+HDL-1007 : elaborate module pi_controller in ../../RTL/foc/pi_controller.v(9)
+HDL-1007 : elaborate module cartesian2polar in ../../RTL/foc/cartesian2polar.v(9)
+HDL-1007 : elaborate module svpwm in ../../RTL/foc/svpwm.v(13)
+HDL-1007 : elaborate module hold_detect(SAMPLE_DELAY=16'b01111000) in ../../RTL/foc/hold_detect.v(9)
+HDL-5007 WARNING: actual bit length 32 differs from formal bit length 16 for port 'I_current_id_kp' in ../../RTL/fpga_top.v(185)
+HDL-5007 WARNING: actual bit length 32 differs from formal bit length 16 for port 'I_current_id_ki' in ../../RTL/fpga_top.v(186)
+HDL-5007 WARNING: actual bit length 32 differs from formal bit length 16 for port 'I_current_id_fg' in ../../RTL/fpga_top.v(187)
+HDL-5007 WARNING: actual bit length 32 differs from formal bit length 16 for port 'I_current_iq_kp' in ../../RTL/fpga_top.v(188)
+HDL-5007 WARNING: actual bit length 32 differs from formal bit length 16 for port 'I_current_iq_ki' in ../../RTL/fpga_top.v(189)
+HDL-5007 WARNING: actual bit length 32 differs from formal bit length 16 for port 'I_current_iq_fg' in ../../RTL/fpga_top.v(190)
+HDL-5007 WARNING: actual bit length 32 differs from formal bit length 16 for port 'I_velocity_kp' in ../../RTL/fpga_top.v(191)
+HDL-5007 WARNING: actual bit length 32 differs from formal bit length 16 for port 'I_velocity_ki' in ../../RTL/fpga_top.v(192)
+HDL-5007 WARNING: actual bit length 32 differs from formal bit length 16 for port 'I_velocity_fg' in ../../RTL/fpga_top.v(193)
+HDL-5007 WARNING: actual bit length 32 differs from formal bit length 16 for port 'I_position_kp' in ../../RTL/fpga_top.v(194)
+HDL-5007 Similar messages will be suppressed.
+HDL-1200 : Current top model is fpga_top
+HDL-1100 : Inferred 0 RAMs.
+RUN-1003 : finish command "elaborate -top fpga_top" in  1.083714s wall, 0.390625s user + 0.031250s system = 0.421875s CPU (38.9%)
+
+RUN-1004 : used memory is 166 MB, reserved memory is 138 MB, peak memory is 235 MB
+RUN-1002 : start command "export_db FOC_Controller_elaborate.db"
+RUN-1001 : Exported /
+RUN-1001 : Exported flow parameters
+RUN-1001 : Exported libs
+RUN-1001 : Exported entities
+RUN-1001 : Exported ports
+RUN-1001 : Exported pins
+RUN-1001 : Exported instances
+RUN-1001 : Exported nets
+RUN-1001 : Exported buses
+RUN-1001 : Exported models
+RUN-1001 : Exported congestions
+RUN-1001 : Exported violations
+RUN-1001 : Exported IO constraints
+RUN-1001 : Exported Inst constraints
+RUN-1002 : start command "read_adc ../../TOP.adc"
+RUN-1002 : start command "set_pin_assignment  IO_i2c_sda   LOCATION = H3; IOSTANDARD = LVCMOS18; DRIVESTRENGTH = 8; PULLTYPE = PULLUP; "
+RUN-1002 : start command "set_pin_assignment  I_clk_25m   LOCATION = D7; IOSTANDARD = LVCMOS18; PULLTYPE = PULLUP; "
+RUN-1002 : start command "set_pin_assignment  I_hall_u   LOCATION = G10; IOSTANDARD = LVCMOS18; PULLTYPE = PULLUP; "
+RUN-1002 : start command "set_pin_assignment  I_hall_v   LOCATION = H11; IOSTANDARD = LVCMOS18; PULLTYPE = PULLUP; "
+RUN-1002 : start command "set_pin_assignment  I_hall_w   LOCATION = H10; IOSTANDARD = LVCMOS18; PULLTYPE = PULLUP; "
+RUN-1002 : start command "set_pin_assignment  I_jtag_tck   LOCATION = C7; IOSTANDARD = LVCMOS18; PULLTYPE = PULLUP; "
+RUN-1002 : start command "set_pin_assignment  I_jtag_tdi   LOCATION = D5; IOSTANDARD = LVCMOS18; PULLTYPE = PULLUP; "
+RUN-1002 : start command "set_pin_assignment  I_jtag_tms   LOCATION = D6; IOSTANDARD = LVCMOS18; PULLTYPE = PULLUP; "
+RUN-1002 : start command "set_pin_assignment  I_rstn   LOCATION = J2; IOSTANDARD = LVCMOS18; PULLTYPE = PULLUP; "
+RUN-1002 : start command "set_pin_assignment  I_spi_miso   LOCATION = B9; IOSTANDARD = LVCMOS18; PULLTYPE = PULLUP; "
+RUN-1002 : start command "set_pin_assignment  I_uart_rx   LOCATION = E4; IOSTANDARD = LVCMOS18; PULLTYPE = PULLUP; "
+RUN-1002 : start command "set_pin_assignment  O_i2c_scl   LOCATION = G3; IOSTANDARD = LVCMOS18; DRIVESTRENGTH = 8; PULLTYPE = NONE; "
+RUN-1002 : start command "set_pin_assignment  O_jtag_tdo   LOCATION = C6; IOSTANDARD = LVCMOS18; DRIVESTRENGTH = 8; PULLTYPE = NONE; "
+RUN-1002 : start command "set_pin_assignment  O_pwm_a   LOCATION = C10; IOSTANDARD = LVCMOS18; DRIVESTRENGTH = 8; PULLTYPE = NONE; "
+RUN-1002 : start command "set_pin_assignment  O_pwm_b   LOCATION = C11; IOSTANDARD = LVCMOS18; DRIVESTRENGTH = 8; PULLTYPE = NONE; "
+RUN-1002 : start command "set_pin_assignment  O_pwm_c   LOCATION = E11; IOSTANDARD = LVCMOS18; DRIVESTRENGTH = 8; PULLTYPE = NONE; "
+RUN-1002 : start command "set_pin_assignment  O_pwm_en   LOCATION = F11; IOSTANDARD = LVCMOS18; DRIVESTRENGTH = 8; PULLTYPE = NONE; "
+RUN-1002 : start command "set_pin_assignment  O_spi_mosi   LOCATION = B8; IOSTANDARD = LVCMOS18; DRIVESTRENGTH = 8; PULLTYPE = NONE; "
+RUN-1002 : start command "set_pin_assignment  O_spi_sck   LOCATION = A9; IOSTANDARD = LVCMOS18; DRIVESTRENGTH = 8; PULLTYPE = NONE; "
+RUN-1002 : start command "set_pin_assignment  O_spi_ss   LOCATION = A8; IOSTANDARD = LVCMOS18; DRIVESTRENGTH = 8; PULLTYPE = NONE; "
+RUN-1002 : start command "set_pin_assignment  O_uart_tx   LOCATION = A4; IOSTANDARD = LVCMOS18; DRIVESTRENGTH = 8; PULLTYPE = NONE; "
+RUN-1001 : Starting of IO setups legality check.
+RUN-1001 : Starting of IO setups legality check.
+RUN-1001 : Starting of IO vref setups legality check.
+RUN-1002 : start command "optimize_rtl"
+RUN-1001 : Open license file D:/Anlogic/TD5.6.2/license/Anlogic.lic
+RUN-1002 : start command "set_param flow thread 32"
+RUN-1001 : Print Global Property
+RUN-1001 : ---------------------------------------------------------------
+RUN-1001 :        Parameters        |  Settings  |  Default Values  |  Note  
+RUN-1001 : ---------------------------------------------------------------
+RUN-1001 :          message         |  standard  |     standard     |        
+RUN-1001 :   mixed_pack_place_flow  |     on     |        on        |        
+RUN-1001 :        qor_monitor       |    off     |       off        |        
+RUN-1001 :        syn_ip_flow       |    off     |       off        |        
+RUN-1001 :          thread          |     32     |       auto       |   *    
+RUN-1001 : ---------------------------------------------------------------
+RUN-1002 : start command "set_param rtl merge_mux on"
+RUN-1002 : start command "set_param rtl opt_mux on"
+RUN-1001 : Print Rtl Property
+RUN-1001 : --------------------------------------------------------------
+RUN-1001 :        Parameters       |  Settings  |  Default Values  |  Note  
+RUN-1001 : --------------------------------------------------------------
+RUN-1001 :       compress_add      |   ripple   |      ripple      |        
+RUN-1001 :        elf_sload        |    off     |       off        |        
+RUN-1001 :       fix_undriven      |     0      |        0         |        
+RUN-1001 :         flatten         |    off     |       off        |        
+RUN-1001 :       gate_sharing      |     on     |        on        |        
+RUN-1001 :    hdl_warning_level    |   normal   |      normal      |        
+RUN-1001 :   impl_internal_tribuf  |     on     |        on        |        
+RUN-1001 :      impl_set_reset     |     on     |        on        |        
+RUN-1001 :        infer_gsr        |    off     |       off        |        
+RUN-1001 :      keep_hierarchy     |    auto    |       auto       |        
+RUN-1001 :        max_fanout       |    9999    |       9999       |        
+RUN-1001 :      max_oh2bin_len     |     10     |        10        |        
+RUN-1001 :       merge_equal       |     on     |        on        |        
+RUN-1001 :       merge_equiv       |     on     |        on        |        
+RUN-1001 :        merge_mux        |     on     |       off        |   *    
+RUN-1001 :     min_control_set     |     8      |        8         |        
+RUN-1001 :      min_ripple_len     |    auto    |       auto       |        
+RUN-1001 :       oh2bin_ratio      |    0.08    |       0.08       |        
+RUN-1001 :     opt_adder_fanout    |     on     |        on        |        
+RUN-1001 :        opt_arith        |     on     |        on        |        
+RUN-1001 :       opt_big_gate      |    off     |       off        |        
+RUN-1001 :        opt_const        |     on     |        on        |        
+RUN-1001 :      opt_const_mult     |     on     |        on        |        
+RUN-1001 :       opt_lessthan      |     on     |        on        |        
+RUN-1001 :         opt_mux         |     on     |       off        |   *    
+RUN-1001 :         opt_ram         |    high    |       high       |        
+RUN-1001 :      rtl_sim_model      |    off     |       off        |        
+RUN-1001 :         seq_syn         |     on     |        on        |        
+RUN-1001 : --------------------------------------------------------------
+SYN-1012 : SanityCheck: Model "fpga_top"
+SYN-1012 : SanityCheck: Model "ahb_foc_controller"
+SYN-1012 : SanityCheck: Model "foc_controller"
+SYN-1012 : SanityCheck: Model "adc_ad7928(CH_CNT=3'b010,CH0=3'b01,CH1=3'b010,CH2=3'b011)"
+SYN-1012 : SanityCheck: Model "as5600_encoder"
+SYN-1012 : SanityCheck: Model "i2c_register_read(CLK_DIV=16'b01010)"
+SYN-1012 : SanityCheck: Model "foc_top(INIT_CYCLES=20000000,MAX_AMP=9'b110000000,SAMPLE_DELAY=9'b01111000)"
+SYN-1012 : SanityCheck: Model "hold_detect(SAMPLE_DELAY=16'b01111000)"
+SYN-1012 : SanityCheck: Model "cartesian2polar"
+SYN-1012 : SanityCheck: Model "clark_tr"
+SYN-1012 : SanityCheck: Model "pi_controller"
+SYN-1012 : SanityCheck: Model "park_tr"
+SYN-1012 : SanityCheck: Model "sincos"
+SYN-1012 : SanityCheck: Model "svpwm"
+SYN-1012 : SanityCheck: Model "MCU"
+SYN-1012 : SanityCheck: Model "pll"
+SYN-1043 : Mark pll as IO macro for instance bufg_feedback
+SYN-1043 : Mark MCU as IO macro for instance u4
+SYN-1043 : Mark i2c_register_read(CLK_DIV=16'b01010) as IO macro for instance sda_i
+SYN-1043 : Mark as5600_encoder as IO macro for instance u_as5600_read
+SYN-1043 : Mark foc_controller as IO macro for instance u_as5600_encoder
+SYN-1043 : Mark ahb_foc_controller as IO macro for instance u_foc_controller
+SYN-1011 : Flatten model fpga_top
+SYN-1032 : 12122/599 useful/useless nets, 1655/79 useful/useless insts
+SYN-1016 : Merged 296 instances.
+SYN-1035 : Inferred 4 ROM(s)
+SYN-1032 : 11016/2391 useful/useless nets, 1129/242 useful/useless insts
+SYN-1016 : Merged 5495 instances.
+SYN-5011 WARNING: Undriven pin: model "fpga_top" / inst "u_ahb_foc_controller/u_foc_controller/u_foc_top/mux7_syn_52" in ../../RTL/foc/foc_top.v(260) / pin "i1"
+SYN-5011 WARNING: Undriven pin: model "fpga_top" / inst "u_ahb_foc_controller/u_foc_controller/u_foc_top/u_cartesian2polar/mux4_syn_1" in ../../RTL/foc/cartesian2polar.v(94) / pin "addrb[11]"
+SYN-5011 WARNING: Undriven pin: model "fpga_top" / inst "u_ahb_foc_controller/u_foc_controller/u_foc_top/u_cartesian2polar/mux4_syn_1" in ../../RTL/foc/cartesian2polar.v(94) / pin "addrb[10]"
+SYN-5011 WARNING: Undriven pin: model "fpga_top" / inst "u_ahb_foc_controller/u_foc_controller/u_foc_top/u_cartesian2polar/mux4_syn_1" in ../../RTL/foc/cartesian2polar.v(94) / pin "addrb[9]"
+SYN-5011 WARNING: Undriven pin: model "fpga_top" / inst "u_ahb_foc_controller/u_foc_controller/u_foc_top/u_cartesian2polar/mux4_syn_1" in ../../RTL/foc/cartesian2polar.v(94) / pin "addrb[8]"
+SYN-5011 WARNING: Undriven pin: model "fpga_top" / inst "u_ahb_foc_controller/u_foc_controller/u_foc_top/u_cartesian2polar/mux4_syn_1" in ../../RTL/foc/cartesian2polar.v(94) / pin "addrb[7]"
+SYN-5011 WARNING: Undriven pin: model "fpga_top" / inst "u_ahb_foc_controller/u_foc_controller/u_foc_top/u_cartesian2polar/mux4_syn_1" in ../../RTL/foc/cartesian2polar.v(94) / pin "addrb[6]"
+SYN-5011 WARNING: Undriven pin: model "fpga_top" / inst "u_ahb_foc_controller/u_foc_controller/u_foc_top/u_cartesian2polar/mux4_syn_1" in ../../RTL/foc/cartesian2polar.v(94) / pin "addrb[5]"
+SYN-5011 WARNING: Undriven pin: model "fpga_top" / inst "u_ahb_foc_controller/u_foc_controller/u_foc_top/u_cartesian2polar/mux4_syn_1" in ../../RTL/foc/cartesian2polar.v(94) / pin "addrb[4]"
+SYN-5011 WARNING: Undriven pin: model "fpga_top" / inst "u_ahb_foc_controller/u_foc_controller/u_foc_top/u_cartesian2polar/mux4_syn_1" in ../../RTL/foc/cartesian2polar.v(94) / pin "addrb[3]"
+SYN-5011 Similar messages will be suppressed.
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_ahb_foc_controller/O_ahb_hresp[1]_syn_3" in ../../ahb_foc_controller.v(15)
+SYN-5014 WARNING: the net's pin: pin "i" in ../../ahb_foc_controller.v(15)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_ahb_foc_controller/O_ahb_hresp[0]_syn_3" in ../../ahb_foc_controller.v(15)
+SYN-5014 WARNING: the net's pin: pin "i" in ../../ahb_foc_controller.v(15)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_ahb_foc_controller/S_hall_step[0]" in ../../ahb_foc_controller.v(113)
+SYN-5014 WARNING: the net's pin: pin "d" in ../../ahb_foc_controller.v(285)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_ahb_foc_controller/u_foc_controller/S_hall_angle_ele[11]" in ../../RTL/fpga_top.v(86)
+SYN-5014 WARNING: the net's pin: pin "i1" in ../../RTL/fpga_top.v(88)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_ahb_foc_controller/u_foc_controller/S_hall_angle_ele[10]" in ../../RTL/fpga_top.v(86)
+SYN-5014 WARNING: the net's pin: pin "i1" in ../../RTL/fpga_top.v(88)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_ahb_foc_controller/u_foc_controller/S_hall_angle_ele[9]" in ../../RTL/fpga_top.v(86)
+SYN-5014 WARNING: the net's pin: pin "i1" in ../../RTL/fpga_top.v(88)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_ahb_foc_controller/u_foc_controller/S_hall_angle_ele[8]" in ../../RTL/fpga_top.v(86)
+SYN-5014 WARNING: the net's pin: pin "i1" in ../../RTL/fpga_top.v(88)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_ahb_foc_controller/u_foc_controller/S_hall_angle_ele[7]" in ../../RTL/fpga_top.v(86)
+SYN-5014 WARNING: the net's pin: pin "i1" in ../../RTL/fpga_top.v(88)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_ahb_foc_controller/u_foc_controller/S_hall_angle_ele[6]" in ../../RTL/fpga_top.v(86)
+SYN-5014 WARNING: the net's pin: pin "i1" in ../../RTL/fpga_top.v(88)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_ahb_foc_controller/u_foc_controller/S_hall_angle_ele[5]" in ../../RTL/fpga_top.v(86)
+SYN-5014 WARNING: the net's pin: pin "i1" in ../../RTL/fpga_top.v(88)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_ahb_foc_controller/u_foc_controller/S_hall_angle_ele[4]" in ../../RTL/fpga_top.v(86)
+SYN-5014 WARNING: the net's pin: pin "i1" in ../../RTL/fpga_top.v(88)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_ahb_foc_controller/u_foc_controller/S_hall_angle_ele[3]" in ../../RTL/fpga_top.v(86)
+SYN-5014 WARNING: the net's pin: pin "i1" in ../../RTL/fpga_top.v(88)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_ahb_foc_controller/u_foc_controller/S_hall_angle_ele[2]" in ../../RTL/fpga_top.v(86)
+SYN-5014 WARNING: the net's pin: pin "i1" in ../../RTL/fpga_top.v(88)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_ahb_foc_controller/u_foc_controller/S_hall_angle_ele[1]" in ../../RTL/fpga_top.v(86)
+SYN-5014 WARNING: the net's pin: pin "i1" in ../../RTL/fpga_top.v(88)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_ahb_foc_controller/u_foc_controller/S_hall_angle_ele[0]" in ../../RTL/fpga_top.v(86)
+SYN-5014 WARNING: the net's pin: pin "i1" in ../../RTL/fpga_top.v(88)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_ahb_foc_controller/u_foc_controller/S_hall_angle_mec[11]" in ../../RTL/fpga_top.v(90)
+SYN-5014 WARNING: the net's pin: pin "i1" in ../../RTL/fpga_top.v(92)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_ahb_foc_controller/u_foc_controller/S_hall_angle_mec[10]" in ../../RTL/fpga_top.v(90)
+SYN-5014 WARNING: the net's pin: pin "i1" in ../../RTL/fpga_top.v(92)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_ahb_foc_controller/u_foc_controller/S_hall_angle_mec[9]" in ../../RTL/fpga_top.v(90)
+SYN-5014 WARNING: the net's pin: pin "i1" in ../../RTL/fpga_top.v(92)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_ahb_foc_controller/u_foc_controller/S_hall_angle_mec[8]" in ../../RTL/fpga_top.v(90)
+SYN-5014 WARNING: the net's pin: pin "i1" in ../../RTL/fpga_top.v(92)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_ahb_foc_controller/u_foc_controller/S_hall_angle_mec[7]" in ../../RTL/fpga_top.v(90)
+SYN-5014 WARNING: the net's pin: pin "i1" in ../../RTL/fpga_top.v(92)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_ahb_foc_controller/u_foc_controller/S_hall_angle_mec[6]" in ../../RTL/fpga_top.v(90)
+SYN-5014 WARNING: the net's pin: pin "i1" in ../../RTL/fpga_top.v(92)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_ahb_foc_controller/u_foc_controller/S_hall_angle_mec[5]" in ../../RTL/fpga_top.v(90)
+SYN-5014 WARNING: the net's pin: pin "i1" in ../../RTL/fpga_top.v(92)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_ahb_foc_controller/u_foc_controller/S_hall_angle_mec[4]" in ../../RTL/fpga_top.v(90)
+SYN-5014 WARNING: the net's pin: pin "i1" in ../../RTL/fpga_top.v(92)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_ahb_foc_controller/u_foc_controller/S_hall_angle_mec[3]" in ../../RTL/fpga_top.v(90)
+SYN-5014 WARNING: the net's pin: pin "i1" in ../../RTL/fpga_top.v(92)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_ahb_foc_controller/u_foc_controller/S_hall_angle_mec[2]" in ../../RTL/fpga_top.v(90)
+SYN-5014 WARNING: the net's pin: pin "i1" in ../../RTL/fpga_top.v(92)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_ahb_foc_controller/u_foc_controller/S_hall_angle_mec[1]" in ../../RTL/fpga_top.v(90)
+SYN-5014 WARNING: the net's pin: pin "i1" in ../../RTL/fpga_top.v(92)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_ahb_foc_controller/u_foc_controller/S_hall_angle_mec[0]" in ../../RTL/fpga_top.v(90)
+SYN-5014 WARNING: the net's pin: pin "i1" in ../../RTL/fpga_top.v(92)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_mcu/apb_prdata_down[31]" in ../../al_ip/MCU.v(78)
+SYN-5014 WARNING: the net's pin: pin "apb_prdata[31]" in ../../al_ip/MCU.v(126)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_mcu/apb_prdata_down[30]" in ../../al_ip/MCU.v(78)
+SYN-5014 WARNING: the net's pin: pin "apb_prdata[30]" in ../../al_ip/MCU.v(126)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_mcu/apb_prdata_down[29]" in ../../al_ip/MCU.v(78)
+SYN-5014 WARNING: the net's pin: pin "apb_prdata[29]" in ../../al_ip/MCU.v(126)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_mcu/apb_prdata_down[28]" in ../../al_ip/MCU.v(78)
+SYN-5014 WARNING: the net's pin: pin "apb_prdata[28]" in ../../al_ip/MCU.v(126)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_mcu/apb_prdata_down[27]" in ../../al_ip/MCU.v(78)
+SYN-5014 WARNING: the net's pin: pin "apb_prdata[27]" in ../../al_ip/MCU.v(126)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_mcu/apb_prdata_down[26]" in ../../al_ip/MCU.v(78)
+SYN-5014 WARNING: the net's pin: pin "apb_prdata[26]" in ../../al_ip/MCU.v(126)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_mcu/apb_prdata_down[25]" in ../../al_ip/MCU.v(78)
+SYN-5014 WARNING: the net's pin: pin "apb_prdata[25]" in ../../al_ip/MCU.v(126)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_mcu/apb_prdata_down[24]" in ../../al_ip/MCU.v(78)
+SYN-5014 WARNING: the net's pin: pin "apb_prdata[24]" in ../../al_ip/MCU.v(126)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_mcu/apb_prdata_down[23]" in ../../al_ip/MCU.v(78)
+SYN-5014 WARNING: the net's pin: pin "apb_prdata[23]" in ../../al_ip/MCU.v(126)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_mcu/apb_prdata_down[22]" in ../../al_ip/MCU.v(78)
+SYN-5014 WARNING: the net's pin: pin "apb_prdata[22]" in ../../al_ip/MCU.v(126)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_mcu/apb_prdata_down[21]" in ../../al_ip/MCU.v(78)
+SYN-5014 WARNING: the net's pin: pin "apb_prdata[21]" in ../../al_ip/MCU.v(126)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_mcu/apb_prdata_down[20]" in ../../al_ip/MCU.v(78)
+SYN-5014 WARNING: the net's pin: pin "apb_prdata[20]" in ../../al_ip/MCU.v(126)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_mcu/apb_prdata_down[19]" in ../../al_ip/MCU.v(78)
+SYN-5014 WARNING: the net's pin: pin "apb_prdata[19]" in ../../al_ip/MCU.v(126)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_mcu/apb_prdata_down[18]" in ../../al_ip/MCU.v(78)
+SYN-5014 WARNING: the net's pin: pin "apb_prdata[18]" in ../../al_ip/MCU.v(126)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_mcu/apb_prdata_down[17]" in ../../al_ip/MCU.v(78)
+SYN-5014 WARNING: the net's pin: pin "apb_prdata[17]" in ../../al_ip/MCU.v(126)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_mcu/apb_prdata_down[16]" in ../../al_ip/MCU.v(78)
+SYN-5014 WARNING: the net's pin: pin "apb_prdata[16]" in ../../al_ip/MCU.v(126)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_mcu/apb_prdata_down[15]" in ../../al_ip/MCU.v(78)
+SYN-5014 WARNING: the net's pin: pin "apb_prdata[15]" in ../../al_ip/MCU.v(126)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_mcu/apb_prdata_down[14]" in ../../al_ip/MCU.v(78)
+SYN-5014 WARNING: the net's pin: pin "apb_prdata[14]" in ../../al_ip/MCU.v(126)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_mcu/apb_prdata_down[13]" in ../../al_ip/MCU.v(78)
+SYN-5014 WARNING: the net's pin: pin "apb_prdata[13]" in ../../al_ip/MCU.v(126)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_mcu/apb_prdata_down[12]" in ../../al_ip/MCU.v(78)
+SYN-5014 WARNING: the net's pin: pin "apb_prdata[12]" in ../../al_ip/MCU.v(126)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_mcu/apb_prdata_down[11]" in ../../al_ip/MCU.v(78)
+SYN-5014 WARNING: the net's pin: pin "apb_prdata[11]" in ../../al_ip/MCU.v(126)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_mcu/apb_prdata_down[10]" in ../../al_ip/MCU.v(78)
+SYN-5014 WARNING: the net's pin: pin "apb_prdata[10]" in ../../al_ip/MCU.v(126)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_mcu/apb_prdata_down[9]" in ../../al_ip/MCU.v(78)
+SYN-5014 WARNING: the net's pin: pin "apb_prdata[9]" in ../../al_ip/MCU.v(126)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_mcu/apb_prdata_down[8]" in ../../al_ip/MCU.v(78)
+SYN-5014 WARNING: the net's pin: pin "apb_prdata[8]" in ../../al_ip/MCU.v(126)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_mcu/apb_prdata_down[7]" in ../../al_ip/MCU.v(78)
+SYN-5014 WARNING: the net's pin: pin "apb_prdata[7]" in ../../al_ip/MCU.v(126)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_mcu/apb_prdata_down[6]" in ../../al_ip/MCU.v(78)
+SYN-5014 WARNING: the net's pin: pin "apb_prdata[6]" in ../../al_ip/MCU.v(126)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_mcu/apb_prdata_down[5]" in ../../al_ip/MCU.v(78)
+SYN-5014 WARNING: the net's pin: pin "apb_prdata[5]" in ../../al_ip/MCU.v(126)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_mcu/apb_prdata_down[4]" in ../../al_ip/MCU.v(78)
+SYN-5014 WARNING: the net's pin: pin "apb_prdata[4]" in ../../al_ip/MCU.v(126)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_mcu/apb_prdata_down[3]" in ../../al_ip/MCU.v(78)
+SYN-5014 WARNING: the net's pin: pin "apb_prdata[3]" in ../../al_ip/MCU.v(126)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_mcu/apb_prdata_down[2]" in ../../al_ip/MCU.v(78)
+SYN-5014 WARNING: the net's pin: pin "apb_prdata[2]" in ../../al_ip/MCU.v(126)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_mcu/apb_prdata_down[1]" in ../../al_ip/MCU.v(78)
+SYN-5014 WARNING: the net's pin: pin "apb_prdata[1]" in ../../al_ip/MCU.v(126)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_mcu/apb_prdata_down[0]" in ../../al_ip/MCU.v(78)
+SYN-5014 WARNING: the net's pin: pin "apb_prdata[0]" in ../../al_ip/MCU.v(126)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_mcu/clic_irq[15]" in ../../al_ip/MCU.v(75)
+SYN-5014 WARNING: the net's pin: pin "clic_irq[15]" in ../../al_ip/MCU.v(126)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_mcu/clic_irq[14]" in ../../al_ip/MCU.v(75)
+SYN-5014 WARNING: the net's pin: pin "clic_irq[14]" in ../../al_ip/MCU.v(126)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_mcu/clic_irq[13]" in ../../al_ip/MCU.v(75)
+SYN-5014 WARNING: the net's pin: pin "clic_irq[13]" in ../../al_ip/MCU.v(126)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_mcu/clic_irq[12]" in ../../al_ip/MCU.v(75)
+SYN-5014 WARNING: the net's pin: pin "clic_irq[12]" in ../../al_ip/MCU.v(126)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_mcu/clic_irq[11]" in ../../al_ip/MCU.v(75)
+SYN-5014 WARNING: the net's pin: pin "clic_irq[11]" in ../../al_ip/MCU.v(126)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_mcu/clic_irq[10]" in ../../al_ip/MCU.v(75)
+SYN-5014 WARNING: the net's pin: pin "clic_irq[10]" in ../../al_ip/MCU.v(126)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_mcu/clic_irq[9]" in ../../al_ip/MCU.v(75)
+SYN-5014 WARNING: the net's pin: pin "clic_irq[9]" in ../../al_ip/MCU.v(126)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_mcu/clic_irq[8]" in ../../al_ip/MCU.v(75)
+SYN-5014 WARNING: the net's pin: pin "clic_irq[8]" in ../../al_ip/MCU.v(126)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_mcu/clic_irq[7]" in ../../al_ip/MCU.v(75)
+SYN-5014 WARNING: the net's pin: pin "clic_irq[7]" in ../../al_ip/MCU.v(126)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_mcu/clic_irq[6]" in ../../al_ip/MCU.v(75)
+SYN-5014 WARNING: the net's pin: pin "clic_irq[6]" in ../../al_ip/MCU.v(126)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_mcu/clic_irq[5]" in ../../al_ip/MCU.v(75)
+SYN-5014 WARNING: the net's pin: pin "clic_irq[5]" in ../../al_ip/MCU.v(126)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_mcu/clic_irq[4]" in ../../al_ip/MCU.v(75)
+SYN-5014 WARNING: the net's pin: pin "clic_irq[4]" in ../../al_ip/MCU.v(126)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_mcu/clic_irq[3]" in ../../al_ip/MCU.v(75)
+SYN-5014 WARNING: the net's pin: pin "clic_irq[3]" in ../../al_ip/MCU.v(126)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_mcu/clic_irq[2]" in ../../al_ip/MCU.v(75)
+SYN-5014 WARNING: the net's pin: pin "clic_irq[2]" in ../../al_ip/MCU.v(126)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_mcu/clic_irq[1]" in ../../al_ip/MCU.v(75)
+SYN-5014 WARNING: the net's pin: pin "clic_irq[1]" in ../../al_ip/MCU.v(126)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_mcu/clic_irq[0]" in ../../al_ip/MCU.v(75)
+SYN-5014 WARNING: the net's pin: pin "clic_irq[0]" in ../../al_ip/MCU.v(126)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_mcu/apb_pready_down" in ../../al_ip/MCU.v(85)
+SYN-5014 WARNING: the net's pin: pin "apb_pready_i" in ../../al_ip/MCU.v(126)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_mcu/apb_pslverr_down" in ../../al_ip/MCU.v(84)
+SYN-5014 WARNING: the net's pin: pin "apb_pslverr_i" in ../../al_ip/MCU.v(126)
+SYN-5013 WARNING: Undriven net: model "fpga_top" / net "u_mcu/nmi" in ../../al_ip/MCU.v(74)
+SYN-5014 WARNING: the net's pin: pin "nmi" in ../../al_ip/MCU.v(126)
+SYN-5025 WARNING: Using 0 for all undriven pins and nets
+SYN-1032 : 8566/281 useful/useless nets, 7300/391 useful/useless insts
+SYN-1014 : Optimize round 1
+SYN-1017 : Remove 4 const input seq instances
+SYN-1002 :     u_ahb_foc_controller/reg1_syn_14
+SYN-1002 :     u_ahb_foc_controller/reg22_syn_2
+SYN-1002 :     u_ahb_foc_controller/u_foc_controller/reg3_syn_10
+SYN-1002 :     u_ahb_foc_controller/u_foc_controller/u_foc_top/u_clark_tr/reg0_syn_2
+SYN-1019 : Optimized 1344 mux instances.
+SYN-1021 : Optimized 262 onehot mux instances.
+SYN-1020 : Optimized 175 distributor mux.
+SYN-1001 : Optimize 15 less-than instances
+SYN-1019 : Optimized 1 mux instances.
+SYN-1016 : Merged 423 instances.
+SYN-1015 : Optimize round 1, 4814 better
+SYN-1014 : Optimize round 2
+SYN-1044 : Optimized 2 inv instances.
+SYN-1032 : 6997/61 useful/useless nets, 5731/289 useful/useless insts
+SYN-1017 : Remove 1 const input seq instances
+SYN-1002 :     u_ahb_foc_controller/u_foc_controller/u_foc_top/u_svpwm/reg11_syn_12
+SYN-1020 : Optimized 3 distributor mux.
+SYN-1019 : Optimized 1 mux instances.
+SYN-1016 : Merged 35 instances.
+SYN-1015 : Optimize round 2, 451 better
+SYN-1032 : 6987/0 useful/useless nets, 5721/14 useful/useless insts
+SYN-3003 : Optimized 7 equivalent DFF(s)
+SYN-3003 : Optimized 7 equivalent DFF(s)
+SYN-3003 : Optimized 7 equivalent DFF(s)
+SYN-3008 : Optimized 2 const1 DFF(s)
+SYN-3003 : Optimized 1 equivalent DFF(s)
+SYN-3003 : Optimized 1 equivalent DFF(s)
+SYN-3003 : Optimized 1 equivalent DFF(s)
+SYN-3003 : Optimized 1 equivalent DFF(s)
+SYN-3003 : Optimized 3 equivalent DFF(s)
+SYN-3003 : Optimized 14 equivalent DFF(s)
+SYN-3003 : Optimized 9 equivalent DFF(s)
+SYN-3003 : Optimized 9 equivalent DFF(s)
+SYN-3003 : Optimized 14 equivalent DFF(s)
+SYN-3003 : Optimized 9 equivalent DFF(s)
+SYN-3003 : Optimized 9 equivalent DFF(s)
+SYN-3003 : Optimized 1 equivalent DFF(s)
+SYN-3004 : Optimized 21 const0 DFF(s)
+SYN-3003 : Optimized 9 equivalent DFF(s)
+SYN-3003 : Optimized 9 equivalent DFF(s)
+SYN-1032 : 6709/278 useful/useless nets, 5468/119 useful/useless insts
+SYN-1014 : Optimize round 1
+SYN-1044 : Optimized 2 inv instances.
+SYN-1032 : 6705/2 useful/useless nets, 5464/0 useful/useless insts
+SYN-1019 : Optimized 1 mux instances.
+SYN-1016 : Merged 7 instances.
+SYN-1015 : Optimize round 1, 28 better
+SYN-1014 : Optimize round 2
+SYN-1032 : 6696/6 useful/useless nets, 5456/0 useful/useless insts
+SYN-1015 : Optimize round 2, 0 better
+RUN-1003 : finish command "optimize_rtl" in  7.834042s wall, 3.000000s user + 0.187500s system = 3.187500s CPU (40.7%)
+
+RUN-1004 : used memory is 206 MB, reserved memory is 176 MB, peak memory is 235 MB
+RUN-1002 : start command "report_area -file FOC_Controller_rtl.area"
+RUN-1001 : standard
+***Report Model: fpga_top Device: SF1S60CG121I***
+
+IO Statistics
+#IO                        21
+  #input                   10
+  #output                  10
+  #inout                    1
+
+Gate Statistics
+#Basic gates             3212
+  #and                    283
+  #nand                     0
+  #or                     114
+  #nor                      0
+  #xor                      0
+  #xnor                     0
+  #buf                      0
+  #not                    115
+  #bufif1                   1
+  #MX21                   141
+  #FADD                     0
+  #DFF                   2558
+  #LATCH                    0
+#MACRO_ADD                120
+#MACRO_EQ                  56
+#MACRO_MULT                12
+#MACRO_MUX               1964
+#MACRO_OTHERS              11
+
+Report Hierarchy Area:
++----------------------------------------------------------------------+
+|Instance                  |Module             |gates  |seq    |macros |
++----------------------------------------------------------------------+
+|top                       |fpga_top           |654    |2558   |199    |
+|  u_ahb_foc_controller    |ahb_foc_controller |653    |2558   |192    |
+|    u_foc_controller      |foc_controller     |484    |1466   |167    |
+|      u_adc_ad7928        |adc_ad7928         |45     |76     |11     |
+|      u_as5600_encoder    |as5600_encoder     |115    |73     |28     |
+|        u_as5600_read     |i2c_register_read  |115    |61     |24     |
+|      u_foc_top           |foc_top            |319    |1112   |114    |
+|        u_adc_sn_ctrl     |hold_detect        |6      |10     |3      |
+|        u_cartesian2polar |cartesian2polar    |10     |189    |25     |
+|        u_clark_tr        |clark_tr           |0      |128    |11     |
+|        u_id_pi           |pi_controller      |74     |120    |9      |
+|        u_iq_pi           |pi_controller      |74     |115    |9      |
+|        u_park_tr         |park_tr            |14     |250    |16     |
+|          u_sincos        |sincos             |14     |88     |10     |
+|        u_svpwm           |svpwm              |136    |207    |30     |
+|  u_mcu                   |MCU                |0      |0      |6      |
+|  u_pll                   |pll                |0      |0      |1      |
++----------------------------------------------------------------------+
+
+RUN-1002 : start command "export_db FOC_Controller_rtl.db"
+RUN-1001 : Exported /
+RUN-1001 : Exported flow parameters
+RUN-1001 : Exported libs
+RUN-1001 : Exported entities
+RUN-1001 : Exported ports
+RUN-1001 : Exported pins
+RUN-1001 : Exported instances
+RUN-1001 : Exported nets
+RUN-1001 : Exported buses
+RUN-1001 : Exported models
+RUN-1001 : Exported congestions
+RUN-1001 : Exported violations
+RUN-1001 : Exported IO constraints
+RUN-1001 : Exported Inst constraints
+RUN-1002 : start command "optimize_gate -maparea FOC_Controller_gate.area"
+RUN-1001 : Open license file D:/Anlogic/TD5.6.2/license/Anlogic.lic
+RUN-1002 : start command "set_param flow thread 32"
+RUN-1001 : Print Global Property
+RUN-1001 : ---------------------------------------------------------------
+RUN-1001 :        Parameters        |  Settings  |  Default Values  |  Note  
+RUN-1001 : ---------------------------------------------------------------
+RUN-1001 :          message         |  standard  |     standard     |        
+RUN-1001 :   mixed_pack_place_flow  |     on     |        on        |        
+RUN-1001 :        qor_monitor       |    off     |       off        |        
+RUN-1001 :        syn_ip_flow       |    off     |       off        |        
+RUN-1001 :          thread          |     32     |       auto       |   *    
+RUN-1001 : ---------------------------------------------------------------
+RUN-1002 : start command "set_param gate opt_area high"
+RUN-1002 : start command "set_param gate opt_timing high"
+RUN-1002 : start command "set_param gate pack_effort high"
+RUN-1002 : start command "set_param gate pack_seq_in_io on"
+RUN-1001 : Print Gate Property
+RUN-1001 : ------------------------------------------------------------------
+RUN-1001 :          Parameters         |  Settings  |  Default Values  |  Note  
+RUN-1001 : ------------------------------------------------------------------
+RUN-1001 :         cascade_dsp         |    off     |       off        |        
+RUN-1001 :         cascade_eram        |    off     |       off        |        
+RUN-1001 :        gate_sim_model       |    off     |       off        |        
+RUN-1001 :        map_sim_model        |    off     |       off        |        
+RUN-1001 :         map_strategy        |     1      |        1         |        
+RUN-1001 :           opt_area          |    high    |      medium      |   *    
+RUN-1001 :          opt_timing         |    high    |       auto       |   *    
+RUN-1001 :         pack_effort         |    high    |      medium      |   *    
+RUN-1001 :      pack_lslice_ripple     |     on     |        on        |        
+RUN-1001 :   pack_lslice_ripple_ratio  |    0.5     |       0.5        |        
+RUN-1001 :        pack_seq_in_io       |     on     |       auto       |   *    
+RUN-1001 :        ph1_mux_ratio        |    1.0     |       1.0        |        
+RUN-1001 :            report           |  standard  |     standard     |        
+RUN-1001 :           retiming          |    off     |       off        |        
+RUN-1001 : ------------------------------------------------------------------
+SYN-2002 : SF1_PHY_INTFLASH instance u_mcu/SF1_PHY_INTFLASH_inst.
+SYN-2001 : Map 27 IOs to PADs
+SYN-1032 : 6706/11 useful/useless nets, 5470/8 useful/useless insts
+RUN-1002 : start command "update_pll_param -module fpga_top"
+SYN-2501 : Processed 0 LOGIC_BUF instances.
+SYN-2501 : 1 BUFG to GCLK
+SYN-2501 : 1 MCU_JTAG to CONFIG
+SYN-2512 : LOGIC BRAM "u_ahb_foc_controller/u_foc_controller/u_foc_top/u_cartesian2polar/mux4_syn_1"
+SYN-2512 : LOGIC BRAM "u_ahb_foc_controller/u_foc_controller/u_foc_top/u_cartesian2polar/mux5_syn_1"
+SYN-2512 : LOGIC BRAM "u_ahb_foc_controller/u_foc_controller/u_foc_top/u_park_tr/u_sincos/mux21_syn_1"
+SYN-2512 : LOGIC BRAM "u_ahb_foc_controller/u_foc_controller/u_foc_top/u_svpwm/mux54_syn_1"
+SYN-2571 : Map 12 macro multiplier
+SYN-2571 : Optimize after map_dsp, round 1
+SYN-1032 : 6770/52 useful/useless nets, 5526/2 useful/useless insts
+SYN-1016 : Merged 41 instances.
+SYN-2571 : Optimize after map_dsp, round 1, 67 better
+SYN-2571 : Optimize after map_dsp, round 2
+SYN-2571 : Optimize after map_dsp, round 2, 0 better
+SYN-2571 : Map 1 macro multiplier
+SYN-2571 : Map 1 macro multiplier
+SYN-2561 : Map multiplier u_ahb_foc_controller/u_foc_controller/u_foc_top/u_iq_pi/mult1 into carry-chain logic
+SYN-1001 : Throwback 42 control mux instances
+SYN-2501 : Optimize round 1
+SYN-1032 : 7679/314 useful/useless nets, 6460/282 useful/useless insts
+SYN-1016 : Merged 891 instances.
+SYN-2501 : Optimize round 1, 2341 better
+SYN-2501 : Optimize round 2
+SYN-2501 : Optimize round 2, 0 better
+SYN-2501 : Map 122 macro adder
+SYN-3001 : Mapper mapped 7 instances into 1 LUTs, name keeping = 100%.
+SYN-3001 : Mapper mapped 7 instances into 1 LUTs, name keeping = 100%.
+SYN-3001 : Mapper mapped 7 instances into 1 LUTs, name keeping = 100%.
+SYN-3001 : Mapper mapped 7 instances into 1 LUTs, name keeping = 100%.
+SYN-3001 : Mapper mapped 7 instances into 1 LUTs, name keeping = 100%.
+SYN-3001 : Mapper mapped 7 instances into 1 LUTs, name keeping = 100%.
+SYN-2501 : Inferred 5 ROM instances
+SYN-1019 : Optimized 80 mux instances.
+SYN-1016 : Merged 612 instances.
+SYN-1032 : 8823/91 useful/useless nets, 7606/20 useful/useless insts
+SYN-3001 : Running gate level optimization.
+SYN-2581 : Mapping with K=5, #lut = 1775 (3.71), #lev = 6 (3.06)
+SYN-2551 : Post LUT mapping optimization.
+SYN-2581 : Mapping with K=5, #lut = 1778 (3.65), #lev = 5 (2.99)
+SYN-3001 : Logic optimization runtime opt =   0.42 sec, map =   0.00 sec
+SYN-3001 : Mapper mapped 4182 instances into 1785 LUTs, name keeping = 53%.
+SYN-3001 : Mapper removed 3 lut buffers
+RUN-1002 : start command "report_area -file FOC_Controller_gate.area"
+RUN-1001 : standard
+***Report Model: fpga_top Device: SF1S60CG121I***
+
+IO Statistics
+#IO                        21
+  #input                   10
+  #output                  10
+  #inout                    1
+
+LUT Statistics
+#Total_luts              2805
+  #lut4                  1356
+  #lut5                   431
+  #lut6                     0
+  #lut5_mx41                0
+  #lut4_alu1b            1018
+
+Utilization Statistics
+#lut                     2805   out of   5824   48.16%
+#reg                     2273   out of   5824   39.03%
+#le                         0
+#dsp                       10   out of     10  100.00%
+#bram                      11   out of     26   42.31%
+  #bram9k                  11
+  #fifo9k                   0
+#hard-ip                    1
+  #mcu                      1   out of      1  100.00%
+  #dsc                      0   out of      1    0.00%
+  #dsi                      0   out of      2    0.00%
+  #psram controller         0   out of      2    0.00%
+#pad                       21   out of     55   38.18%
+  #ireg                     2
+  #oreg                     7
+  #treg                     0
+#pll                        1   out of      2   50.00%
+
+Report Hierarchy Area:
++-------------------------------------------------------------------------------------------+
+|Instance                  |Module             |lut     |ripple  |seq     |bram    |dsp     |
++-------------------------------------------------------------------------------------------+
+|top                       |fpga_top           |1787    |1018    |2282    |11      |10      |
+|  u_ahb_foc_controller    |ahb_foc_controller |1786    |1018    |2273    |11      |10      |
+|    u_foc_controller      |foc_controller     |959     |1018    |1181    |11      |10      |
+|      u_adc_ad7928        |adc_ad7928         |45      |91      |73      |0       |0       |
+|      u_as5600_encoder    |as5600_encoder     |96      |52      |71      |0       |1       |
+|        u_as5600_read     |i2c_register_read  |84      |26      |59      |0       |0       |
+|      u_foc_top           |foc_top            |754     |712     |832     |11      |9       |
+|        u_adc_sn_ctrl     |hold_detect        |12      |8       |10      |0       |0       |
+|        u_cartesian2polar |cartesian2polar    |324     |97      |182     |8       |1       |
+|        u_clark_tr        |clark_tr           |0       |140     |96      |0       |0       |
+|        u_id_pi           |pi_controller      |45      |53      |88      |0       |2       |
+|        u_iq_pi           |pi_controller      |76      |71      |99      |0       |1       |
+|        u_park_tr         |park_tr            |98      |83      |90      |2       |4       |
+|          u_sincos        |sincos             |98      |17      |56      |2       |0       |
+|        u_svpwm           |svpwm              |158     |221     |174     |1       |1       |
+|  u_mcu                   |MCU                |0       |0       |0       |0       |0       |
+|  u_pll                   |pll                |0       |0       |0       |0       |0       |
++-------------------------------------------------------------------------------------------+
+
+SYN-1001 : Packing model "fpga_top" ...
+SYN-4010 : Pack lib has 65 rtl pack models with 28 top pack blocks
+SYN-1014 : Optimize round 1
+SYN-1015 : Optimize round 1, 0 better
+SYN-4002 : Packing 2273 DFF/LATCH to SEQ ...
+SYN-4009 : Pack 24 carry chain into lslice
+SYN-4007 : Packing 508 adder to BLE ...
+SYN-4008 : Packed 508 adder and 145 SEQ to BLE.
+SYN-4007 : Packing 0 gate4 to BLE ...
+SYN-4008 : Packed 0 gate4 and 0 SEQ to BLE.
+SYN-4012 : Packed 0 FxMUX
+RUN-1003 : finish command "optimize_gate -maparea FOC_Controller_gate.area" in  7.547801s wall, 2.843750s user + 0.078125s system = 2.921875s CPU (38.7%)
+
+RUN-1004 : used memory is 215 MB, reserved memory is 182 MB, peak memory is 273 MB
+RUN-1002 : start command "legalize_phy_inst"
+SYN-1011 : Flatten model fpga_top
+SYN-5044 CRITICAL-WARNING: The net's pin: pin "apb_prdata[31]" in ../../al_ip/MCU.v(126) is connected to a constant net, which can not be set to hardwire. It will disconnect.
+SYN-5044 CRITICAL-WARNING: The net's pin: pin "apb_prdata[30]" in ../../al_ip/MCU.v(126) is connected to a constant net, which can not be set to hardwire. It will disconnect.
+SYN-5044 CRITICAL-WARNING: The net's pin: pin "apb_prdata[29]" in ../../al_ip/MCU.v(126) is connected to a constant net, which can not be set to hardwire. It will disconnect.
+SYN-5044 CRITICAL-WARNING: The net's pin: pin "apb_prdata[28]" in ../../al_ip/MCU.v(126) is connected to a constant net, which can not be set to hardwire. It will disconnect.
+SYN-5044 CRITICAL-WARNING: The net's pin: pin "apb_prdata[27]" in ../../al_ip/MCU.v(126) is connected to a constant net, which can not be set to hardwire. It will disconnect.
+SYN-5044 CRITICAL-WARNING: The net's pin: pin "apb_prdata[26]" in ../../al_ip/MCU.v(126) is connected to a constant net, which can not be set to hardwire. It will disconnect.
+SYN-5044 CRITICAL-WARNING: The net's pin: pin "apb_prdata[25]" in ../../al_ip/MCU.v(126) is connected to a constant net, which can not be set to hardwire. It will disconnect.
+SYN-5044 CRITICAL-WARNING: The net's pin: pin "apb_prdata[24]" in ../../al_ip/MCU.v(126) is connected to a constant net, which can not be set to hardwire. It will disconnect.
+SYN-5044 CRITICAL-WARNING: The net's pin: pin "apb_prdata[23]" in ../../al_ip/MCU.v(126) is connected to a constant net, which can not be set to hardwire. It will disconnect.
+SYN-5044 CRITICAL-WARNING: The net's pin: pin "apb_prdata[22]" in ../../al_ip/MCU.v(126) is connected to a constant net, which can not be set to hardwire. It will disconnect.
+SYN-5044 Similar messages will be suppressed.
+RUN-1002 : start command "export_db FOC_Controller_gate.db"
+RUN-1001 : Exported /
+RUN-1001 : Exported flow parameters
+RUN-1001 : Exported libs
+RUN-1001 : Exported entities
+RUN-1001 : Exported ports
+RUN-1001 : Exported pins
+RUN-1001 : Exported instances
+RUN-1001 : Exported nets
+RUN-1001 : Exported buses
+RUN-1001 : Exported models
+RUN-1001 : Exported congestions
+RUN-1001 : Exported violations
+RUN-1001 : Exported IO constraints
+RUN-1001 : Exported Inst constraints
+RUN-1002 : start command "backup_run_log run.log ../.logs/syn_1/td_20231111_234651.log"

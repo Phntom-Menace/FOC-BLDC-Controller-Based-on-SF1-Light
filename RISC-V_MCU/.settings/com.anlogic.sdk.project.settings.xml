@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<projectSettings type="com.anlogic.sdk.project.settings">
+        
+    <stringAttribute key="com.anlogic.sdk.project.settings.template" value="com.anlogic.sdk.project.settings.template.sf1"/>
+    
+    <stringAttribute key="com.anlogic.sdk.project.settings.architecture" value="com.anlogic.sdk.project.settings.architecture.riscv"/>
+</projectSettings>

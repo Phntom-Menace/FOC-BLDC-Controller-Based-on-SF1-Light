@@ -1,0 +1,23 @@
+set_pin_assignment	{ LED0 }	{ LOCATION = J5; IOSTANDARD = LVCMOS18; DRIVESTRENGTH = 8; PULLTYPE = NONE; }
+set_pin_assignment	{ LED1 }	{ LOCATION = H5; IOSTANDARD = LVCMOS18; DRIVESTRENGTH = 8; PULLTYPE = NONE; }
+set_pin_assignment	{ LED2 }	{ LOCATION = G4; IOSTANDARD = LVCMOS18; DRIVESTRENGTH = 8; PULLTYPE = NONE; }
+set_pin_assignment	{ clk_25m }	{ LOCATION = D7; IOSTANDARD = LVCMOS18; PULLTYPE = PULLUP; }
+set_pin_assignment	{ hall_u }	{ LOCATION = G10; IOSTANDARD = LVCMOS18; PULLTYPE = PULLUP; }
+set_pin_assignment	{ hall_v }	{ LOCATION = H11; IOSTANDARD = LVCMOS18; PULLTYPE = PULLUP; }
+set_pin_assignment	{ hall_w }	{ LOCATION = H10; IOSTANDARD = LVCMOS18; PULLTYPE = PULLUP; }
+set_pin_assignment	{ pwm_a }	{ LOCATION = C10; IOSTANDARD = LVCMOS18; DRIVESTRENGTH = 8; PULLTYPE = NONE; }
+set_pin_assignment	{ pwm_b }	{ LOCATION = C11; IOSTANDARD = LVCMOS18; DRIVESTRENGTH = 8; PULLTYPE = NONE; }
+set_pin_assignment	{ pwm_c }	{ LOCATION = E11; IOSTANDARD = LVCMOS18; DRIVESTRENGTH = 8; PULLTYPE = NONE; }
+set_pin_assignment	{ pwm_en }	{ LOCATION = F11; IOSTANDARD = LVCMOS18; DRIVESTRENGTH = 8; PULLTYPE = NONE; }
+set_pin_assignment	{ rstn }	{ LOCATION = J2; IOSTANDARD = LVCMOS18; PULLTYPE = NONE; }
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,43 @@
+============================================================
+   Tang Dynasty, V5.6.71036
+      Copyright (c) 2012-2023 Anlogic Inc.
+   Executable = D:/Anlogic/TD5.6.2/bin/td.exe
+   Built at =   20:34:38 Mar 21 2023
+   Run by =     15597
+   Run Date =   Fri Nov 10 01:52:05 2023
+
+   Run on =     XR097-DELL-G7
+============================================================
+HDL-1007 : analyze verilog file RTL/fpga_top.v
+HDL-1007 : undeclared symbol 'S_idq_update', assumed default net type 'wire' in RTL/fpga_top.v(179)
+HDL-8007 ERROR: cannot find port 'O_hall_step' on this module in RTL/fpga_top.v(128)
+HDL-1007 : analyze verilog file RTL/fpga_top.v
+HDL-1007 : undeclared symbol 'S_idq_update', assumed default net type 'wire' in RTL/fpga_top.v(179)
+HDL-8007 ERROR: cannot find port 'O_hall_step' on this module in RTL/fpga_top.v(128)
+HDL-1007 : analyze verilog file RTL/fpga_top.v
+HDL-1007 : undeclared symbol 'S_idq_update', assumed default net type 'wire' in RTL/fpga_top.v(179)
+HDL-8007 ERROR: cannot find port 'I_id_aim' on this module in TOP_test.v(112)
+HDL-8007 ERROR: cannot find port 'I_iq_aim' on this module in TOP_test.v(113)
+HDL-8007 ERROR: cannot find port 'S_id' on this module in TOP_test.v(114)
+HDL-8007 ERROR: cannot find port 'S_iq' on this module in TOP_test.v(115)
+HDL-8007 ERROR: 'S_idq_update' is not a port in TOP_test.v(116)
+HDL-8007 ERROR: cannot find port 'S_encoder_angle' on this module in TOP_test.v(118)
+HDL-8007 ERROR: cannot find port 'S_hall_step' on this module in TOP_test.v(119)
+HDL-1007 : analyze verilog file RTL/fpga_top.v
+HDL-1007 : undeclared symbol 'S_idq_update', assumed default net type 'wire' in RTL/fpga_top.v(179)
+HDL-8007 ERROR: cannot find port 'I_id_aim' on this module in TOP_test.v(112)
+HDL-8007 ERROR: cannot find port 'I_iq_aim' on this module in TOP_test.v(113)
+HDL-8007 ERROR: cannot find port 'S_id' on this module in TOP_test.v(114)
+HDL-8007 ERROR: cannot find port 'S_iq' on this module in TOP_test.v(115)
+HDL-8007 ERROR: 'S_idq_update' is not a port in TOP_test.v(116)
+HDL-8007 ERROR: cannot find port 'S_encoder_angle' on this module in TOP_test.v(118)
+HDL-8007 ERROR: cannot find port 'S_hall_step' on this module in TOP_test.v(119)
+RUN-1001 : reset_run syn_1.
+RUN-1001 : launch_runs syn_1 -step opt_gate.
+RUN-1001 : reset_run phy_1.
+RUN-6001 WARNING: syn_1: run failed.
+HDL-1007 : analyze verilog file TOP_test.v
+RUN-1001 : reset_run syn_1.
+RUN-1001 : launch_runs syn_1 -step opt_gate.
+RUN-1001 : reset_run phy_1.
+RUN-6001 WARNING: syn_1: run failed.

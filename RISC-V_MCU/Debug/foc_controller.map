@@ -1,0 +1,1580 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(_udivdi3.o)
+                              ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/gettimeofday.o (__udivdi3)
+c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(_umoddi3.o)
+                              ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/gettimeofday.o (__umoddi3)
+c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(muldf3.o)
+                              ./application/main.o (__muldf3)
+c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(fixdfsi.o)
+                              ./application/main.o (__fixdfsi)
+c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(floatsidf.o)
+                              ./application/main.o (__floatsidf)
+c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(_clz.o)
+                              c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(_udivdi3.o) (__clz_tab)
+c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(_clzsi2.o)
+                              c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(muldf3.o) (__clzsi2)
+c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-atexit.o)
+                              ./sf1_sdk/SoC/anlogic/Common/Source/GCC/startup_anlogic.o (atexit)
+c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-fini.o)
+                              ./sf1_sdk/SoC/anlogic/Common/Source/GCC/startup_anlogic.o (__libc_fini_array)
+c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-init.o)
+                              ./sf1_sdk/SoC/anlogic/Common/Source/GCC/startup_anlogic.o (__libc_init_array)
+c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-printf.o)
+                              ./sf1_sdk/SoC/anlogic/Common/Source/system_nuclei.o (printf)
+c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-puts.o)
+                              ./sf1_sdk/SoC/anlogic/Common/Source/nuclei_common.o (puts)
+c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-sysisatty.o)
+                              ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/write.o (isatty)
+c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-wbuf.o)
+                              c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-puts.o) (__swbuf_r)
+c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-wsetup.o)
+                              c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-puts.o) (__swsetup_r)
+c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-__atexit.o)
+                              c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-atexit.o) (__register_exitproc)
+c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-__call_atexit.o)
+                              c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-__atexit.o) (__call_exitprocs)
+c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-fflush.o)
+                              c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-wbuf.o) (_fflush_r)
+c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-findfp.o)
+                              c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-printf.o) (__sinit)
+c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-fwalk.o)
+                              c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-findfp.o) (_fwalk)
+c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-impure.o)
+                              c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-fflush.o) (_global_impure_ptr)
+c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-makebuf.o)
+                              c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-wsetup.o) (__smakebuf_r)
+c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-memset.o)
+                              c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-findfp.o) (memset)
+c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-nano-freer.o)
+                              c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-wsetup.o) (_free_r)
+c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-nano-mallocr.o)
+                              c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-findfp.o) (_malloc_r)
+c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-nano-vfprintf.o)
+                              c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-printf.o) (_vfprintf_r)
+c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-sbrkr.o)
+                              c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-nano-mallocr.o) (_sbrk_r)
+c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-stdio.o)
+                              c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-findfp.o) (__sread)
+c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-writer.o)
+                              c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-stdio.o) (_write_r)
+c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-closer.o)
+                              c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-stdio.o) (_close_r)
+c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-fstatr.o)
+                              c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-makebuf.o) (_fstat_r)
+c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-fvwrite.o)
+                              c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-nano-vfprintf.o) (__sfvwrite_r)
+c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-isattyr.o)
+                              c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-makebuf.o) (_isatty_r)
+c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-lseekr.o)
+                              c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-stdio.o) (_lseek_r)
+c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-memchr.o)
+                              c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-nano-vfprintf.o) (memchr)
+c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-memcpy.o)
+                              c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-fvwrite.o) (memcpy)
+c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-memmove.o)
+                              c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-fvwrite.o) (memmove)
+c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-mlock.o)
+                              c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-nano-freer.o) (__malloc_lock)
+c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-nano-reallocr.o)
+                              c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-fvwrite.o) (_realloc_r)
+c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-nano-vfprintf_i.o)
+                              c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-nano-vfprintf.o) (_printf_i)
+c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-readr.o)
+                              c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-stdio.o) (_read_r)
+c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-reent.o)
+                              c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-sbrkr.o) (errno)
+c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-nano-msizer.o)
+                              c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-nano-reallocr.o) (_malloc_usable_size_r)
+
+Allocating common symbols
+Common symbol       size              file
+
+errno               0x4               c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-reent.o)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/close.o
+ .data          0x0000000000000000        0x0 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/close.o
+ .bss           0x0000000000000000        0x0 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/close.o
+ .text          0x0000000000000000        0x0 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/fstat.o
+ .data          0x0000000000000000        0x0 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/fstat.o
+ .bss           0x0000000000000000        0x0 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/fstat.o
+ .text          0x0000000000000000        0x0 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/gettimeofday.o
+ .data          0x0000000000000000        0x0 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/gettimeofday.o
+ .bss           0x0000000000000000        0x0 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/gettimeofday.o
+ .text._gettimeofday
+                0x0000000000000000      0x156 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/gettimeofday.o
+ .debug_info    0x0000000000000000      0xb87 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/gettimeofday.o
+ .debug_abbrev  0x0000000000000000      0x270 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/gettimeofday.o
+ .debug_aranges
+                0x0000000000000000       0x20 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/gettimeofday.o
+ .debug_ranges  0x0000000000000000       0x10 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/gettimeofday.o
+ .debug_line    0x0000000000000000      0x40d ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/gettimeofday.o
+ .debug_str     0x0000000000000000      0x68b ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/gettimeofday.o
+ .comment       0x0000000000000000       0x12 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/gettimeofday.o
+ .debug_frame   0x0000000000000000       0x50 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/gettimeofday.o
+ .riscv.attributes
+                0x0000000000000000       0x2b ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/gettimeofday.o
+ .text          0x0000000000000000        0x0 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/isatty.o
+ .data          0x0000000000000000        0x0 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/isatty.o
+ .bss           0x0000000000000000        0x0 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/isatty.o
+ .text          0x0000000000000000        0x0 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/lseek.o
+ .data          0x0000000000000000        0x0 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/lseek.o
+ .bss           0x0000000000000000        0x0 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/lseek.o
+ .text          0x0000000000000000        0x0 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/read.o
+ .data          0x0000000000000000        0x0 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/read.o
+ .bss           0x0000000000000000        0x0 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/read.o
+ .text          0x0000000000000000        0x0 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/sbrk.o
+ .data          0x0000000000000000        0x0 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/sbrk.o
+ .bss           0x0000000000000000        0x0 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/sbrk.o
+ .text          0x0000000000000000        0x0 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/write.o
+ .data          0x0000000000000000        0x0 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/write.o
+ .bss           0x0000000000000000        0x0 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/write.o
+ .text          0x0000000000000000        0x0 ./sf1_sdk/SoC/anlogic/Common/Source/GCC/intexc_anlogic.o
+ .data          0x0000000000000000        0x0 ./sf1_sdk/SoC/anlogic/Common/Source/GCC/intexc_anlogic.o
+ .bss           0x0000000000000000        0x0 ./sf1_sdk/SoC/anlogic/Common/Source/GCC/intexc_anlogic.o
+ .text          0x0000000000000000        0x0 ./sf1_sdk/SoC/anlogic/Common/Source/GCC/startup_anlogic.o
+ .data          0x0000000000000000        0x0 ./sf1_sdk/SoC/anlogic/Common/Source/GCC/startup_anlogic.o
+ .bss           0x0000000000000000        0x0 ./sf1_sdk/SoC/anlogic/Common/Source/GCC/startup_anlogic.o
+ .text          0x0000000000000000        0x0 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/anl_printf.o
+ .data          0x0000000000000000        0x0 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/anl_printf.o
+ .bss           0x0000000000000000        0x0 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/anl_printf.o
+ .text.anl_puts
+                0x0000000000000000       0x4a ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/anl_printf.o
+ .text          0x0000000000000000        0x0 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_gpio.o
+ .data          0x0000000000000000        0x0 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_gpio.o
+ .bss           0x0000000000000000        0x0 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_gpio.o
+ .text.gpio_iof_config
+                0x0000000000000000      0x162 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_gpio.o
+ .rodata.gpio_iof_config
+                0x0000000000000000       0x14 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_gpio.o
+ .text.gpio_enable_output
+                0x0000000000000000       0x52 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_gpio.o
+ .text.gpio_enable_input
+                0x0000000000000000       0x52 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_gpio.o
+ .text.gpio_output_od
+                0x0000000000000000       0x64 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_gpio.o
+ .text.gpio_output_pup
+                0x0000000000000000       0x64 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_gpio.o
+ .text.gpio_input_pue
+                0x0000000000000000       0x64 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_gpio.o
+ .text.gpio_input_pde
+                0x0000000000000000       0x64 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_gpio.o
+ .text.gpio_enable_event_rise
+                0x0000000000000000       0x3c ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_gpio.o
+ .text.gpio_enable_event_fall
+                0x0000000000000000       0x3c ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_gpio.o
+ .text.gpio_write
+                0x0000000000000000       0x5e ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_gpio.o
+ .text.gpio_toggle
+                0x0000000000000000       0x3c ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_gpio.o
+ .text.gpio_read
+                0x0000000000000000       0x34 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_gpio.o
+ .text.gpio_set_pue
+                0x0000000000000000       0x3c ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_gpio.o
+ .text.gpio_set_ds
+                0x0000000000000000       0x46 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_gpio.o
+ .text.gpio_set_outxor
+                0x0000000000000000       0x46 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_gpio.o
+ .text.gpio_enable_interrupt
+                0x0000000000000000       0xba ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_gpio.o
+ .text.gpio_disable_interrupt
+                0x0000000000000000       0xca ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_gpio.o
+ .text.gpio_clear_interrupt
+                0x0000000000000000       0xca ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_gpio.o
+ .text.gpio_set_soft_interrupt
+                0x0000000000000000       0xba ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_gpio.o
+ .debug_info    0x0000000000000000     0x1153 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_gpio.o
+ .debug_abbrev  0x0000000000000000      0x245 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_gpio.o
+ .debug_aranges
+                0x0000000000000000       0xb0 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_gpio.o
+ .debug_ranges  0x0000000000000000       0xa0 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_gpio.o
+ .debug_line    0x0000000000000000      0xae1 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_gpio.o
+ .debug_str     0x0000000000000000      0x985 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_gpio.o
+ .comment       0x0000000000000000       0x12 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_gpio.o
+ .debug_frame   0x0000000000000000      0x2bc ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_gpio.o
+ .riscv.attributes
+                0x0000000000000000       0x2b ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_gpio.o
+ .text          0x0000000000000000        0x0 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_i2c.o
+ .data          0x0000000000000000        0x0 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_i2c.o
+ .bss           0x0000000000000000        0x0 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_i2c.o
+ .text.i2c_data_transmit
+                0x0000000000000000       0x48 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_i2c.o
+ .text.i2c_data_write
+                0x0000000000000000       0x24 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_i2c.o
+ .text.i2c_data_read
+                0x0000000000000000       0x1e ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_i2c.o
+ .text.i2c_flag_get
+                0x0000000000000000       0x2a ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_i2c.o
+ .text.i2c_data_receive
+                0x0000000000000000       0x42 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_i2c.o
+ .text.i2c_init
+                0x0000000000000000       0x64 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_i2c.o
+ .text.i2c_mode_addr_config
+                0x0000000000000000       0x52 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_i2c.o
+ .text.i2c_close_transmit
+                0x0000000000000000       0x1e ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_i2c.o
+ .text.i2c_close_receive
+                0x0000000000000000       0x1e ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_i2c.o
+ .text.i2c_enable
+                0x0000000000000000       0x1e ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_i2c.o
+ .text.i2c_disable
+                0x0000000000000000       0x1a ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_i2c.o
+ .text.i2c_send_start_write_cmd
+                0x0000000000000000       0x1e ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_i2c.o
+ .text.i2c_send_stop_cmd
+                0x0000000000000000       0x1e ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_i2c.o
+ .text.i2c_enable_int
+                0x0000000000000000       0x2e ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_i2c.o
+ .text.i2c_send_ack
+                0x0000000000000000       0x26 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_i2c.o
+ .debug_info    0x0000000000000000      0xd68 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_i2c.o
+ .debug_abbrev  0x0000000000000000      0x291 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_i2c.o
+ .debug_aranges
+                0x0000000000000000       0x90 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_i2c.o
+ .debug_ranges  0x0000000000000000       0x80 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_i2c.o
+ .debug_line    0x0000000000000000      0x51a ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_i2c.o
+ .debug_str     0x0000000000000000      0x7b8 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_i2c.o
+ .comment       0x0000000000000000       0x12 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_i2c.o
+ .debug_frame   0x0000000000000000      0x234 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_i2c.o
+ .riscv.attributes
+                0x0000000000000000       0x2b ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_i2c.o
+ .text          0x0000000000000000        0x0 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_misc.o
+ .data          0x0000000000000000        0x0 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_misc.o
+ .bss           0x0000000000000000        0x0 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_misc.o
+ .text.misc_reset_enable_core
+                0x0000000000000000       0x20 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_misc.o
+ .text.misc_reset_get_por_cause
+                0x0000000000000000       0x1a ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_misc.o
+ .text.misc_reset_get_nsys_rst_cause
+                0x0000000000000000       0x1c ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_misc.o
+ .text.misc_reset_get_core_cause
+                0x0000000000000000       0x1c ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_misc.o
+ .text.misc_nmi_get_ext_pending
+                0x0000000000000000       0x1a ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_misc.o
+ .text.misc_dcache_flush_inv
+                0x0000000000000000       0x1a ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_misc.o
+ .text.misc_dcache_flush_inv_pending
+                0x0000000000000000       0x1a ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_misc.o
+ .text.misc_icache_invalidate
+                0x0000000000000000       0x20 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_misc.o
+ .text.misc_icache_inv_pending
+                0x0000000000000000       0x1c ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_misc.o
+ .text.misc_clock_sel_ocs
+                0x0000000000000000       0x1e ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_misc.o
+ .text.misc_clock_sel_divide
+                0x0000000000000000       0x20 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_misc.o
+ .text.misc_set_clock_divide
+                0x0000000000000000       0x3c ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_misc.o
+ .text.misc_get_clock_divide
+                0x0000000000000000       0x18 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_misc.o
+ .text.misc_ppi_clock_divide
+                0x0000000000000000       0x3c ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_misc.o
+ .debug_info    0x0000000000000000      0xb69 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_misc.o
+ .debug_abbrev  0x0000000000000000      0x234 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_misc.o
+ .debug_aranges
+                0x0000000000000000       0x88 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_misc.o
+ .debug_ranges  0x0000000000000000       0x78 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_misc.o
+ .debug_line    0x0000000000000000      0x4e9 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_misc.o
+ .debug_str     0x0000000000000000      0x7b7 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_misc.o
+ .comment       0x0000000000000000       0x12 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_misc.o
+ .debug_frame   0x0000000000000000      0x208 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_misc.o
+ .riscv.attributes
+                0x0000000000000000       0x2b ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_misc.o
+ .text          0x0000000000000000        0x0 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_qspi.o
+ .data          0x0000000000000000        0x0 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_qspi.o
+ .bss           0x0000000000000000        0x0 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_qspi.o
+ .text.qspi_struct_para_init
+                0x0000000000000000       0x62 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_qspi.o
+ .text.qspi_init
+                0x0000000000000000       0xd4 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_qspi.o
+ .text.qspi_flag_get
+                0x0000000000000000       0x36 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_qspi.o
+ .text.qspi_sckdiv_cfg
+                0x0000000000000000       0x20 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_qspi.o
+ .text.qspi_sckmode_cfg
+                0x0000000000000000       0x24 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_qspi.o
+ .text.qspi_csmode_cfg
+                0x0000000000000000       0x2e ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_qspi.o
+ .text.qspi_csid_cfg
+                0x0000000000000000       0x24 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_qspi.o
+ .text.qspi_spi_delay0_cfg
+                0x0000000000000000       0x4c ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_qspi.o
+ .text.qspi_spi_delay1_cfg
+                0x0000000000000000       0x26 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_qspi.o
+ .text.qspi_spi_status
+                0x0000000000000000       0x24 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_qspi.o
+ .text.qspi_txdata_txtip_get
+                0x0000000000000000       0x26 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_qspi.o
+ .text.qspi_data_transmit
+                0x0000000000000000       0x28 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_qspi.o
+ .text.qspi_rxdata_rxtip_get
+                0x0000000000000000       0x26 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_qspi.o
+ .text.qspi_data_receive
+                0x0000000000000000       0x20 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_qspi.o
+ .text.qspi_fctrl_flashxip_enable
+                0x0000000000000000       0x2a ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_qspi.o
+ .text.qspi_fctrl_flashxip_disable
+                0x0000000000000000       0x28 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_qspi.o
+ .text.qspi_ffmt_cmd_enable
+                0x0000000000000000       0x28 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_qspi.o
+ .text.qspi_ffmt_cmd_disable
+                0x0000000000000000       0x2a ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_qspi.o
+ .text.qspi_ffmt_addr_len_cfg
+                0x0000000000000000       0x48 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_qspi.o
+ .text.qspi_ffmt_pad_cnt_cfg
+                0x0000000000000000       0x4a ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_qspi.o
+ .text.qspi_ffmt_cmd_proto_cfg
+                0x0000000000000000       0x4a ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_qspi.o
+ .text.qspi_ffmt_addr_proto_cfg
+                0x0000000000000000       0x50 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_qspi.o
+ .text.qspi_ffmt_data_proto_cfg
+                0x0000000000000000       0x4e ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_qspi.o
+ .text.qspi_ffmt_cmd_code
+                0x0000000000000000       0x50 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_qspi.o
+ .text.qspi_ffmt_pad_code
+                0x0000000000000000       0x50 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_qspi.o
+ .text.qspi_ffmt_data_endian_msb
+                0x0000000000000000       0x2e ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_qspi.o
+ .text.qspi_ffmt_data_endian_lsb
+                0x0000000000000000       0x2c ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_qspi.o
+ .text.qspi_ffmt1_wpad_cnt_cfg
+                0x0000000000000000       0x50 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_qspi.o
+ .text.qspi_ffmt1_wcmd_code
+                0x0000000000000000       0x4a ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_qspi.o
+ .debug_info    0x0000000000000000     0x1027 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_qspi.o
+ .debug_abbrev  0x0000000000000000      0x2c6 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_qspi.o
+ .debug_aranges
+                0x0000000000000000      0x100 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_qspi.o
+ .debug_ranges  0x0000000000000000       0xf0 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_qspi.o
+ .debug_line    0x0000000000000000      0x882 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_qspi.o
+ .debug_str     0x0000000000000000      0x90b ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_qspi.o
+ .comment       0x0000000000000000       0x12 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_qspi.o
+ .debug_frame   0x0000000000000000      0x424 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_qspi.o
+ .riscv.attributes
+                0x0000000000000000       0x2b ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_qspi.o
+ .text          0x0000000000000000        0x0 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_uart.o
+ .data          0x0000000000000000        0x0 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_uart.o
+ .bss           0x0000000000000000        0x0 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_uart.o
+ .text.uart_write_9bit
+                0x0000000000000000       0x46 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_uart.o
+ .text.uart_read_9bit
+                0x0000000000000000       0x48 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_uart.o
+ .text.uart_set_tx_watermark
+                0x0000000000000000       0x4e ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_uart.o
+ .text.uart_enable_txint
+                0x0000000000000000       0x36 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_uart.o
+ .text.uart_disable_txint
+                0x0000000000000000       0x36 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_uart.o
+ .text.uart_set_rx_watermark
+                0x0000000000000000       0x4e ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_uart.o
+ .text.uart_enable_rxint
+                0x0000000000000000       0x36 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_uart.o
+ .text.uart_disable_rxint
+                0x0000000000000000       0x36 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_uart.o
+ .text.uart_get_rxbusy
+                0x0000000000000000       0x2c ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_uart.o
+ .text.uart_get_txbusy
+                0x0000000000000000       0x2c ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_uart.o
+ .text.uart_parity_en
+                0x0000000000000000       0x34 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_uart.o
+ .text.uart_parity_sel
+                0x0000000000000000       0x3e ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_uart.o
+ .text.uart_stopclean_fifo
+                0x0000000000000000       0x36 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_uart.o
+ .text.uart_clean_fifo
+                0x0000000000000000       0x46 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_uart.o
+ .text.uart_get_error_overflow
+                0x0000000000000000       0x2c ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_uart.o
+ .text.uart_get_error_parity
+                0x0000000000000000       0x2c ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_uart.o
+ .text.uart_enable_ov_irq
+                0x0000000000000000       0x36 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_uart.o
+ .text.uart_enable_err_irq
+                0x0000000000000000       0x36 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_uart.o
+ .text.uart_get_flag_txip
+                0x0000000000000000       0x2c ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_uart.o
+ .text.uart_get_flag_rxip
+                0x0000000000000000       0x2c ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_uart.o
+ .text          0x0000000000000000        0x0 ./sf1_sdk/SoC/anlogic/Common/Source/nuclei_common.o
+ .data          0x0000000000000000        0x0 ./sf1_sdk/SoC/anlogic/Common/Source/nuclei_common.o
+ .bss           0x0000000000000000        0x0 ./sf1_sdk/SoC/anlogic/Common/Source/nuclei_common.o
+ .text.get_timer_freq
+                0x0000000000000000       0x16 ./sf1_sdk/SoC/anlogic/Common/Source/nuclei_common.o
+ .text.measure_cpu_freq
+                0x0000000000000000       0xbc ./sf1_sdk/SoC/anlogic/Common/Source/nuclei_common.o
+ .text.get_cpu_freq
+                0x0000000000000000       0x30 ./sf1_sdk/SoC/anlogic/Common/Source/nuclei_common.o
+ .rodata        0x0000000000000000       0x24 ./sf1_sdk/SoC/anlogic/Common/Source/nuclei_common.o
+ .text.pass_fail_simulation
+                0x0000000000000000       0x66 ./sf1_sdk/SoC/anlogic/Common/Source/nuclei_common.o
+ .text          0x0000000000000000        0x0 ./sf1_sdk/SoC/anlogic/Common/Source/system_nuclei.o
+ .data          0x0000000000000000        0x0 ./sf1_sdk/SoC/anlogic/Common/Source/system_nuclei.o
+ .bss           0x0000000000000000        0x0 ./sf1_sdk/SoC/anlogic/Common/Source/system_nuclei.o
+ .text.SystemCoreClockUpdate
+                0x0000000000000000       0x20 ./sf1_sdk/SoC/anlogic/Common/Source/system_nuclei.o
+ .text.Exception_Register_EXC
+                0x0000000000000000       0x52 ./sf1_sdk/SoC/anlogic/Common/Source/system_nuclei.o
+ .text.Exception_Get_EXC
+                0x0000000000000000       0x4a ./sf1_sdk/SoC/anlogic/Common/Source/system_nuclei.o
+ .text          0x0000000000000000        0x0 ./sf1_sdk/SoC/anlogic/Board/sf1_eval/Source/nuclei_eval.o
+ .data          0x0000000000000000        0x0 ./sf1_sdk/SoC/anlogic/Board/sf1_eval/Source/nuclei_eval.o
+ .bss           0x0000000000000000        0x0 ./sf1_sdk/SoC/anlogic/Board/sf1_eval/Source/nuclei_eval.o
+ .data.LED_CLORK
+                0x0000000000000000        0xc ./sf1_sdk/SoC/anlogic/Board/sf1_eval/Source/nuclei_eval.o
+ .text.gd_eval_led_init
+                0x0000000000000000       0x58 ./sf1_sdk/SoC/anlogic/Board/sf1_eval/Source/nuclei_eval.o
+ .text.gd_eval_led_on
+                0x0000000000000000       0x38 ./sf1_sdk/SoC/anlogic/Board/sf1_eval/Source/nuclei_eval.o
+ .text.gd_eval_led_off
+                0x0000000000000000       0x38 ./sf1_sdk/SoC/anlogic/Board/sf1_eval/Source/nuclei_eval.o
+ .text.gd_eval_led_toggle
+                0x0000000000000000       0x36 ./sf1_sdk/SoC/anlogic/Board/sf1_eval/Source/nuclei_eval.o
+ .debug_info    0x0000000000000000      0xcf5 ./sf1_sdk/SoC/anlogic/Board/sf1_eval/Source/nuclei_eval.o
+ .debug_abbrev  0x0000000000000000      0x250 ./sf1_sdk/SoC/anlogic/Board/sf1_eval/Source/nuclei_eval.o
+ .debug_aranges
+                0x0000000000000000       0x38 ./sf1_sdk/SoC/anlogic/Board/sf1_eval/Source/nuclei_eval.o
+ .debug_ranges  0x0000000000000000       0x28 ./sf1_sdk/SoC/anlogic/Board/sf1_eval/Source/nuclei_eval.o
+ .debug_line    0x0000000000000000      0x35f ./sf1_sdk/SoC/anlogic/Board/sf1_eval/Source/nuclei_eval.o
+ .debug_str     0x0000000000000000      0x7f0 ./sf1_sdk/SoC/anlogic/Board/sf1_eval/Source/nuclei_eval.o
+ .comment       0x0000000000000000       0x12 ./sf1_sdk/SoC/anlogic/Board/sf1_eval/Source/nuclei_eval.o
+ .debug_frame   0x0000000000000000       0xb0 ./sf1_sdk/SoC/anlogic/Board/sf1_eval/Source/nuclei_eval.o
+ .riscv.attributes
+                0x0000000000000000       0x2b ./sf1_sdk/SoC/anlogic/Board/sf1_eval/Source/nuclei_eval.o
+ .text          0x0000000000000000        0x0 ./application/Device/ahb.o
+ .data          0x0000000000000000        0x0 ./application/Device/ahb.o
+ .bss           0x0000000000000000        0x0 ./application/Device/ahb.o
+ .text.set_hall_en
+                0x0000000000000000       0x1e ./application/Device/ahb.o
+ .text.get_hall_en
+                0x0000000000000000       0x14 ./application/Device/ahb.o
+ .text.get_hall_angle
+                0x0000000000000000       0x16 ./application/Device/ahb.o
+ .text.get_hall_error
+                0x0000000000000000       0x16 ./application/Device/ahb.o
+ .text.get_hall_lost
+                0x0000000000000000       0x16 ./application/Device/ahb.o
+ .text.get_hall_step
+                0x0000000000000000       0x16 ./application/Device/ahb.o
+ .debug_info    0x0000000000000000      0x9e1 ./application/Device/ahb.o
+ .debug_abbrev  0x0000000000000000      0x1fc ./application/Device/ahb.o
+ .debug_aranges
+                0x0000000000000000       0x48 ./application/Device/ahb.o
+ .debug_ranges  0x0000000000000000       0x38 ./application/Device/ahb.o
+ .debug_line    0x0000000000000000      0x2fa ./application/Device/ahb.o
+ .debug_str     0x0000000000000000      0x605 ./application/Device/ahb.o
+ .comment       0x0000000000000000       0x12 ./application/Device/ahb.o
+ .debug_frame   0x0000000000000000       0xe8 ./application/Device/ahb.o
+ .riscv.attributes
+                0x0000000000000000       0x2b ./application/Device/ahb.o
+ .text          0x0000000000000000        0x0 ./application/Device/foc_controller.o
+ .data          0x0000000000000000        0x0 ./application/Device/foc_controller.o
+ .bss           0x0000000000000000        0x0 ./application/Device/foc_controller.o
+ .text.foc_set  0x0000000000000000       0x20 ./application/Device/foc_controller.o
+ .text.foc_get  0x0000000000000000       0x18 ./application/Device/foc_controller.o
+ .debug_info    0x0000000000000000      0x9a0 ./application/Device/foc_controller.o
+ .debug_abbrev  0x0000000000000000      0x205 ./application/Device/foc_controller.o
+ .debug_aranges
+                0x0000000000000000       0x28 ./application/Device/foc_controller.o
+ .debug_ranges  0x0000000000000000       0x18 ./application/Device/foc_controller.o
+ .debug_line    0x0000000000000000      0x279 ./application/Device/foc_controller.o
+ .debug_str     0x0000000000000000      0x5c7 ./application/Device/foc_controller.o
+ .comment       0x0000000000000000       0x12 ./application/Device/foc_controller.o
+ .debug_frame   0x0000000000000000       0x58 ./application/Device/foc_controller.o
+ .riscv.attributes
+                0x0000000000000000       0x2b ./application/Device/foc_controller.o
+ .text          0x0000000000000000        0x0 ./application/Device/forward_feed.o
+ .data          0x0000000000000000        0x0 ./application/Device/forward_feed.o
+ .bss           0x0000000000000000        0x0 ./application/Device/forward_feed.o
+ .debug_info    0x0000000000000000      0x932 ./application/Device/forward_feed.o
+ .debug_abbrev  0x0000000000000000      0x1b1 ./application/Device/forward_feed.o
+ .debug_aranges
+                0x0000000000000000       0x18 ./application/Device/forward_feed.o
+ .debug_line    0x0000000000000000      0x20b ./application/Device/forward_feed.o
+ .debug_str     0x0000000000000000      0x5aa ./application/Device/forward_feed.o
+ .comment       0x0000000000000000       0x12 ./application/Device/forward_feed.o
+ .riscv.attributes
+                0x0000000000000000       0x2b ./application/Device/forward_feed.o
+ .text          0x0000000000000000        0x0 ./application/Device/pid.o
+ .data          0x0000000000000000        0x0 ./application/Device/pid.o
+ .bss           0x0000000000000000        0x0 ./application/Device/pid.o
+ .sbss.sum      0x0000000000000000        0x8 ./application/Device/pid.o
+ .debug_info    0x0000000000000000      0x95c ./application/Device/pid.o
+ .debug_abbrev  0x0000000000000000      0x1c2 ./application/Device/pid.o
+ .debug_aranges
+                0x0000000000000000       0x18 ./application/Device/pid.o
+ .debug_line    0x0000000000000000      0x22a ./application/Device/pid.o
+ .debug_str     0x0000000000000000      0x5b3 ./application/Device/pid.o
+ .comment       0x0000000000000000       0x12 ./application/Device/pid.o
+ .riscv.attributes
+                0x0000000000000000       0x2b ./application/Device/pid.o
+ .text          0x0000000000000000        0x0 ./application/main.o
+ .data          0x0000000000000000        0x0 ./application/main.o
+ .bss           0x0000000000000000        0x0 ./application/main.o
+ .sbss.int_t_cnt.5393
+                0x0000000000000000        0x4 ./application/main.o
+ .sbss.int_sw_cnt.5397
+                0x0000000000000000        0x4 ./application/main.o
+ .data          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(_udivdi3.o)
+ .bss           0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(_udivdi3.o)
+ .eh_frame      0x0000000000000000       0x28 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(_udivdi3.o)
+ .text          0x0000000000000000      0x352 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(_umoddi3.o)
+ .data          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(_umoddi3.o)
+ .bss           0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(_umoddi3.o)
+ .debug_info    0x0000000000000000     0x12a1 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(_umoddi3.o)
+ .debug_abbrev  0x0000000000000000      0x2e8 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(_umoddi3.o)
+ .debug_loc     0x0000000000000000      0x93e c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(_umoddi3.o)
+ .debug_aranges
+                0x0000000000000000       0x20 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(_umoddi3.o)
+ .debug_ranges  0x0000000000000000       0xd0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(_umoddi3.o)
+ .debug_line    0x0000000000000000      0xa66 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(_umoddi3.o)
+ .debug_str     0x0000000000000000      0x8a7 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(_umoddi3.o)
+ .comment       0x0000000000000000       0x12 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(_umoddi3.o)
+ .eh_frame      0x0000000000000000       0x28 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(_umoddi3.o)
+ .riscv.attributes
+                0x0000000000000000       0x2b c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(_umoddi3.o)
+ .data          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(muldf3.o)
+ .bss           0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(muldf3.o)
+ .data          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(fixdfsi.o)
+ .bss           0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(fixdfsi.o)
+ .data          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(floatsidf.o)
+ .bss           0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(floatsidf.o)
+ .text          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(_clz.o)
+ .data          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(_clz.o)
+ .bss           0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(_clz.o)
+ .data          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(_clzsi2.o)
+ .bss           0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(_clzsi2.o)
+ .text          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-atexit.o)
+ .data          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-atexit.o)
+ .bss           0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-atexit.o)
+ .text          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-fini.o)
+ .data          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-fini.o)
+ .bss           0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-fini.o)
+ .text          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-init.o)
+ .data          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-init.o)
+ .bss           0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-init.o)
+ .text          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-printf.o)
+ .data          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-printf.o)
+ .bss           0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-printf.o)
+ .text._printf_r
+                0x0000000000000000       0x42 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-printf.o)
+ .text          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-puts.o)
+ .data          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-puts.o)
+ .bss           0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-puts.o)
+ .text._puts_r  0x0000000000000000       0xf8 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-puts.o)
+ .text.puts     0x0000000000000000       0x12 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-puts.o)
+ .comment       0x0000000000000000       0x12 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-puts.o)
+ .riscv.attributes
+                0x0000000000000000       0x2b c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-puts.o)
+ .text          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-sysisatty.o)
+ .data          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-sysisatty.o)
+ .bss           0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-sysisatty.o)
+ .text          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-wbuf.o)
+ .data          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-wbuf.o)
+ .bss           0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-wbuf.o)
+ .text.__swbuf  0x0000000000000000       0x14 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-wbuf.o)
+ .text          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-wsetup.o)
+ .data          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-wsetup.o)
+ .bss           0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-wsetup.o)
+ .text          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-__atexit.o)
+ .data          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-__atexit.o)
+ .bss           0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-__atexit.o)
+ .sdata.__atexit_dummy
+                0x0000000000000000        0x4 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-__atexit.o)
+ .text          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-__call_atexit.o)
+ .data          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-__call_atexit.o)
+ .bss           0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x0000000000000000       0xc8 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-__call_atexit.o)
+ .text          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-fflush.o)
+ .data          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-fflush.o)
+ .bss           0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-fflush.o)
+ .text.fflush   0x0000000000000000       0x2c c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-fflush.o)
+ .text          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-findfp.o)
+ .data          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-findfp.o)
+ .bss           0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-findfp.o)
+ .text.__fp_lock
+                0x0000000000000000        0x4 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-findfp.o)
+ .text.__fp_unlock
+                0x0000000000000000        0x4 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-findfp.o)
+ .text._cleanup
+                0x0000000000000000       0x10 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-findfp.o)
+ .text.__sfp_lock_acquire
+                0x0000000000000000        0x2 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-findfp.o)
+ .text.__sfp_lock_release
+                0x0000000000000000        0x2 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-findfp.o)
+ .text.__sinit_lock_acquire
+                0x0000000000000000        0x2 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-findfp.o)
+ .text.__sinit_lock_release
+                0x0000000000000000        0x2 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-findfp.o)
+ .text.__fp_lock_all
+                0x0000000000000000       0x18 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-findfp.o)
+ .text.__fp_unlock_all
+                0x0000000000000000       0x18 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-findfp.o)
+ .text          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-fwalk.o)
+ .data          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-fwalk.o)
+ .bss           0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-fwalk.o)
+ .text._fwalk   0x0000000000000000       0x62 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-fwalk.o)
+ .text          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-impure.o)
+ .text          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-makebuf.o)
+ .data          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-makebuf.o)
+ .bss           0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-makebuf.o)
+ .data          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-memset.o)
+ .text          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-nano-freer.o)
+ .data          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-nano-freer.o)
+ .bss           0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-nano-freer.o)
+ .text          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-nano-mallocr.o)
+ .data          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-nano-mallocr.o)
+ .bss           0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-nano-mallocr.o)
+ .text          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-nano-vfprintf.o)
+ .data          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-nano-vfprintf.o)
+ .bss           0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-nano-vfprintf.o)
+ .text.__sprint_r
+                0x0000000000000000       0x2c c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-nano-vfprintf.o)
+ .text.vfprintf
+                0x0000000000000000       0x16 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-nano-vfprintf.o)
+ .text          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-sbrkr.o)
+ .data          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-sbrkr.o)
+ .bss           0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-sbrkr.o)
+ .text          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-stdio.o)
+ .data          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-stdio.o)
+ .bss           0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-stdio.o)
+ .text.__seofread
+                0x0000000000000000        0x4 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-stdio.o)
+ .text          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-writer.o)
+ .data          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-writer.o)
+ .bss           0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-writer.o)
+ .text          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-closer.o)
+ .data          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-closer.o)
+ .bss           0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-closer.o)
+ .text          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-fstatr.o)
+ .data          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-fstatr.o)
+ .bss           0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-fstatr.o)
+ .text          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-fvwrite.o)
+ .data          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-fvwrite.o)
+ .bss           0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-fvwrite.o)
+ .text.__sfvwrite_r
+                0x0000000000000000      0x316 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-fvwrite.o)
+ .comment       0x0000000000000000       0x12 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-fvwrite.o)
+ .riscv.attributes
+                0x0000000000000000       0x2b c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-fvwrite.o)
+ .text          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-isattyr.o)
+ .data          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-isattyr.o)
+ .bss           0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-isattyr.o)
+ .text          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-lseekr.o)
+ .data          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-lseekr.o)
+ .bss           0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-lseekr.o)
+ .text          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-memchr.o)
+ .data          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-memchr.o)
+ .bss           0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-memchr.o)
+ .text          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-memcpy.o)
+ .data          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-memcpy.o)
+ .bss           0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-memcpy.o)
+ .text.memcpy   0x0000000000000000       0xd4 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-memcpy.o)
+ .comment       0x0000000000000000       0x12 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-memcpy.o)
+ .riscv.attributes
+                0x0000000000000000       0x2b c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-memcpy.o)
+ .text          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-memmove.o)
+ .data          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-memmove.o)
+ .bss           0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-memmove.o)
+ .text.memmove  0x0000000000000000       0x4a c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-memmove.o)
+ .comment       0x0000000000000000       0x12 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-memmove.o)
+ .riscv.attributes
+                0x0000000000000000       0x2b c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-memmove.o)
+ .text          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-mlock.o)
+ .data          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-mlock.o)
+ .bss           0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-mlock.o)
+ .text          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-nano-reallocr.o)
+ .data          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-nano-reallocr.o)
+ .bss           0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-nano-reallocr.o)
+ .text._realloc_r
+                0x0000000000000000       0x7e c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-nano-reallocr.o)
+ .comment       0x0000000000000000       0x12 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-nano-reallocr.o)
+ .riscv.attributes
+                0x0000000000000000       0x2b c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-nano-reallocr.o)
+ .text          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .data          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .bss           0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .text          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-readr.o)
+ .data          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-readr.o)
+ .bss           0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-readr.o)
+ .text          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-reent.o)
+ .data          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-reent.o)
+ .bss           0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x0000000000000000       0x2c c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-reent.o)
+ .text._reclaim_reent
+                0x0000000000000000      0x10a c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-reent.o)
+ .text          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-nano-msizer.o)
+ .data          0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-nano-msizer.o)
+ .bss           0x0000000000000000        0x0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-nano-msizer.o)
+ .text._malloc_usable_size_r
+                0x0000000000000000       0x14 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-nano-msizer.o)
+ .comment       0x0000000000000000       0x12 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-nano-msizer.o)
+ .riscv.attributes
+                0x0000000000000000       0x2b c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-nano-msizer.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+flash            0x00000000000e0000 0x0000000000020000 axrl !w
+ilm              0x0000000008000000 0x0000000000002000 axrl !w
+ram              0x0000000020000000 0x0000000000002000 axw !rl
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/close.o
+LOAD ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/fstat.o
+LOAD ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/gettimeofday.o
+LOAD ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/isatty.o
+LOAD ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/lseek.o
+LOAD ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/read.o
+LOAD ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/sbrk.o
+LOAD ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/write.o
+LOAD ./sf1_sdk/SoC/anlogic/Common/Source/GCC/intexc_anlogic.o
+LOAD ./sf1_sdk/SoC/anlogic/Common/Source/GCC/startup_anlogic.o
+LOAD ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/anl_printf.o
+LOAD ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_gpio.o
+LOAD ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_i2c.o
+LOAD ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_misc.o
+LOAD ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_qspi.o
+LOAD ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_uart.o
+LOAD ./sf1_sdk/SoC/anlogic/Common/Source/nuclei_common.o
+LOAD ./sf1_sdk/SoC/anlogic/Common/Source/system_nuclei.o
+LOAD ./sf1_sdk/SoC/anlogic/Board/sf1_eval/Source/nuclei_eval.o
+LOAD ./application/Device/ahb.o
+LOAD ./application/Device/foc_controller.o
+LOAD ./application/Device/forward_feed.o
+LOAD ./application/Device/pid.o
+LOAD ./application/main.o
+LOAD c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libstdc++.a
+LOAD c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libstdc++.a
+LOAD c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libm.a
+LOAD c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a
+LOAD c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a
+LOAD c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libc_nano.a
+LOAD c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a
+START GROUP
+LOAD c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a
+LOAD c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libc_nano.a
+LOAD c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libnosys.a
+END GROUP
+START GROUP
+LOAD c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a
+LOAD c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libc_nano.a
+LOAD c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libnosys.a
+END GROUP
+                0x0000000000000800                __stack_size = DEFINED (__stack_size)?__stack_size:0x800
+                0x0000000000000400                __int_stack_size = DEFINED (__int_stack_size)?__int_stack_size:0x400
+
+.init           0x00000000000e0000      0x204
+ *(.vtable)
+ .vtable        0x00000000000e0000       0xbc ./sf1_sdk/SoC/anlogic/Common/Source/GCC/startup_anlogic.o
+                0x00000000000e0000                vector_base
+ *(SORT_NONE(.init))
+ .init          0x00000000000e00bc      0x148 ./sf1_sdk/SoC/anlogic/Common/Source/GCC/startup_anlogic.o
+                0x00000000000e00bc                _start
+
+.spilalign      0x00000000000e0204        0x0
+                0x00000000000e0204                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (_spi_lma = .)
+
+.spialign       0x0000000008000000        0x0 load address 0x00000000000e0204
+                [!provide]                        PROVIDE (_spi = .)
+
+.spi_flash
+ *(SORT_NONE(.spi_flash))
+
+.espialign      0x0000000008000000        0x0 load address 0x00000000000e0204
+                [!provide]                        PROVIDE (_espi = .)
+                [!provide]                        PROVIDE (_espi = .)
+
+.ilalign        0x00000000000e0204        0x0
+                0x00000000000e0204                . = ALIGN (0x4)
+                0x00000000000e0204                PROVIDE (_ilm_lma = .)
+
+.ialign         0x00000000000e0204        0x0
+                0x00000000000e0204                PROVIDE (_ilm = .)
+
+.text           0x00000000000e0240     0x394e
+ *(.rdata)
+ *(.rodata .rodata.*)
+ .rodata        0x00000000000e0240       0xdc ./sf1_sdk/SoC/anlogic/Common/Source/system_nuclei.o
+ *fill*         0x00000000000e031c        0x4 
+ .rodata        0x00000000000e0320       0x70 ./application/main.o
+ .rodata        0x00000000000e0390       0x3c c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(muldf3.o)
+ .rodata        0x00000000000e03cc      0x100 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(_clz.o)
+                0x00000000000e03cc                __clz_tab
+ .rodata.__sf_fake_stderr
+                0x00000000000e04cc       0x20 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-findfp.o)
+                0x00000000000e04cc                __sf_fake_stderr
+ .rodata.__sf_fake_stdin
+                0x00000000000e04ec       0x20 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-findfp.o)
+                0x00000000000e04ec                __sf_fake_stdin
+ .rodata.__sf_fake_stdout
+                0x00000000000e050c       0x20 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-findfp.o)
+                0x00000000000e050c                __sf_fake_stdout
+ .rodata._vfprintf_r.str1.4
+                0x00000000000e052c       0x13 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-nano-vfprintf.o)
+ *fill*         0x00000000000e053f        0x1 
+ .rodata._printf_i.str1.4
+                0x00000000000e0540       0x28 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-nano-vfprintf_i.o)
+                                         0x25 (size before relaxing)
+ .rodata._printf_i
+                0x00000000000e0568       0x58 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-nano-vfprintf_i.o)
+ *(.text.unlikely .text.unlikely.*)
+ *(.text.startup .text.startup.*)
+ *(.text .text.*)
+ .text._stub    0x00000000000e05c0       0x14 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/close.o
+ .text._close   0x00000000000e05d4       0x1c ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/close.o
+                0x00000000000e05d4                _close
+ .text._stub    0x00000000000e05f0       0x14 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/fstat.o
+ .text._fstat   0x00000000000e0604       0x20 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/fstat.o
+                0x00000000000e0604                _fstat
+ .text._isatty  0x00000000000e0624       0x14 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/isatty.o
+                0x00000000000e0624                _isatty
+ .text._stub    0x00000000000e0638       0x14 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/lseek.o
+ .text._lseek   0x00000000000e064c       0x24 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/lseek.o
+                0x00000000000e064c                _lseek
+ .text._read    0x00000000000e0670       0x44 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/read.o
+                0x00000000000e0670                _read
+ .text._sbrk    0x00000000000e06b4       0x78 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/sbrk.o
+                0x00000000000e06b4                _sbrk
+ .text._write   0x00000000000e072c       0x88 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/write.o
+                0x00000000000e072c                _write
+ *fill*         0x00000000000e07b4        0xc 
+ .text.trap     0x00000000000e07c0       0x7c ./sf1_sdk/SoC/anlogic/Common/Source/GCC/intexc_anlogic.o
+                0x00000000000e07c0                exc_entry
+ *fill*         0x00000000000e083c        0x0 
+ .text.irq      0x00000000000e083c       0x76 ./sf1_sdk/SoC/anlogic/Common/Source/GCC/intexc_anlogic.o
+                0x00000000000e083c                irq_entry
+                0x00000000000e08ae                default_intexc_handler
+ .text.anl_putchar
+                0x00000000000e08b2       0x24 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/anl_printf.o
+                0x00000000000e08b2                anl_putchar
+ .text.printf_c
+                0x00000000000e08d6       0x22 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/anl_printf.o
+ .text.printf_s
+                0x00000000000e08f8       0x38 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/anl_printf.o
+ .text.printf_d
+                0x00000000000e0930       0xa6 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/anl_printf.o
+ .text.anl_printf
+                0x00000000000e09d6      0x120 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/anl_printf.o
+                0x00000000000e09d6                anl_printf
+ .text.uart_init
+                0x00000000000e0af6       0x94 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_uart.o
+                0x00000000000e0af6                uart_init
+ .text.uart_config_stopbit
+                0x00000000000e0b8a       0x4e ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_uart.o
+                0x00000000000e0b8a                uart_config_stopbit
+ .text.uart_write
+                0x00000000000e0bd8       0x42 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_uart.o
+                0x00000000000e0bd8                uart_write
+ .text.uart_read
+                0x00000000000e0c1a       0x40 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_uart.o
+                0x00000000000e0c1a                uart_read
+ .text.delay_1ms
+                0x00000000000e0c5a       0xc8 ./sf1_sdk/SoC/anlogic/Common/Source/nuclei_common.o
+                0x00000000000e0c5a                delay_1ms
+ .text.SystemInit
+                0x00000000000e0d22       0x30 ./sf1_sdk/SoC/anlogic/Common/Source/system_nuclei.o
+                0x00000000000e0d22                SystemInit
+ .text.system_default_exception_handler
+                0x00000000000e0d52       0x4e ./sf1_sdk/SoC/anlogic/Common/Source/system_nuclei.o
+ .text.Exception_Init
+                0x00000000000e0da0       0x44 ./sf1_sdk/SoC/anlogic/Common/Source/system_nuclei.o
+ .text.core_exception_handler
+                0x00000000000e0de4       0x88 ./sf1_sdk/SoC/anlogic/Common/Source/system_nuclei.o
+                0x00000000000e0de4                core_exception_handler
+ .text.SystemBannerPrint
+                0x00000000000e0e6c       0x7e ./sf1_sdk/SoC/anlogic/Common/Source/system_nuclei.o
+                0x00000000000e0e6c                SystemBannerPrint
+ .text.ECLIC_Init
+                0x00000000000e0eea       0x88 ./sf1_sdk/SoC/anlogic/Common/Source/system_nuclei.o
+                0x00000000000e0eea                ECLIC_Init
+ .text.ECLIC_Register_IRQ
+                0x00000000000e0f72      0x3fc ./sf1_sdk/SoC/anlogic/Common/Source/system_nuclei.o
+                0x00000000000e0f72                ECLIC_Register_IRQ
+ .text._init    0x00000000000e136e       0x28 ./sf1_sdk/SoC/anlogic/Common/Source/system_nuclei.o
+                0x00000000000e136e                _init
+ .text._fini    0x00000000000e1396        0xe ./sf1_sdk/SoC/anlogic/Common/Source/system_nuclei.o
+                0x00000000000e1396                _fini
+ .text.SysTick_Config
+                0x00000000000e13a4      0x20c ./application/main.o
+ .text.pid_v_update
+                0x00000000000e15b0       0xea ./application/main.o
+                0x00000000000e15b0                pid_v_update
+ .text.pid_p_update
+                0x00000000000e169a       0xcc ./application/main.o
+                0x00000000000e169a                pid_p_update
+ .text.uart_receive
+                0x00000000000e1766       0xf8 ./application/main.o
+                0x00000000000e1766                uart_receive
+ .text.setup_timer
+                0x00000000000e185e       0x28 ./application/main.o
+                0x00000000000e185e                setup_timer
+ .text.eclic_mtip_handler
+                0x00000000000e1886       0xd2 ./application/main.o
+                0x00000000000e1886                eclic_mtip_handler
+ .text.eclic_msip_handler
+                0x00000000000e1958      0x38e ./application/main.o
+                0x00000000000e1958                eclic_msip_handler
+ .text.main     0x00000000000e1ce6      0x1e6 ./application/main.o
+                0x00000000000e1ce6                main
+ .text.init     0x00000000000e1ecc      0x188 ./application/main.o
+                0x00000000000e1ecc                init
+ .text          0x00000000000e2054      0x364 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(_udivdi3.o)
+                0x00000000000e2054                __udivdi3
+ .text          0x00000000000e23b8      0x442 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(muldf3.o)
+                0x00000000000e23b8                __muldf3
+ .text          0x00000000000e27fa       0x64 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(fixdfsi.o)
+                0x00000000000e27fa                __fixdfsi
+ .text          0x00000000000e285e       0x68 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(floatsidf.o)
+                0x00000000000e285e                __floatsidf
+ .text          0x00000000000e28c6       0x3c c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(_clzsi2.o)
+                0x00000000000e28c6                __clzsi2
+ .text.atexit   0x00000000000e2902        0xa c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-atexit.o)
+                0x00000000000e2902                atexit
+ .text.__libc_fini_array
+                0x00000000000e290c       0x3a c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-fini.o)
+                0x00000000000e290c                __libc_fini_array
+ .text.__libc_init_array
+                0x00000000000e2946       0x6e c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-init.o)
+                0x00000000000e2946                __libc_init_array
+ .text.printf   0x00000000000e29b4       0x3a c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-printf.o)
+                0x00000000000e29b4                iprintf
+                0x00000000000e29b4                printf
+ .text.isatty   0x00000000000e29ee        0x4 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-sysisatty.o)
+                0x00000000000e29ee                isatty
+ .text.__swbuf_r
+                0x00000000000e29f2       0xc0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-wbuf.o)
+                0x00000000000e29f2                __swbuf_r
+ .text.__swsetup_r
+                0x00000000000e2ab2      0x106 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-wsetup.o)
+                0x00000000000e2ab2                __swsetup_r
+ .text.__register_exitproc
+                0x00000000000e2bb8       0x78 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-__atexit.o)
+                0x00000000000e2bb8                __register_exitproc
+ .text.__sflush_r
+                0x00000000000e2c30      0x14a c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-fflush.o)
+                0x00000000000e2c30                __sflush_r
+ .text._fflush_r
+                0x00000000000e2d7a       0x64 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-fflush.o)
+                0x00000000000e2d7a                _fflush_r
+ .text.std      0x00000000000e2dde       0x68 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-findfp.o)
+ .text._cleanup_r
+                0x00000000000e2e46        0xa c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-findfp.o)
+                0x00000000000e2e46                _cleanup_r
+ .text.__sfmoreglue
+                0x00000000000e2e50       0x44 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-findfp.o)
+                0x00000000000e2e50                __sfmoreglue
+ .text.__sinit  0x00000000000e2e94       0x66 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-findfp.o)
+                0x00000000000e2e94                __sinit
+ .text.__sfp    0x00000000000e2efa       0x98 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-findfp.o)
+                0x00000000000e2efa                __sfp
+ .text._fwalk_reent
+                0x00000000000e2f92       0x6a c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-fwalk.o)
+                0x00000000000e2f92                _fwalk_reent
+ .text.__swhatbuf_r
+                0x00000000000e2ffc       0x5a c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-makebuf.o)
+                0x00000000000e2ffc                __swhatbuf_r
+ .text.__smakebuf_r
+                0x00000000000e3056       0x9c c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-makebuf.o)
+                0x00000000000e3056                __smakebuf_r
+ .text          0x00000000000e30f2       0xa8 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-memset.o)
+                0x00000000000e30f2                memset
+ .text._free_r  0x00000000000e319a       0xa2 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-nano-freer.o)
+                0x00000000000e319a                _free_r
+ .text._malloc_r
+                0x00000000000e323c       0xd2 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-nano-mallocr.o)
+                0x00000000000e323c                _malloc_r
+ .text.__sfputc_r
+                0x00000000000e330e       0x2a c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-nano-vfprintf.o)
+ .text.__sfputs_r
+                0x00000000000e3338       0x42 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-nano-vfprintf.o)
+                0x00000000000e3338                __sfputs_r
+ .text._vfprintf_r
+                0x00000000000e337a      0x298 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-nano-vfprintf.o)
+                0x00000000000e337a                _vfprintf_r
+                0x00000000000e337a                _vfiprintf_r
+ .text._sbrk_r  0x00000000000e3612       0x28 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-sbrkr.o)
+                0x00000000000e3612                _sbrk_r
+ .text.__sread  0x00000000000e363a       0x30 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-stdio.o)
+                0x00000000000e363a                __sread
+ .text.__swrite
+                0x00000000000e366a       0x4e c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-stdio.o)
+                0x00000000000e366a                __swrite
+ .text.__sseek  0x00000000000e36b8       0x36 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-stdio.o)
+                0x00000000000e36b8                __sseek
+ .text.__sclose
+                0x00000000000e36ee        0x6 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-stdio.o)
+                0x00000000000e36ee                __sclose
+ .text._write_r
+                0x00000000000e36f4       0x2c c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-writer.o)
+                0x00000000000e36f4                _write_r
+ .text._close_r
+                0x00000000000e3720       0x28 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-closer.o)
+                0x00000000000e3720                _close_r
+ .text._fstat_r
+                0x00000000000e3748       0x2a c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-fstatr.o)
+                0x00000000000e3748                _fstat_r
+ .text._isatty_r
+                0x00000000000e3772       0x28 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-isattyr.o)
+                0x00000000000e3772                _isatty_r
+ .text._lseek_r
+                0x00000000000e379a       0x2c c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-lseekr.o)
+                0x00000000000e379a                _lseek_r
+ .text.memchr   0x00000000000e37c6       0x1a c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-memchr.o)
+                0x00000000000e37c6                memchr
+ .text.__malloc_lock
+                0x00000000000e37e0        0x2 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-mlock.o)
+                0x00000000000e37e0                __malloc_lock
+ .text.__malloc_unlock
+                0x00000000000e37e2        0x2 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-mlock.o)
+                0x00000000000e37e2                __malloc_unlock
+ .text._printf_common
+                0x00000000000e37e4      0x10c c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-nano-vfprintf_i.o)
+                0x00000000000e37e4                _printf_common
+ .text._printf_i
+                0x00000000000e38f0      0x272 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-nano-vfprintf_i.o)
+                0x00000000000e38f0                _printf_i
+ .text._read_r  0x00000000000e3b62       0x2c c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-readr.o)
+                0x00000000000e3b62                _read_r
+ *(.gnu.linkonce.t.*)
+
+.rela.dyn       0x00000000000e3b90        0x0
+ .rela.sdata.curbrk.1969
+                0x00000000000e3b90        0x0 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/close.o
+ .rela.text._sbrk
+                0x00000000000e3b90        0x0 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/close.o
+ .rela.init     0x00000000000e3b90        0x0 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/close.o
+ .rela.text.__libc_fini_array
+                0x00000000000e3b90        0x0 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/close.o
+ .rela.text.__libc_init_array
+                0x00000000000e3b90        0x0 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/close.o
+ .rela.text.__register_exitproc
+                0x00000000000e3b90        0x0 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/close.o
+ .rela.text._vfprintf_r
+                0x00000000000e3b90        0x0 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/close.o
+ .rela.text._sbrk_r
+                0x00000000000e3b90        0x0 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/close.o
+ .rela.text._write_r
+                0x00000000000e3b90        0x0 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/close.o
+ .rela.text._close_r
+                0x00000000000e3b90        0x0 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/close.o
+ .rela.text._fstat_r
+                0x00000000000e3b90        0x0 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/close.o
+ .rela.text._isatty_r
+                0x00000000000e3b90        0x0 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/close.o
+ .rela.text._lseek_r
+                0x00000000000e3b90        0x0 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/close.o
+ .rela.text._read_r
+                0x00000000000e3b90        0x0 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/close.o
+
+.fini
+ *(SORT_NONE(.fini))
+                0x00000000000e3b90                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__etext = .)
+                [!provide]                        PROVIDE (_etext = .)
+                [!provide]                        PROVIDE (etext = .)
+                0x00000000000e3b90                PROVIDE (_eilm = .)
+
+.preinit_array  0x00000000000e3b8e        0x0
+                0x00000000000e3b8e                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array)
+                0x00000000000e3b8e                PROVIDE (__preinit_array_end = .)
+
+.init_array     0x00000000000e3b8e        0x0
+                0x00000000000e3b8e                PROVIDE (__init_array_start = .)
+ *(SORT_BY_INIT_PRIORITY(.init_array.*) SORT_BY_INIT_PRIORITY(.ctors.*))
+ *(.init_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .ctors)
+                0x00000000000e3b8e                PROVIDE (__init_array_end = .)
+
+.fini_array     0x00000000000e3b8e        0x0
+                0x00000000000e3b8e                PROVIDE (__fini_array_start = .)
+ *(SORT_BY_INIT_PRIORITY(.fini_array.*) SORT_BY_INIT_PRIORITY(.dtors.*))
+ *(.fini_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .dtors)
+                0x00000000000e3b8e                PROVIDE (__fini_array_end = .)
+
+.ctors
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+
+.lalign         0x00000000000e3b8e        0x2
+                0x00000000000e3b90                . = ALIGN (0x4)
+ *fill*         0x00000000000e3b8e        0x2 
+                0x00000000000e3b90                PROVIDE (_data_lma = .)
+
+.dalign         0x0000000020000000        0x0 load address 0x00000000000e3b90
+                0x0000000020000000                . = ALIGN (0x4)
+                0x0000000020000000                PROVIDE (_data = .)
+
+.data           0x0000000020000000       0x78 load address 0x00000000000e3b90
+ *(.gnu.linkonce.r.*)
+ *(.data .data.*)
+ .data.impure_data
+                0x0000000020000000       0x60 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-impure.o)
+ *(.gnu.linkonce.d.*)
+                0x0000000020000060                . = ALIGN (0x8)
+                0x0000000020000860                PROVIDE (__global_pointer$ = (. + 0x800))
+ *(.sdata .sdata.* .sdata*)
+ .sdata.curbrk.1969
+                0x0000000020000060        0x4 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/sbrk.o
+ .sdata.SystemCoreClock
+                0x0000000020000064        0x4 ./sf1_sdk/SoC/anlogic/Common/Source/system_nuclei.o
+                0x0000000020000064                SystemCoreClock
+ .sdata.i_dir   0x0000000020000068        0x4 ./application/main.o
+                0x0000000020000068                i_dir
+ .sdata._impure_ptr
+                0x000000002000006c        0x4 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-impure.o)
+                0x000000002000006c                _impure_ptr
+ .sdata2._global_impure_ptr
+                0x0000000020000070        0x4 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-impure.o)
+                0x0000000020000070                _global_impure_ptr
+ *(.gnu.linkonce.s.*)
+                0x0000000020000078                . = ALIGN (0x8)
+ *fill*         0x0000000020000074        0x4 
+ *(.srodata.cst16)
+ *(.srodata.cst8)
+ *(.srodata.cst4)
+ *(.srodata.cst2)
+ *(.srodata .srodata.*)
+                0x0000000020000078                . = ALIGN (0x4)
+                0x0000000020000078                PROVIDE (_edata = .)
+                [!provide]                        PROVIDE (edata = .)
+                [!provide]                        PROVIDE (_fbss = .)
+                0x0000000020000078                PROVIDE (__bss_start = .)
+
+.bss            0x0000000020000078      0x10c
+ *(.sbss*)
+ .sbss.id_aim   0x0000000020000078        0x4 ./application/main.o
+                0x0000000020000078                id_aim
+ .sbss.iq_aim   0x000000002000007c        0x4 ./application/main.o
+                0x000000002000007c                iq_aim
+ .sbss.v_aim    0x0000000020000080        0x4 ./application/main.o
+                0x0000000020000080                v_aim
+ .sbss.p_aim    0x0000000020000084        0x4 ./application/main.o
+                0x0000000020000084                p_aim
+ .sbss.vd_aim   0x0000000020000088        0x4 ./application/main.o
+                0x0000000020000088                vd_aim
+ .sbss.vq_aim   0x000000002000008c        0x4 ./application/main.o
+                0x000000002000008c                vq_aim
+ .sbss.cycle_method
+                0x0000000020000090        0x4 ./application/main.o
+                0x0000000020000090                cycle_method
+ .sbss.inc_dir  0x0000000020000094        0x4 ./application/main.o
+                0x0000000020000094                inc_dir
+ .sbss.inc_value
+                0x0000000020000098        0x4 ./application/main.o
+                0x0000000020000098                inc_value
+ .sbss.uart_reg
+                0x000000002000009c        0x4 ./application/main.o
+                0x000000002000009c                uart_reg
+ .sbss.uart_rec
+                0x00000000200000a0        0x1 ./application/main.o
+                0x00000000200000a0                uart_rec
+ *fill*         0x00000000200000a1        0x3 
+ .sbss.error_sum.5371
+                0x00000000200000a4        0x4 ./application/main.o
+ .sbss.last_error.5372
+                0x00000000200000a8        0x4 ./application/main.o
+ .sbss.error_sum.5379
+                0x00000000200000ac        0x4 ./application/main.o
+ .sbss.last_error.5380
+                0x00000000200000b0        0x4 ./application/main.o
+ .sbss._global_atexit
+                0x00000000200000b4        0x4 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-__call_atexit.o)
+                0x00000000200000b4                _global_atexit
+ .sbss.__malloc_free_list
+                0x00000000200000b8        0x4 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-nano-mallocr.o)
+                0x00000000200000b8                __malloc_free_list
+ .sbss.__malloc_sbrk_start
+                0x00000000200000bc        0x4 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-nano-mallocr.o)
+                0x00000000200000bc                __malloc_sbrk_start
+ *(.gnu.linkonce.sb.*)
+ *(.bss .bss.*)
+ .bss.SystemExceptionHandlers
+                0x00000000200000c0       0x34 ./sf1_sdk/SoC/anlogic/Common/Source/system_nuclei.o
+ .bss._global_atexit0
+                0x00000000200000f4       0x8c c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-__atexit.o)
+ *(.gnu.linkonce.b.*)
+ *(COMMON)
+ COMMON         0x0000000020000180        0x4 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-reent.o)
+                0x0000000020000180                errno
+                0x0000000020000184                . = ALIGN (0x4)
+                0x0000000020000188                . = ALIGN (0x8)
+                0x0000000020000188                PROVIDE (_end = .)
+                [!provide]                        PROVIDE (end = .)
+
+.stack          0x0000000020001400      0xc00 load address 0x0000000020000184
+                0x0000000020001400                PROVIDE (_heap_end = .)
+                0x0000000000000400                . = __int_stack_size
+ *fill*         0x0000000020001400      0x400 
+                [!provide]                        PROVIDE (_int_sp = .)
+                0x0000000020002000                . = (. + __stack_size)
+ *fill*         0x0000000020001800      0x800 
+                0x0000000020002000                PROVIDE (_sp = .)
+OUTPUT(foc_controller.elf elf32-littleriscv)
+
+.debug_info     0x0000000000000000     0xbe26
+ .debug_info    0x0000000000000000      0x992 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/close.o
+ .debug_info    0x0000000000000992      0xc1f ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/fstat.o
+ .debug_info    0x00000000000015b1       0xf3 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/isatty.o
+ .debug_info    0x00000000000016a4      0xa16 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/lseek.o
+ .debug_info    0x00000000000020ba      0xaf6 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/read.o
+ .debug_info    0x0000000000002bb0      0x137 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/sbrk.o
+ .debug_info    0x0000000000002ce7      0xb19 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/write.o
+ .debug_info    0x0000000000003800       0x22 ./sf1_sdk/SoC/anlogic/Common/Source/GCC/intexc_anlogic.o
+ .debug_info    0x0000000000003822       0x22 ./sf1_sdk/SoC/anlogic/Common/Source/GCC/startup_anlogic.o
+ .debug_info    0x0000000000003844      0xb37 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/anl_printf.o
+ .debug_info    0x000000000000437b      0xf6c ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_uart.o
+ .debug_info    0x00000000000052e7      0xbc4 ./sf1_sdk/SoC/anlogic/Common/Source/nuclei_common.o
+ .debug_info    0x0000000000005eab     0x14a4 ./sf1_sdk/SoC/anlogic/Common/Source/system_nuclei.o
+ .debug_info    0x000000000000734f     0x151f ./application/main.o
+ .debug_info    0x000000000000886e     0x1245 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(_udivdi3.o)
+ .debug_info    0x0000000000009ab3      0x75c c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(muldf3.o)
+ .debug_info    0x000000000000a20f      0x21a c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(fixdfsi.o)
+ .debug_info    0x000000000000a429      0x2bc c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(floatsidf.o)
+ .debug_info    0x000000000000a6e5      0xb6a c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(_clz.o)
+ .debug_info    0x000000000000b24f      0xbd7 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(_clzsi2.o)
+
+.debug_abbrev   0x0000000000000000     0x284c
+ .debug_abbrev  0x0000000000000000      0x203 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/close.o
+ .debug_abbrev  0x0000000000000203      0x203 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/fstat.o
+ .debug_abbrev  0x0000000000000406       0x73 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/isatty.o
+ .debug_abbrev  0x0000000000000479      0x203 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/lseek.o
+ .debug_abbrev  0x000000000000067c      0x212 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/read.o
+ .debug_abbrev  0x000000000000088e       0xa8 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/sbrk.o
+ .debug_abbrev  0x0000000000000936      0x231 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/write.o
+ .debug_abbrev  0x0000000000000b67       0x12 ./sf1_sdk/SoC/anlogic/Common/Source/GCC/intexc_anlogic.o
+ .debug_abbrev  0x0000000000000b79       0x12 ./sf1_sdk/SoC/anlogic/Common/Source/GCC/startup_anlogic.o
+ .debug_abbrev  0x0000000000000b8b      0x271 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/anl_printf.o
+ .debug_abbrev  0x0000000000000dfc      0x287 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_uart.o
+ .debug_abbrev  0x0000000000001083      0x2b5 ./sf1_sdk/SoC/anlogic/Common/Source/nuclei_common.o
+ .debug_abbrev  0x0000000000001338      0x4b5 ./sf1_sdk/SoC/anlogic/Common/Source/system_nuclei.o
+ .debug_abbrev  0x00000000000017ed      0x4d9 ./application/main.o
+ .debug_abbrev  0x0000000000001cc6      0x2cc c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(_udivdi3.o)
+ .debug_abbrev  0x0000000000001f92      0x18e c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(muldf3.o)
+ .debug_abbrev  0x0000000000002120      0x18a c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(fixdfsi.o)
+ .debug_abbrev  0x00000000000022aa      0x178 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(floatsidf.o)
+ .debug_abbrev  0x0000000000002422      0x1e8 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(_clz.o)
+ .debug_abbrev  0x000000000000260a      0x242 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(_clzsi2.o)
+
+.debug_aranges  0x0000000000000000      0x438
+ .debug_aranges
+                0x0000000000000000       0x28 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/close.o
+ .debug_aranges
+                0x0000000000000028       0x28 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/fstat.o
+ .debug_aranges
+                0x0000000000000050       0x20 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/isatty.o
+ .debug_aranges
+                0x0000000000000070       0x28 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/lseek.o
+ .debug_aranges
+                0x0000000000000098       0x20 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/read.o
+ .debug_aranges
+                0x00000000000000b8       0x20 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/sbrk.o
+ .debug_aranges
+                0x00000000000000d8       0x20 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/write.o
+ .debug_aranges
+                0x00000000000000f8       0x28 ./sf1_sdk/SoC/anlogic/Common/Source/GCC/intexc_anlogic.o
+ .debug_aranges
+                0x0000000000000120       0x28 ./sf1_sdk/SoC/anlogic/Common/Source/GCC/startup_anlogic.o
+ .debug_aranges
+                0x0000000000000148       0x48 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/anl_printf.o
+ .debug_aranges
+                0x0000000000000190       0xd8 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_uart.o
+ .debug_aranges
+                0x0000000000000268       0x40 ./sf1_sdk/SoC/anlogic/Common/Source/nuclei_common.o
+ .debug_aranges
+                0x00000000000002a8       0x78 ./sf1_sdk/SoC/anlogic/Common/Source/system_nuclei.o
+ .debug_aranges
+                0x0000000000000320       0x60 ./application/main.o
+ .debug_aranges
+                0x0000000000000380       0x20 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(_udivdi3.o)
+ .debug_aranges
+                0x00000000000003a0       0x20 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(muldf3.o)
+ .debug_aranges
+                0x00000000000003c0       0x20 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(fixdfsi.o)
+ .debug_aranges
+                0x00000000000003e0       0x20 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(floatsidf.o)
+ .debug_aranges
+                0x0000000000000400       0x18 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(_clz.o)
+ .debug_aranges
+                0x0000000000000418       0x20 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(_clzsi2.o)
+
+.debug_ranges   0x0000000000000000      0x670
+ .debug_ranges  0x0000000000000000       0x18 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/close.o
+ .debug_ranges  0x0000000000000018       0x18 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/fstat.o
+ .debug_ranges  0x0000000000000030       0x10 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/isatty.o
+ .debug_ranges  0x0000000000000040       0x18 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/lseek.o
+ .debug_ranges  0x0000000000000058       0x10 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/read.o
+ .debug_ranges  0x0000000000000068       0x10 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/sbrk.o
+ .debug_ranges  0x0000000000000078       0x10 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/write.o
+ .debug_ranges  0x0000000000000088       0x20 ./sf1_sdk/SoC/anlogic/Common/Source/GCC/intexc_anlogic.o
+ .debug_ranges  0x00000000000000a8       0x20 ./sf1_sdk/SoC/anlogic/Common/Source/GCC/startup_anlogic.o
+ .debug_ranges  0x00000000000000c8       0x38 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/anl_printf.o
+ .debug_ranges  0x0000000000000100       0xc8 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_uart.o
+ .debug_ranges  0x00000000000001c8       0x30 ./sf1_sdk/SoC/anlogic/Common/Source/nuclei_common.o
+ .debug_ranges  0x00000000000001f8       0x68 ./sf1_sdk/SoC/anlogic/Common/Source/system_nuclei.o
+ .debug_ranges  0x0000000000000260       0x50 ./application/main.o
+ .debug_ranges  0x00000000000002b0       0xf0 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(_udivdi3.o)
+ .debug_ranges  0x00000000000003a0      0x230 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(muldf3.o)
+ .debug_ranges  0x00000000000005d0       0x18 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(fixdfsi.o)
+ .debug_ranges  0x00000000000005e8       0x68 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(floatsidf.o)
+ .debug_ranges  0x0000000000000650       0x20 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(_clzsi2.o)
+
+.debug_line     0x0000000000000000     0x5e19
+ .debug_line    0x0000000000000000      0x19d ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/close.o
+ .debug_line    0x000000000000019d      0x2a6 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/fstat.o
+ .debug_line    0x0000000000000443       0xde ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/isatty.o
+ .debug_line    0x0000000000000521      0x1b4 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/lseek.o
+ .debug_line    0x00000000000006d5      0x2b6 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/read.o
+ .debug_line    0x000000000000098b      0x188 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/sbrk.o
+ .debug_line    0x0000000000000b13      0x309 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/write.o
+ .debug_line    0x0000000000000e1c       0xd0 ./sf1_sdk/SoC/anlogic/Common/Source/GCC/intexc_anlogic.o
+ .debug_line    0x0000000000000eec      0x1fd ./sf1_sdk/SoC/anlogic/Common/Source/GCC/startup_anlogic.o
+ .debug_line    0x00000000000010e9      0x542 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/anl_printf.o
+ .debug_line    0x000000000000162b      0x9c8 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_uart.o
+ .debug_line    0x0000000000001ff3      0x4bd ./sf1_sdk/SoC/anlogic/Common/Source/nuclei_common.o
+ .debug_line    0x00000000000024b0      0x8e6 ./sf1_sdk/SoC/anlogic/Common/Source/system_nuclei.o
+ .debug_line    0x0000000000002d96      0xd93 ./application/main.o
+ .debug_line    0x0000000000003b29      0x9a6 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(_udivdi3.o)
+ .debug_line    0x00000000000044cf      0xe12 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(muldf3.o)
+ .debug_line    0x00000000000052e1      0x281 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(fixdfsi.o)
+ .debug_line    0x0000000000005562      0x2bb c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(floatsidf.o)
+ .debug_line    0x000000000000581d      0x2b8 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(_clz.o)
+ .debug_line    0x0000000000005ad5      0x344 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(_clzsi2.o)
+
+.debug_str      0x0000000000000000     0x1edd
+ .debug_str     0x0000000000000000      0x52a ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/close.o
+                                        0x5b1 (size before relaxing)
+ .debug_str     0x000000000000052a      0x185 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/fstat.o
+                                        0x74f (size before relaxing)
+ .debug_str     0x00000000000006af       0x3c ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/isatty.o
+                                        0x1e2 (size before relaxing)
+ .debug_str     0x00000000000006eb       0x3a ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/lseek.o
+                                        0x5f3 (size before relaxing)
+ .debug_str     0x0000000000000725       0x97 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/read.o
+                                        0x667 (size before relaxing)
+ .debug_str     0x00000000000007bc       0x58 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/sbrk.o
+                                        0x203 (size before relaxing)
+ .debug_str     0x0000000000000814       0x3c ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/write.o
+                                        0x669 (size before relaxing)
+ .debug_str     0x0000000000000850       0x46 ./sf1_sdk/SoC/anlogic/Common/Source/GCC/intexc_anlogic.o
+                                         0x8e (size before relaxing)
+ .debug_str     0x0000000000000896       0x3b ./sf1_sdk/SoC/anlogic/Common/Source/GCC/startup_anlogic.o
+                                         0x8f (size before relaxing)
+ .debug_str     0x00000000000008d1       0xa4 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/anl_printf.o
+                                        0x674 (size before relaxing)
+ .debug_str     0x0000000000000975      0x322 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_uart.o
+                                        0x92a (size before relaxing)
+ .debug_str     0x0000000000000c97      0x13d ./sf1_sdk/SoC/anlogic/Common/Source/nuclei_common.o
+                                        0x6e0 (size before relaxing)
+ .debug_str     0x0000000000000dd4      0x665 ./sf1_sdk/SoC/anlogic/Common/Source/system_nuclei.o
+                                        0xcfc (size before relaxing)
+ .debug_str     0x0000000000001439      0x238 ./application/main.o
+                                        0xd4f (size before relaxing)
+ .debug_str     0x0000000000001671      0x3af c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(_udivdi3.o)
+                                        0x8a7 (size before relaxing)
+ .debug_str     0x0000000000001a20      0x33e c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(muldf3.o)
+                                        0x487 (size before relaxing)
+ .debug_str     0x0000000000001d5e       0x6a c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(fixdfsi.o)
+                                        0x284 (size before relaxing)
+ .debug_str     0x0000000000001dc8      0x10c c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(floatsidf.o)
+                                        0x31a (size before relaxing)
+ .debug_str     0x0000000000001ed4      0x7ee c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(_clz.o)
+ .debug_str     0x0000000000001ed4        0x9 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(_clzsi2.o)
+                                        0x80b (size before relaxing)
+
+.comment        0x0000000000000000       0x11
+ .comment       0x0000000000000000       0x11 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/close.o
+                                         0x12 (size before relaxing)
+ .comment       0x0000000000000011       0x12 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/fstat.o
+ .comment       0x0000000000000011       0x12 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/isatty.o
+ .comment       0x0000000000000011       0x12 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/lseek.o
+ .comment       0x0000000000000011       0x12 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/read.o
+ .comment       0x0000000000000011       0x12 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/sbrk.o
+ .comment       0x0000000000000011       0x12 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/write.o
+ .comment       0x0000000000000011       0x12 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/anl_printf.o
+ .comment       0x0000000000000011       0x12 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_uart.o
+ .comment       0x0000000000000011       0x12 ./sf1_sdk/SoC/anlogic/Common/Source/nuclei_common.o
+ .comment       0x0000000000000011       0x12 ./sf1_sdk/SoC/anlogic/Common/Source/system_nuclei.o
+ .comment       0x0000000000000011       0x12 ./application/main.o
+ .comment       0x0000000000000011       0x12 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(_udivdi3.o)
+ .comment       0x0000000000000011       0x12 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(muldf3.o)
+ .comment       0x0000000000000011       0x12 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(fixdfsi.o)
+ .comment       0x0000000000000011       0x12 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(floatsidf.o)
+ .comment       0x0000000000000011       0x12 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(_clz.o)
+ .comment       0x0000000000000011       0x12 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(_clzsi2.o)
+ .comment       0x0000000000000011       0x12 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-atexit.o)
+ .comment       0x0000000000000011       0x12 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-fini.o)
+ .comment       0x0000000000000011       0x12 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-init.o)
+ .comment       0x0000000000000011       0x12 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-printf.o)
+ .comment       0x0000000000000011       0x12 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-sysisatty.o)
+ .comment       0x0000000000000011       0x12 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-wbuf.o)
+ .comment       0x0000000000000011       0x12 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-wsetup.o)
+ .comment       0x0000000000000011       0x12 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-__atexit.o)
+ .comment       0x0000000000000011       0x12 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-__call_atexit.o)
+ .comment       0x0000000000000011       0x12 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-fflush.o)
+ .comment       0x0000000000000011       0x12 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-findfp.o)
+ .comment       0x0000000000000011       0x12 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-fwalk.o)
+ .comment       0x0000000000000011       0x12 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-impure.o)
+ .comment       0x0000000000000011       0x12 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-makebuf.o)
+ .comment       0x0000000000000011       0x12 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-nano-freer.o)
+ .comment       0x0000000000000011       0x12 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-nano-mallocr.o)
+ .comment       0x0000000000000011       0x12 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-nano-vfprintf.o)
+ .comment       0x0000000000000011       0x12 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-sbrkr.o)
+ .comment       0x0000000000000011       0x12 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-stdio.o)
+ .comment       0x0000000000000011       0x12 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-writer.o)
+ .comment       0x0000000000000011       0x12 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-closer.o)
+ .comment       0x0000000000000011       0x12 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-fstatr.o)
+ .comment       0x0000000000000011       0x12 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-isattyr.o)
+ .comment       0x0000000000000011       0x12 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-lseekr.o)
+ .comment       0x0000000000000011       0x12 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-memchr.o)
+ .comment       0x0000000000000011       0x12 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-mlock.o)
+ .comment       0x0000000000000011       0x12 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .comment       0x0000000000000011       0x12 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-readr.o)
+ .comment       0x0000000000000011       0x12 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-reent.o)
+
+.riscv.attributes
+                0x0000000000000000       0x2b
+ .riscv.attributes
+                0x0000000000000000       0x2b ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/close.o
+ .riscv.attributes
+                0x000000000000002b       0x2b ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/fstat.o
+ .riscv.attributes
+                0x0000000000000056       0x2b ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/isatty.o
+ .riscv.attributes
+                0x0000000000000081       0x2b ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/lseek.o
+ .riscv.attributes
+                0x00000000000000ac       0x2b ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/read.o
+ .riscv.attributes
+                0x00000000000000d7       0x2b ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/sbrk.o
+ .riscv.attributes
+                0x0000000000000102       0x2b ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/write.o
+ .riscv.attributes
+                0x000000000000012d       0x29 ./sf1_sdk/SoC/anlogic/Common/Source/GCC/intexc_anlogic.o
+ .riscv.attributes
+                0x0000000000000156       0x29 ./sf1_sdk/SoC/anlogic/Common/Source/GCC/startup_anlogic.o
+ .riscv.attributes
+                0x000000000000017f       0x2b ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/anl_printf.o
+ .riscv.attributes
+                0x00000000000001aa       0x2b ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_uart.o
+ .riscv.attributes
+                0x00000000000001d5       0x2b ./sf1_sdk/SoC/anlogic/Common/Source/nuclei_common.o
+ .riscv.attributes
+                0x0000000000000200       0x2b ./sf1_sdk/SoC/anlogic/Common/Source/system_nuclei.o
+ .riscv.attributes
+                0x000000000000022b       0x2b ./application/main.o
+ .riscv.attributes
+                0x0000000000000256       0x2b c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(_udivdi3.o)
+ .riscv.attributes
+                0x0000000000000281       0x2b c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(muldf3.o)
+ .riscv.attributes
+                0x00000000000002ac       0x2b c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(fixdfsi.o)
+ .riscv.attributes
+                0x00000000000002d7       0x2b c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(floatsidf.o)
+ .riscv.attributes
+                0x0000000000000302       0x2b c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(_clz.o)
+ .riscv.attributes
+                0x000000000000032d       0x2b c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(_clzsi2.o)
+ .riscv.attributes
+                0x0000000000000358       0x2b c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-atexit.o)
+ .riscv.attributes
+                0x0000000000000383       0x2b c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-fini.o)
+ .riscv.attributes
+                0x00000000000003ae       0x2b c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-init.o)
+ .riscv.attributes
+                0x00000000000003d9       0x2b c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-printf.o)
+ .riscv.attributes
+                0x0000000000000404       0x2b c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-sysisatty.o)
+ .riscv.attributes
+                0x000000000000042f       0x2b c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-wbuf.o)
+ .riscv.attributes
+                0x000000000000045a       0x2b c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-wsetup.o)
+ .riscv.attributes
+                0x0000000000000485       0x2b c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-__atexit.o)
+ .riscv.attributes
+                0x00000000000004b0       0x2b c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-__call_atexit.o)
+ .riscv.attributes
+                0x00000000000004db       0x2b c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-fflush.o)
+ .riscv.attributes
+                0x0000000000000506       0x2b c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-findfp.o)
+ .riscv.attributes
+                0x0000000000000531       0x2b c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-fwalk.o)
+ .riscv.attributes
+                0x000000000000055c       0x2b c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-impure.o)
+ .riscv.attributes
+                0x0000000000000587       0x2b c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-makebuf.o)
+ .riscv.attributes
+                0x00000000000005b2       0x29 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-memset.o)
+ .riscv.attributes
+                0x00000000000005db       0x2b c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-nano-freer.o)
+ .riscv.attributes
+                0x0000000000000606       0x2b c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-nano-mallocr.o)
+ .riscv.attributes
+                0x0000000000000631       0x2b c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-nano-vfprintf.o)
+ .riscv.attributes
+                0x000000000000065c       0x2b c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-sbrkr.o)
+ .riscv.attributes
+                0x0000000000000687       0x2b c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-stdio.o)
+ .riscv.attributes
+                0x00000000000006b2       0x2b c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-writer.o)
+ .riscv.attributes
+                0x00000000000006dd       0x2b c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-closer.o)
+ .riscv.attributes
+                0x0000000000000708       0x2b c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-fstatr.o)
+ .riscv.attributes
+                0x0000000000000733       0x2b c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-isattyr.o)
+ .riscv.attributes
+                0x000000000000075e       0x2b c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-lseekr.o)
+ .riscv.attributes
+                0x0000000000000789       0x2b c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-memchr.o)
+ .riscv.attributes
+                0x00000000000007b4       0x2b c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-mlock.o)
+ .riscv.attributes
+                0x00000000000007df       0x2b c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .riscv.attributes
+                0x000000000000080a       0x2b c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-readr.o)
+ .riscv.attributes
+                0x0000000000000835       0x2b c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32\libg_nano.a(lib_a-reent.o)
+
+.debug_frame    0x0000000000000000      0xb68
+ .debug_frame   0x0000000000000000       0x5c ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/close.o
+ .debug_frame   0x000000000000005c       0x5c ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/fstat.o
+ .debug_frame   0x00000000000000b8       0x34 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/isatty.o
+ .debug_frame   0x00000000000000ec       0x5c ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/lseek.o
+ .debug_frame   0x0000000000000148       0x38 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/read.o
+ .debug_frame   0x0000000000000180       0x34 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/sbrk.o
+ .debug_frame   0x00000000000001b4       0x38 ./sf1_sdk/SoC/anlogic/Common/Source/Stubs/write.o
+ .debug_frame   0x00000000000001ec      0x100 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/anl_printf.o
+ .debug_frame   0x00000000000002ec      0x370 ./sf1_sdk/SoC/anlogic/Common/Source/Drivers/nuclei_uart.o
+ .debug_frame   0x000000000000065c       0xd8 ./sf1_sdk/SoC/anlogic/Common/Source/nuclei_common.o
+ .debug_frame   0x0000000000000734      0x1d0 ./sf1_sdk/SoC/anlogic/Common/Source/system_nuclei.o
+ .debug_frame   0x0000000000000904      0x198 ./application/main.o
+ .debug_frame   0x0000000000000a9c       0x54 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(muldf3.o)
+ .debug_frame   0x0000000000000af0       0x20 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(fixdfsi.o)
+ .debug_frame   0x0000000000000b10       0x38 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(floatsidf.o)
+ .debug_frame   0x0000000000000b48       0x20 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(_clzsi2.o)
+
+.debug_loc      0x0000000000000000     0x1cd0
+ .debug_loc     0x0000000000000000      0xbfe c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(_udivdi3.o)
+ .debug_loc     0x0000000000000bfe      0xd9a c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(muldf3.o)
+ .debug_loc     0x0000000000001998      0x181 c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(fixdfsi.o)
+ .debug_loc     0x0000000000001b19      0x14c c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(floatsidf.o)
+ .debug_loc     0x0000000000001c65       0x6b c:/users/15597/desktop/sf1/futuredynasty/toolchain/gcc/riscv/sf1/bin/../lib/gcc/riscv-nuclei-elf/9.2.0/rv32imac/ilp32\libgcc.a(_clzsi2.o)

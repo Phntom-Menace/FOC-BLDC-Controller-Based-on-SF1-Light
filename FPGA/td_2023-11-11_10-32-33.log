@@ -1,0 +1,1093 @@
+============================================================
+   Tang Dynasty, V5.6.71036
+      Copyright (c) 2012-2023 Anlogic Inc.
+   Executable = D:/Anlogic/TD5.6.2/bin/td.exe
+   Built at =   20:34:38 Mar 21 2023
+   Run by =     15597
+   Run Date =   Sat Nov 11 10:32:33 2023
+
+   Run on =     XR097-DELL-G7
+============================================================
+RUN-1002 : start command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0"
+PRG-2014 : Chip validation success: SF1S60
+PRG-2505 : ProgramSvf:  program FOC_Controller_Runs/phy_1/FOC_Controller.svf successfully
+RUN-1003 : finish command "program_svf -svf FOC_Controller_Runs/phy_1/FOC_Controller.svf -spd 6" in  13.552101s wall, 0.140625s user + 0.062500s system = 0.203125s CPU (1.5%)
+
+RUN-1004 : used memory is 259 MB, reserved memory is 182 MB, peak memory is 292 MB
+RUN-1003 : finish command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0" in  13.907340s wall, 0.281250s user + 0.078125s system = 0.359375s CPU (2.6%)
+
+RUN-1004 : used memory is 259 MB, reserved memory is 182 MB, peak memory is 292 MB
+GUI-1001 : Downloading succeeded!
+RUN-1002 : start command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0"
+PRG-2014 : Chip validation success: SF1S60
+PRG-2505 : ProgramSvf:  program FOC_Controller_Runs/phy_1/FOC_Controller.svf successfully
+RUN-1003 : finish command "program_svf -svf FOC_Controller_Runs/phy_1/FOC_Controller.svf -spd 6" in  13.574372s wall, 0.140625s user + 0.000000s system = 0.140625s CPU (1.0%)
+
+RUN-1004 : used memory is 258 MB, reserved memory is 179 MB, peak memory is 292 MB
+RUN-1003 : finish command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0" in  13.830552s wall, 0.218750s user + 0.031250s system = 0.250000s CPU (1.8%)
+
+RUN-1004 : used memory is 258 MB, reserved memory is 179 MB, peak memory is 292 MB
+GUI-1001 : Downloading succeeded!
+RUN-1002 : start command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0"
+PRG-2014 : Chip validation success: SF1S60
+PRG-2505 : ProgramSvf:  program FOC_Controller_Runs/phy_1/FOC_Controller.svf successfully
+RUN-1003 : finish command "program_svf -svf FOC_Controller_Runs/phy_1/FOC_Controller.svf -spd 6" in  13.361489s wall, 0.062500s user + 0.140625s system = 0.203125s CPU (1.5%)
+
+RUN-1004 : used memory is 262 MB, reserved memory is 185 MB, peak memory is 292 MB
+RUN-1003 : finish command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0" in  13.609563s wall, 0.187500s user + 0.140625s system = 0.328125s CPU (2.4%)
+
+RUN-1004 : used memory is 262 MB, reserved memory is 185 MB, peak memory is 292 MB
+GUI-1001 : Downloading succeeded!
+RUN-1002 : start command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0"
+PRG-2014 : Chip validation success: SF1S60
+PRG-2505 : ProgramSvf:  program FOC_Controller_Runs/phy_1/FOC_Controller.svf successfully
+RUN-1003 : finish command "program_svf -svf FOC_Controller_Runs/phy_1/FOC_Controller.svf -spd 6" in  13.461743s wall, 0.171875s user + 0.000000s system = 0.171875s CPU (1.3%)
+
+RUN-1004 : used memory is 268 MB, reserved memory is 193 MB, peak memory is 292 MB
+RUN-1003 : finish command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0" in  13.726545s wall, 0.281250s user + 0.031250s system = 0.312500s CPU (2.3%)
+
+RUN-1004 : used memory is 268 MB, reserved memory is 193 MB, peak memory is 292 MB
+GUI-1001 : Downloading succeeded!
+RUN-1002 : start command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0"
+PRG-2014 : Chip validation success: SF1S60
+PRG-2505 : ProgramSvf:  program FOC_Controller_Runs/phy_1/FOC_Controller.svf successfully
+RUN-1003 : finish command "program_svf -svf FOC_Controller_Runs/phy_1/FOC_Controller.svf -spd 6" in  13.471879s wall, 0.078125s user + 0.031250s system = 0.109375s CPU (0.8%)
+
+RUN-1004 : used memory is 269 MB, reserved memory is 192 MB, peak memory is 292 MB
+RUN-1003 : finish command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0" in  13.715633s wall, 0.171875s user + 0.046875s system = 0.218750s CPU (1.6%)
+
+RUN-1004 : used memory is 269 MB, reserved memory is 192 MB, peak memory is 292 MB
+GUI-1001 : Downloading succeeded!
+RUN-1002 : start command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0"
+PRG-2014 : Chip validation success: SF1S60
+PRG-2505 : ProgramSvf:  program FOC_Controller_Runs/phy_1/FOC_Controller.svf successfully
+RUN-1003 : finish command "program_svf -svf FOC_Controller_Runs/phy_1/FOC_Controller.svf -spd 6" in  13.395584s wall, 0.171875s user + 0.000000s system = 0.171875s CPU (1.3%)
+
+RUN-1004 : used memory is 267 MB, reserved memory is 191 MB, peak memory is 292 MB
+RUN-1003 : finish command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0" in  13.680402s wall, 0.359375s user + 0.031250s system = 0.390625s CPU (2.9%)
+
+RUN-1004 : used memory is 267 MB, reserved memory is 191 MB, peak memory is 292 MB
+GUI-1001 : Downloading succeeded!
+RUN-1002 : start command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0"
+PRG-2014 : Chip validation success: SF1S60
+PRG-2505 : ProgramSvf:  program FOC_Controller_Runs/phy_1/FOC_Controller.svf successfully
+RUN-1003 : finish command "program_svf -svf FOC_Controller_Runs/phy_1/FOC_Controller.svf -spd 6" in  13.467695s wall, 0.109375s user + 0.125000s system = 0.234375s CPU (1.7%)
+
+RUN-1004 : used memory is 269 MB, reserved memory is 192 MB, peak memory is 292 MB
+RUN-1003 : finish command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0" in  13.707859s wall, 0.234375s user + 0.156250s system = 0.390625s CPU (2.8%)
+
+RUN-1004 : used memory is 269 MB, reserved memory is 192 MB, peak memory is 292 MB
+GUI-1001 : Downloading succeeded!
+RUN-1002 : start command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0"
+PRG-2014 : Chip validation success: SF1S60
+PRG-2505 : ProgramSvf:  program FOC_Controller_Runs/phy_1/FOC_Controller.svf successfully
+RUN-1003 : finish command "program_svf -svf FOC_Controller_Runs/phy_1/FOC_Controller.svf -spd 6" in  13.455227s wall, 0.125000s user + 0.046875s system = 0.171875s CPU (1.3%)
+
+RUN-1004 : used memory is 268 MB, reserved memory is 192 MB, peak memory is 292 MB
+RUN-1003 : finish command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0" in  13.697847s wall, 0.281250s user + 0.046875s system = 0.328125s CPU (2.4%)
+
+RUN-1004 : used memory is 268 MB, reserved memory is 193 MB, peak memory is 292 MB
+GUI-1001 : Downloading succeeded!
+RUN-1002 : start command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0"
+PRG-2014 : Chip validation success: SF1S60
+PRG-2505 : ProgramSvf:  program FOC_Controller_Runs/phy_1/FOC_Controller.svf successfully
+RUN-1003 : finish command "program_svf -svf FOC_Controller_Runs/phy_1/FOC_Controller.svf -spd 6" in  13.402564s wall, 0.156250s user + 0.031250s system = 0.187500s CPU (1.4%)
+
+RUN-1004 : used memory is 271 MB, reserved memory is 194 MB, peak memory is 294 MB
+RUN-1003 : finish command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0" in  13.647774s wall, 0.281250s user + 0.046875s system = 0.328125s CPU (2.4%)
+
+RUN-1004 : used memory is 271 MB, reserved memory is 194 MB, peak memory is 294 MB
+GUI-1001 : Downloading succeeded!
+RUN-1002 : start command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0"
+PRG-2014 : Chip validation success: SF1S60
+PRG-2505 : ProgramSvf:  program FOC_Controller_Runs/phy_1/FOC_Controller.svf successfully
+RUN-1003 : finish command "program_svf -svf FOC_Controller_Runs/phy_1/FOC_Controller.svf -spd 6" in  13.364818s wall, 0.109375s user + 0.109375s system = 0.218750s CPU (1.6%)
+
+RUN-1004 : used memory is 177 MB, reserved memory is 195 MB, peak memory is 294 MB
+RUN-1003 : finish command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0" in  13.606001s wall, 0.187500s user + 0.109375s system = 0.296875s CPU (2.2%)
+
+RUN-1004 : used memory is 177 MB, reserved memory is 195 MB, peak memory is 294 MB
+GUI-1001 : Downloading succeeded!
+RUN-1002 : start command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0"
+PRG-2014 : Chip validation success: SF1S60
+PRG-2505 : ProgramSvf:  program FOC_Controller_Runs/phy_1/FOC_Controller.svf successfully
+RUN-1003 : finish command "program_svf -svf FOC_Controller_Runs/phy_1/FOC_Controller.svf -spd 6" in  13.356013s wall, 0.187500s user + 0.156250s system = 0.343750s CPU (2.6%)
+
+RUN-1004 : used memory is 170 MB, reserved memory is 210 MB, peak memory is 294 MB
+RUN-1003 : finish command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0" in  13.599450s wall, 0.328125s user + 0.171875s system = 0.500000s CPU (3.7%)
+
+RUN-1004 : used memory is 170 MB, reserved memory is 210 MB, peak memory is 294 MB
+GUI-1001 : Downloading succeeded!
+RUN-1002 : start command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0"
+PRG-2014 : Chip validation success: SF1S60
+PRG-2505 : ProgramSvf:  program FOC_Controller_Runs/phy_1/FOC_Controller.svf successfully
+RUN-1003 : finish command "program_svf -svf FOC_Controller_Runs/phy_1/FOC_Controller.svf -spd 6" in  13.399290s wall, 0.203125s user + 0.093750s system = 0.296875s CPU (2.2%)
+
+RUN-1004 : used memory is 171 MB, reserved memory is 211 MB, peak memory is 294 MB
+RUN-1003 : finish command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0" in  13.645765s wall, 0.281250s user + 0.125000s system = 0.406250s CPU (3.0%)
+
+RUN-1004 : used memory is 171 MB, reserved memory is 211 MB, peak memory is 294 MB
+GUI-1001 : Downloading succeeded!
+RUN-1002 : start command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0"
+PRG-2014 : Chip validation success: SF1S60
+PRG-2505 : ProgramSvf:  program FOC_Controller_Runs/phy_1/FOC_Controller.svf successfully
+RUN-1003 : finish command "program_svf -svf FOC_Controller_Runs/phy_1/FOC_Controller.svf -spd 6" in  13.455899s wall, 0.187500s user + 0.093750s system = 0.281250s CPU (2.1%)
+
+RUN-1004 : used memory is 171 MB, reserved memory is 211 MB, peak memory is 294 MB
+RUN-1003 : finish command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0" in  13.708919s wall, 0.328125s user + 0.109375s system = 0.437500s CPU (3.2%)
+
+RUN-1004 : used memory is 171 MB, reserved memory is 211 MB, peak memory is 294 MB
+GUI-1001 : Downloading succeeded!
+HDL-1007 : analyze verilog file RTL/fpga_top.v
+RUN-1001 : reset_run syn_1.
+GUI-6001 WARNING: File C:/Users/15597/Desktop/sf1/MyProject/FOC_Controller/FOC_Controller_Runs/phy_1/FOC_Controller.bit does not exist!
+RUN-1001 : launch_runs syn_1  -jobs 6.
+RUN-1001 : syn_1: run complete.
+HDL-1007 : analyze verilog file ahb_foc_controller.v
+HDL-5007 WARNING: 'S_angle_velocity_din' is not declared in ahb_foc_controller.v(332)
+HDL-5007 WARNING: 'S_angle_velocity_din' is not declared in ahb_foc_controller.v(332)
+RUN-1001 : reset_run syn_1.
+RUN-1001 : launch_runs syn_1  -jobs 6.
+RUN-6001 WARNING: syn_1: run failed.
+HDL-1007 : analyze verilog file ahb_foc_controller.v
+RUN-1001 : reset_run phy_1 syn_1.
+RUN-1001 : launch_runs syn_1 phy_1  -jobs 6.
+RUN-1001 : syn_1: run complete.
+RUN-1001 : phy_1: run complete.
+RUN-1001 : open_run phy_1.
+RUN-1002 : start command "import_db C:/Users/15597/Desktop/sf1/MyProject/FOC_Controller/FOC_Controller_Runs/phy_1/FOC_Controller_pr.db"
+RUN-1001 : Importing database generated by Tang Dynasty, V5.6.71036.
+RUN-1001 : Database version number 46146.
+RUN-1001 : Import flow parameters
+PHY-1001 : Generate detailed routing grids ...
+PHY-1001 : Generate nets ...
+PHY-1001 : net I_clk_25m_dup_1 will be routed on clock mesh
+PHY-5010 WARNING: Net u_ahb_foc_controller/I_ahb_hsize[2] is skipped due to 0 input or output
+PHY-5010 WARNING: Net u_ahb_foc_controller/I_ahb_hsize[1] is skipped due to 0 input or output
+PHY-5010 WARNING: Net u_ahb_foc_controller/I_ahb_hsize[0] is skipped due to 0 input or output
+PHY-1001 : clock net u_ahb_foc_controller/u_foc_controller/S_angle_velocity_clk_syn_4 will be merged with clock u_ahb_foc_controller/u_foc_controller/S_angle_velocity_clk
+PHY-1001 : clock net u_mcu/hclk will be merged with clock u_pll/clk0_buf
+PHY-1001 : net u_ahb_foc_controller/u_foc_controller/u_adc_ad7928/clk will be routed on clock mesh
+PHY-1001 : clock net u_ahb_foc_controller/u_foc_controller/u_foc_top/O_init_done_syn_10 will be merged with clock u_ahb_foc_controller/u_foc_controller/u_foc_top/O_init_done
+PHY-5010 WARNING: Net u_ahb_foc_controller/I_ahb_hsize[2] is skipped due to 0 input or output
+PHY-5010 WARNING: Net u_ahb_foc_controller/I_ahb_hsize[1] is skipped due to 0 input or output
+PHY-5010 WARNING: Net u_ahb_foc_controller/I_ahb_hsize[0] is skipped due to 0 input or output
+PHY-1001 : eco open net = 0
+PHY-5014 WARNING: Detail route doesn't find pib for u_pll/pll_inst.frac_offset_valid[0]
+PHY-5014 WARNING: Detail route doesn't find pib for u_pll/pll_inst.dsm_refclk[0]
+PHY-5014 WARNING: Detail route doesn't find pib for u_pll/pll_inst.dsm_rst[0]
+PHY-5014 WARNING: Detail route doesn't find pib for u_pll/pll_inst.ssc_en[0]
+PHY-1001 : 387 feed throughs used by 222 nets
+RUN-1001 : Import IO constraints
+RUN-1001 : Import Inst constraints
+RUN-1001 : Import design success TD_VERSION=5.6.71036 , DB_VERSION=46146
+RUN-1003 : finish command "import_db C:/Users/15597/Desktop/sf1/MyProject/FOC_Controller/FOC_Controller_Runs/phy_1/FOC_Controller_pr.db" in  5.418695s wall, 4.406250s user + 0.062500s system = 4.468750s CPU (82.5%)
+
+RUN-1004 : used memory is 491 MB, reserved memory is 523 MB, peak memory is 494 MB
+RUN-1002 : start command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0"
+PRG-2014 : Chip validation success: SF1S60
+PRG-2505 : ProgramSvf:  program FOC_Controller_Runs/phy_1/FOC_Controller.svf successfully
+RUN-1003 : finish command "program_svf -svf FOC_Controller_Runs/phy_1/FOC_Controller.svf -spd 6" in  13.366599s wall, 0.140625s user + 0.093750s system = 0.234375s CPU (1.8%)
+
+RUN-1004 : used memory is 488 MB, reserved memory is 518 MB, peak memory is 503 MB
+RUN-1003 : finish command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0" in  13.646903s wall, 0.281250s user + 0.093750s system = 0.375000s CPU (2.7%)
+
+RUN-1004 : used memory is 488 MB, reserved memory is 518 MB, peak memory is 503 MB
+GUI-1001 : Downloading succeeded!
+RUN-1002 : start command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0"
+PRG-2014 : Chip validation success: SF1S60
+PRG-2505 : ProgramSvf:  program FOC_Controller_Runs/phy_1/FOC_Controller.svf successfully
+RUN-1003 : finish command "program_svf -svf FOC_Controller_Runs/phy_1/FOC_Controller.svf -spd 6" in  13.351803s wall, 0.109375s user + 0.062500s system = 0.171875s CPU (1.3%)
+
+RUN-1004 : used memory is 488 MB, reserved memory is 518 MB, peak memory is 503 MB
+RUN-1003 : finish command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0" in  13.593518s wall, 0.203125s user + 0.062500s system = 0.265625s CPU (2.0%)
+
+RUN-1004 : used memory is 488 MB, reserved memory is 518 MB, peak memory is 503 MB
+GUI-1001 : Downloading succeeded!
+HDL-1007 : analyze verilog file RTL/fpga_top.v
+HDL-1007 : analyze verilog file RTL/fpga_top.v
+RUN-1001 : reset_run phy_1 syn_1.
+GUI-6001 WARNING: File C:/Users/15597/Desktop/sf1/MyProject/FOC_Controller/FOC_Controller_Runs/phy_1/FOC_Controller.bit does not exist!
+RUN-1001 : launch_runs syn_1 phy_1  -jobs 6.
+RUN-1001 : syn_1: run complete.
+RUN-6001 WARNING: phy_1: run failed.
+RUN-1001 : open_run phy_1.
+RUN-1002 : start command "import_db C:/Users/15597/Desktop/sf1/MyProject/FOC_Controller/FOC_Controller_Runs/phy_1/FOC_Controller_place.db"
+RUN-1001 : Importing database generated by Tang Dynasty, V5.6.71036.
+RUN-1001 : Database version number 46146.
+RUN-1001 : Import flow parameters
+RUN-1001 : Import IO constraints
+RUN-1001 : Import Inst constraints
+RUN-1001 : Import design success TD_VERSION=5.6.71036 , DB_VERSION=46146
+RUN-1003 : finish command "import_db C:/Users/15597/Desktop/sf1/MyProject/FOC_Controller/FOC_Controller_Runs/phy_1/FOC_Controller_place.db" in  1.401947s wall, 1.109375s user + 0.046875s system = 1.156250s CPU (82.5%)
+
+RUN-1004 : used memory is 354 MB, reserved memory is 382 MB, peak memory is 503 MB
+HDL-1007 : analyze verilog file RTL/fpga_top.v
+RUN-1001 : reset_run phy_1 syn_1.
+RUN-1001 : launch_runs syn_1 phy_1  -jobs 6.
+RUN-1001 : syn_1: run complete.
+RUN-1001 : phy_1: run complete.
+RUN-1001 : open_run phy_1.
+RUN-1002 : start command "import_db C:/Users/15597/Desktop/sf1/MyProject/FOC_Controller/FOC_Controller_Runs/phy_1/FOC_Controller_pr.db"
+RUN-1001 : Importing database generated by Tang Dynasty, V5.6.71036.
+RUN-1001 : Database version number 46146.
+RUN-1001 : Import flow parameters
+PHY-1001 : Generate detailed routing grids ...
+PHY-1001 : Generate nets ...
+PHY-1001 : net I_clk_25m_dup_1 will be routed on clock mesh
+PHY-5010 WARNING: Net u_ahb_foc_controller/I_ahb_hsize[2] is skipped due to 0 input or output
+PHY-5010 WARNING: Net u_ahb_foc_controller/I_ahb_hsize[1] is skipped due to 0 input or output
+PHY-5010 WARNING: Net u_ahb_foc_controller/I_ahb_hsize[0] is skipped due to 0 input or output
+PHY-1001 : clock net u_mcu/hclk will be merged with clock u_pll/clk0_buf
+PHY-1001 : clock net u_ahb_foc_controller/u_foc_controller/S_angle_velocity_clk_syn_4 will be merged with clock u_ahb_foc_controller/u_foc_controller/S_angle_velocity_clk
+PHY-1001 : net u_ahb_foc_controller/u_foc_controller/u_hall_encoder/u_divider/clk will be routed on clock mesh
+PHY-5010 WARNING: Net u_ahb_foc_controller/I_ahb_hsize[2] is skipped due to 0 input or output
+PHY-5010 WARNING: Net u_ahb_foc_controller/I_ahb_hsize[1] is skipped due to 0 input or output
+PHY-5010 WARNING: Net u_ahb_foc_controller/I_ahb_hsize[0] is skipped due to 0 input or output
+PHY-1001 : eco open net = 0
+PHY-5014 WARNING: Detail route doesn't find pib for u_pll/pll_inst.dsm_refclk[0]
+PHY-5014 WARNING: Detail route doesn't find pib for u_pll/pll_inst.frac_offset_valid[0]
+PHY-5014 WARNING: Detail route doesn't find pib for u_pll/pll_inst.ssc_en[0]
+PHY-5014 WARNING: Detail route doesn't find pib for u_pll/pll_inst.dsm_rst[0]
+PHY-1001 : 191 feed throughs used by 77 nets
+RUN-1001 : Import IO constraints
+RUN-1001 : Import Inst constraints
+RUN-1001 : Import design success TD_VERSION=5.6.71036 , DB_VERSION=46146
+RUN-1003 : finish command "import_db C:/Users/15597/Desktop/sf1/MyProject/FOC_Controller/FOC_Controller_Runs/phy_1/FOC_Controller_pr.db" in  1.579485s wall, 1.046875s user + 0.031250s system = 1.078125s CPU (68.3%)
+
+RUN-1004 : used memory is 390 MB, reserved memory is 418 MB, peak memory is 503 MB
+RUN-1002 : start command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0"
+PRG-2014 : Chip validation success: SF1S60
+PRG-2505 : ProgramSvf:  program FOC_Controller_Runs/phy_1/FOC_Controller.svf successfully
+RUN-1003 : finish command "program_svf -svf FOC_Controller_Runs/phy_1/FOC_Controller.svf -spd 6" in  12.921882s wall, 0.171875s user + 0.046875s system = 0.218750s CPU (1.7%)
+
+RUN-1004 : used memory is 392 MB, reserved memory is 419 MB, peak memory is 503 MB
+RUN-1003 : finish command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0" in  13.184751s wall, 0.250000s user + 0.046875s system = 0.296875s CPU (2.3%)
+
+RUN-1004 : used memory is 392 MB, reserved memory is 419 MB, peak memory is 503 MB
+GUI-1001 : Downloading succeeded!
+HDL-1007 : analyze verilog file RTL/fpga_top.v
+HDL-1007 : analyze verilog file RTL/fpga_top.v
+HDL-1007 : analyze verilog file RTL/fpga_top.v
+HDL-1007 : analyze verilog file RTL/fpga_top.v
+RUN-1001 : reset_run phy_1 syn_1.
+GUI-6001 WARNING: File C:/Users/15597/Desktop/sf1/MyProject/FOC_Controller/FOC_Controller_Runs/phy_1/FOC_Controller.bit does not exist!
+RUN-1001 : launch_runs syn_1 phy_1  -jobs 6.
+RUN-1001 : syn_1: run complete.
+RUN-1001 : phy_1: run complete.
+RUN-1001 : open_run phy_1.
+RUN-1002 : start command "import_db C:/Users/15597/Desktop/sf1/MyProject/FOC_Controller/FOC_Controller_Runs/phy_1/FOC_Controller_pr.db"
+RUN-1001 : Importing database generated by Tang Dynasty, V5.6.71036.
+RUN-1001 : Database version number 46146.
+RUN-1001 : Import flow parameters
+PHY-1001 : Generate detailed routing grids ...
+PHY-1001 : Generate nets ...
+PHY-1001 : net I_clk_25m_dup_1 will be routed on clock mesh
+PHY-5010 WARNING: Net u_ahb_foc_controller/I_ahb_hsize[2] is skipped due to 0 input or output
+PHY-5010 WARNING: Net u_ahb_foc_controller/I_ahb_hsize[1] is skipped due to 0 input or output
+PHY-5010 WARNING: Net u_ahb_foc_controller/I_ahb_hsize[0] is skipped due to 0 input or output
+PHY-1001 : clock net u_mcu/hclk will be merged with clock u_pll/clk0_buf
+PHY-1001 : net u_ahb_foc_controller/u_foc_controller/u_hall_encoder/u_divider/clk will be routed on clock mesh
+PHY-1001 : clock net u_ahb_foc_controller/u_foc_controller/S_angle_velocity_clk_syn_4 will be merged with clock u_ahb_foc_controller/u_foc_controller/S_angle_velocity_clk
+PHY-5010 WARNING: Net u_ahb_foc_controller/I_ahb_hsize[2] is skipped due to 0 input or output
+PHY-5010 WARNING: Net u_ahb_foc_controller/I_ahb_hsize[1] is skipped due to 0 input or output
+PHY-5010 WARNING: Net u_ahb_foc_controller/I_ahb_hsize[0] is skipped due to 0 input or output
+PHY-1001 : eco open net = 0
+PHY-5014 WARNING: Detail route doesn't find pib for u_pll/pll_inst.dsm_rst[0]
+PHY-5014 WARNING: Detail route doesn't find pib for u_pll/pll_inst.frac_offset_valid[0]
+PHY-5014 WARNING: Detail route doesn't find pib for u_pll/pll_inst.ssc_en[0]
+PHY-5014 WARNING: Detail route doesn't find pib for u_pll/pll_inst.dsm_refclk[0]
+PHY-1001 : 213 feed throughs used by 107 nets
+RUN-1001 : Import IO constraints
+RUN-1001 : Import Inst constraints
+RUN-1001 : Import design success TD_VERSION=5.6.71036 , DB_VERSION=46146
+RUN-1003 : finish command "import_db C:/Users/15597/Desktop/sf1/MyProject/FOC_Controller/FOC_Controller_Runs/phy_1/FOC_Controller_pr.db" in  1.560043s wall, 0.968750s user + 0.171875s system = 1.140625s CPU (73.1%)
+
+RUN-1004 : used memory is 378 MB, reserved memory is 397 MB, peak memory is 503 MB
+RUN-1002 : start command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0"
+PRG-2014 : Chip validation success: SF1S60
+PRG-2505 : ProgramSvf:  program FOC_Controller_Runs/phy_1/FOC_Controller.svf successfully
+RUN-1003 : finish command "program_svf -svf FOC_Controller_Runs/phy_1/FOC_Controller.svf -spd 6" in  12.926313s wall, 0.109375s user + 0.031250s system = 0.140625s CPU (1.1%)
+
+RUN-1004 : used memory is 400 MB, reserved memory is 417 MB, peak memory is 503 MB
+RUN-1003 : finish command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0" in  13.170843s wall, 0.171875s user + 0.062500s system = 0.234375s CPU (1.8%)
+
+RUN-1004 : used memory is 400 MB, reserved memory is 417 MB, peak memory is 503 MB
+GUI-1001 : Downloading succeeded!
+HDL-1007 : analyze verilog file RTL/fpga_top.v
+HDL-1007 : analyze verilog file RTL/fpga_top.v
+HDL-1007 : analyze verilog file RTL/fpga_top.v
+HDL-1007 : analyze verilog file RTL/fpga_top.v
+HDL-1007 : analyze verilog file RTL/fpga_top.v
+HDL-1007 : analyze verilog file RTL/fpga_top.v
+HDL-1007 : analyze verilog file RTL/fpga_top.v
+HDL-1007 : analyze verilog file RTL/fpga_top.v
+HDL-1007 : analyze verilog file RTL/fpga_top.v
+HDL-1007 : analyze verilog file RTL/fpga_top.v
+RUN-1001 : reset_run phy_1 syn_1.
+GUI-6001 WARNING: File C:/Users/15597/Desktop/sf1/MyProject/FOC_Controller/FOC_Controller_Runs/phy_1/FOC_Controller.bit does not exist!
+RUN-1001 : launch_runs syn_1 phy_1  -jobs 6.
+RUN-1001 : syn_1: run complete.
+RUN-1001 : phy_1: run complete.
+RUN-1001 : open_run phy_1.
+RUN-1002 : start command "import_db C:/Users/15597/Desktop/sf1/MyProject/FOC_Controller/FOC_Controller_Runs/phy_1/FOC_Controller_pr.db"
+RUN-1001 : Importing database generated by Tang Dynasty, V5.6.71036.
+RUN-1001 : Database version number 46146.
+RUN-1001 : Import flow parameters
+PHY-1001 : Generate detailed routing grids ...
+PHY-1001 : Generate nets ...
+PHY-1001 : net I_clk_25m_dup_1 will be routed on clock mesh
+PHY-5010 WARNING: Net u_ahb_foc_controller/I_ahb_hsize[2] is skipped due to 0 input or output
+PHY-5010 WARNING: Net u_ahb_foc_controller/I_ahb_hsize[1] is skipped due to 0 input or output
+PHY-5010 WARNING: Net u_ahb_foc_controller/I_ahb_hsize[0] is skipped due to 0 input or output
+PHY-1001 : clock net u_mcu/hclk will be merged with clock u_pll/clk0_buf
+PHY-1001 : net u_ahb_foc_controller/u_foc_controller/u_hall_encoder/u_divider/clk will be routed on clock mesh
+PHY-5010 WARNING: Net u_ahb_foc_controller/I_ahb_hsize[2] is skipped due to 0 input or output
+PHY-5010 WARNING: Net u_ahb_foc_controller/I_ahb_hsize[1] is skipped due to 0 input or output
+PHY-5010 WARNING: Net u_ahb_foc_controller/I_ahb_hsize[0] is skipped due to 0 input or output
+PHY-1001 : eco open net = 0
+PHY-5014 WARNING: Detail route doesn't find pib for u_pll/pll_inst.ssc_en[0]
+PHY-5014 WARNING: Detail route doesn't find pib for u_pll/pll_inst.frac_offset_valid[0]
+PHY-5014 WARNING: Detail route doesn't find pib for u_pll/pll_inst.dsm_refclk[0]
+PHY-5014 WARNING: Detail route doesn't find pib for u_pll/pll_inst.dsm_rst[0]
+PHY-1001 : 231 feed throughs used by 106 nets
+RUN-1001 : Import IO constraints
+RUN-1001 : Import Inst constraints
+RUN-1001 : Import design success TD_VERSION=5.6.71036 , DB_VERSION=46146
+RUN-1003 : finish command "import_db C:/Users/15597/Desktop/sf1/MyProject/FOC_Controller/FOC_Controller_Runs/phy_1/FOC_Controller_pr.db" in  1.613529s wall, 0.609375s user + 0.015625s system = 0.625000s CPU (38.7%)
+
+RUN-1004 : used memory is 392 MB, reserved memory is 424 MB, peak memory is 503 MB
+RUN-1002 : start command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0"
+PRG-2014 : Chip validation success: SF1S60
+PRG-2505 : ProgramSvf:  program FOC_Controller_Runs/phy_1/FOC_Controller.svf successfully
+RUN-1003 : finish command "program_svf -svf FOC_Controller_Runs/phy_1/FOC_Controller.svf -spd 6" in  12.923375s wall, 0.171875s user + 0.093750s system = 0.265625s CPU (2.1%)
+
+RUN-1004 : used memory is 398 MB, reserved memory is 428 MB, peak memory is 503 MB
+RUN-1003 : finish command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0" in  13.175187s wall, 0.296875s user + 0.125000s system = 0.421875s CPU (3.2%)
+
+RUN-1004 : used memory is 398 MB, reserved memory is 428 MB, peak memory is 503 MB
+GUI-1001 : Downloading succeeded!
+HDL-1007 : analyze verilog file RTL/fpga_top.v
+RUN-1001 : reset_run phy_1 syn_1.
+GUI-6001 WARNING: File C:/Users/15597/Desktop/sf1/MyProject/FOC_Controller/FOC_Controller_Runs/phy_1/FOC_Controller.bit does not exist!
+RUN-1001 : launch_runs syn_1 phy_1  -jobs 6.
+RUN-1001 : syn_1: run complete.
+HDL-1007 : analyze verilog file RTL/fpga_top.v
+RUN-1001 : reset_run phy_1 syn_1.
+RUN-1001 : phy_1: run complete.
+RUN-1001 : launch_runs syn_1 phy_1  -jobs 6.
+RUN-1001 : syn_1: run complete.
+RUN-1001 : open_run syn_1.
+RUN-1002 : start command "import_db C:/Users/15597/Desktop/sf1/MyProject/FOC_Controller/FOC_Controller_Runs/syn_1/FOC_Controller_gate.db"
+RUN-1001 : Importing database generated by Tang Dynasty, V5.6.71036.
+RUN-1001 : Database version number 46146.
+RUN-1001 : Import flow parameters
+RUN-1001 : Import IO constraints
+RUN-1001 : Import Inst constraints
+RUN-1001 : Import design success TD_VERSION=5.6.71036 , DB_VERSION=46146
+RUN-1001 : phy_1: run complete.
+RUN-1001 : open_run phy_1.
+RUN-1002 : start command "import_db C:/Users/15597/Desktop/sf1/MyProject/FOC_Controller/FOC_Controller_Runs/phy_1/FOC_Controller_pr.db"
+RUN-1001 : Importing database generated by Tang Dynasty, V5.6.71036.
+RUN-1001 : Database version number 46146.
+RUN-1001 : Import flow parameters
+PHY-1001 : Generate detailed routing grids ...
+PHY-1001 : Generate nets ...
+PHY-1001 : net I_clk_25m_dup_1 will be routed on clock mesh
+PHY-5010 WARNING: Net u_ahb_foc_controller/I_ahb_hsize[2] is skipped due to 0 input or output
+PHY-5010 WARNING: Net u_ahb_foc_controller/I_ahb_hsize[1] is skipped due to 0 input or output
+PHY-5010 WARNING: Net u_ahb_foc_controller/I_ahb_hsize[0] is skipped due to 0 input or output
+PHY-1001 : clock net u_mcu/hclk will be merged with clock u_pll/clk0_buf
+PHY-1001 : net u_ahb_foc_controller/u_foc_controller/u_hall_encoder/u_divider/clk will be routed on clock mesh
+PHY-5010 WARNING: Net u_ahb_foc_controller/I_ahb_hsize[2] is skipped due to 0 input or output
+PHY-5010 WARNING: Net u_ahb_foc_controller/I_ahb_hsize[1] is skipped due to 0 input or output
+PHY-5010 WARNING: Net u_ahb_foc_controller/I_ahb_hsize[0] is skipped due to 0 input or output
+PHY-1001 : eco open net = 0
+PHY-5014 WARNING: Detail route doesn't find pib for u_pll/pll_inst.ssc_en[0]
+PHY-5014 WARNING: Detail route doesn't find pib for u_pll/pll_inst.dsm_rst[0]
+PHY-5014 WARNING: Detail route doesn't find pib for u_pll/pll_inst.frac_offset_valid[0]
+PHY-5014 WARNING: Detail route doesn't find pib for u_pll/pll_inst.dsm_refclk[0]
+PHY-1001 : 224 feed throughs used by 111 nets
+RUN-1001 : Import IO constraints
+RUN-1001 : Import Inst constraints
+RUN-1001 : Import design success TD_VERSION=5.6.71036 , DB_VERSION=46146
+RUN-1003 : finish command "import_db C:/Users/15597/Desktop/sf1/MyProject/FOC_Controller/FOC_Controller_Runs/phy_1/FOC_Controller_pr.db" in  1.947449s wall, 1.640625s user + 0.031250s system = 1.671875s CPU (85.8%)
+
+RUN-1004 : used memory is 399 MB, reserved memory is 429 MB, peak memory is 503 MB
+RUN-1002 : start command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0"
+PRG-2014 : Chip validation success: SF1S60
+PRG-2505 : ProgramSvf:  program FOC_Controller_Runs/phy_1/FOC_Controller.svf successfully
+RUN-1003 : finish command "program_svf -svf FOC_Controller_Runs/phy_1/FOC_Controller.svf -spd 6" in  12.895824s wall, 0.218750s user + 0.140625s system = 0.359375s CPU (2.8%)
+
+RUN-1004 : used memory is 392 MB, reserved memory is 431 MB, peak memory is 503 MB
+RUN-1003 : finish command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0" in  13.159293s wall, 0.328125s user + 0.140625s system = 0.468750s CPU (3.6%)
+
+RUN-1004 : used memory is 392 MB, reserved memory is 431 MB, peak memory is 503 MB
+GUI-1001 : Downloading succeeded!
+HDL-1007 : analyze verilog file RTL/fpga_top.v
+HDL-1007 : analyze verilog file RTL/fpga_top.v
+HDL-1007 : analyze verilog file RTL/fpga_top.v
+RUN-1001 : reset_run phy_1 syn_1.
+GUI-6001 WARNING: File C:/Users/15597/Desktop/sf1/MyProject/FOC_Controller/FOC_Controller_Runs/phy_1/FOC_Controller.bit does not exist!
+RUN-1001 : launch_runs syn_1 phy_1  -jobs 6.
+RUN-1001 : syn_1: run complete.
+RUN-1001 : phy_1: run complete.
+RUN-1001 : open_run phy_1.
+RUN-1002 : start command "import_db C:/Users/15597/Desktop/sf1/MyProject/FOC_Controller/FOC_Controller_Runs/phy_1/FOC_Controller_pr.db"
+RUN-1001 : Importing database generated by Tang Dynasty, V5.6.71036.
+RUN-1001 : Database version number 46146.
+RUN-1001 : Import flow parameters
+PHY-1001 : Generate detailed routing grids ...
+PHY-1001 : Generate nets ...
+PHY-1001 : net I_clk_25m_dup_1 will be routed on clock mesh
+PHY-5010 WARNING: Net u_ahb_foc_controller/I_ahb_hsize[2] is skipped due to 0 input or output
+PHY-5010 WARNING: Net u_ahb_foc_controller/I_ahb_hsize[1] is skipped due to 0 input or output
+PHY-5010 WARNING: Net u_ahb_foc_controller/I_ahb_hsize[0] is skipped due to 0 input or output
+PHY-1001 : clock net u_mcu/hclk will be merged with clock u_pll/clk0_buf
+PHY-1001 : clock net u_ahb_foc_controller/u_foc_controller/S_angle_velocity_clk_syn_4 will be merged with clock u_ahb_foc_controller/u_foc_controller/S_angle_velocity_clk
+PHY-1001 : net u_ahb_foc_controller/u_foc_controller/u_hall_encoder/u_divider/clk will be routed on clock mesh
+PHY-5010 WARNING: Net u_ahb_foc_controller/I_ahb_hsize[2] is skipped due to 0 input or output
+PHY-5010 WARNING: Net u_ahb_foc_controller/I_ahb_hsize[1] is skipped due to 0 input or output
+PHY-5010 WARNING: Net u_ahb_foc_controller/I_ahb_hsize[0] is skipped due to 0 input or output
+PHY-1001 : eco open net = 0
+PHY-5014 WARNING: Detail route doesn't find pib for u_pll/pll_inst.dsm_rst[0]
+PHY-5014 WARNING: Detail route doesn't find pib for u_pll/pll_inst.frac_offset_valid[0]
+PHY-5014 WARNING: Detail route doesn't find pib for u_pll/pll_inst.dsm_refclk[0]
+PHY-5014 WARNING: Detail route doesn't find pib for u_pll/pll_inst.ssc_en[0]
+PHY-1001 : 158 feed throughs used by 68 nets
+RUN-1001 : Import IO constraints
+RUN-1001 : Import Inst constraints
+RUN-1001 : Import design success TD_VERSION=5.6.71036 , DB_VERSION=46146
+RUN-1003 : finish command "import_db C:/Users/15597/Desktop/sf1/MyProject/FOC_Controller/FOC_Controller_Runs/phy_1/FOC_Controller_pr.db" in  1.674017s wall, 1.328125s user + 0.046875s system = 1.375000s CPU (82.1%)
+
+RUN-1004 : used memory is 396 MB, reserved memory is 436 MB, peak memory is 503 MB
+RUN-1002 : start command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0"
+PRG-2014 : Chip validation success: SF1S60
+PRG-2505 : ProgramSvf:  program FOC_Controller_Runs/phy_1/FOC_Controller.svf successfully
+RUN-1003 : finish command "program_svf -svf FOC_Controller_Runs/phy_1/FOC_Controller.svf -spd 6" in  12.905878s wall, 0.156250s user + 0.031250s system = 0.187500s CPU (1.5%)
+
+RUN-1004 : used memory is 402 MB, reserved memory is 441 MB, peak memory is 503 MB
+RUN-1003 : finish command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0" in  13.198757s wall, 0.265625s user + 0.031250s system = 0.296875s CPU (2.2%)
+
+RUN-1004 : used memory is 402 MB, reserved memory is 441 MB, peak memory is 503 MB
+GUI-1001 : Downloading succeeded!
+HDL-1007 : analyze verilog file RTL/fpga_top.v
+RUN-1001 : reset_run phy_1 syn_1.
+GUI-6001 WARNING: File C:/Users/15597/Desktop/sf1/MyProject/FOC_Controller/FOC_Controller_Runs/phy_1/FOC_Controller.bit does not exist!
+RUN-1001 : launch_runs syn_1 phy_1  -jobs 6.
+RUN-1001 : syn_1: run complete.
+RUN-1001 : phy_1: run complete.
+RUN-1001 : open_run phy_1.
+RUN-1002 : start command "import_db C:/Users/15597/Desktop/sf1/MyProject/FOC_Controller/FOC_Controller_Runs/phy_1/FOC_Controller_pr.db"
+RUN-1001 : Importing database generated by Tang Dynasty, V5.6.71036.
+RUN-1001 : Database version number 46146.
+RUN-1001 : Import flow parameters
+PHY-1001 : Generate detailed routing grids ...
+PHY-1001 : Generate nets ...
+PHY-1001 : net I_clk_25m_dup_1 will be routed on clock mesh
+PHY-5010 WARNING: Net u_ahb_foc_controller/I_ahb_hsize[2] is skipped due to 0 input or output
+PHY-5010 WARNING: Net u_ahb_foc_controller/I_ahb_hsize[1] is skipped due to 0 input or output
+PHY-5010 WARNING: Net u_ahb_foc_controller/I_ahb_hsize[0] is skipped due to 0 input or output
+PHY-1001 : clock net u_mcu/hclk will be merged with clock u_pll/clk0_buf
+PHY-1001 : clock net u_ahb_foc_controller/u_foc_controller/S_angle_velocity_clk_syn_4 will be merged with clock u_ahb_foc_controller/u_foc_controller/S_angle_velocity_clk
+PHY-1001 : net u_ahb_foc_controller/u_foc_controller/u_hall_encoder/u_divider/clk will be routed on clock mesh
+PHY-5010 WARNING: Net u_ahb_foc_controller/I_ahb_hsize[2] is skipped due to 0 input or output
+PHY-5010 WARNING: Net u_ahb_foc_controller/I_ahb_hsize[1] is skipped due to 0 input or output
+PHY-5010 WARNING: Net u_ahb_foc_controller/I_ahb_hsize[0] is skipped due to 0 input or output
+PHY-1001 : eco open net = 0
+PHY-5014 WARNING: Detail route doesn't find pib for u_pll/pll_inst.dsm_rst[0]
+PHY-5014 WARNING: Detail route doesn't find pib for u_pll/pll_inst.frac_offset_valid[0]
+PHY-5014 WARNING: Detail route doesn't find pib for u_pll/pll_inst.dsm_refclk[0]
+PHY-5014 WARNING: Detail route doesn't find pib for u_pll/pll_inst.ssc_en[0]
+PHY-1001 : 187 feed throughs used by 91 nets
+RUN-1001 : Import IO constraints
+RUN-1001 : Import Inst constraints
+RUN-1001 : Import design success TD_VERSION=5.6.71036 , DB_VERSION=46146
+RUN-1003 : finish command "import_db C:/Users/15597/Desktop/sf1/MyProject/FOC_Controller/FOC_Controller_Runs/phy_1/FOC_Controller_pr.db" in  1.547802s wall, 0.875000s user + 0.062500s system = 0.937500s CPU (60.6%)
+
+RUN-1004 : used memory is 400 MB, reserved memory is 438 MB, peak memory is 503 MB
+RUN-1002 : start command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode jtag -spd 7 -sec 64 -cable 0"
+PRG-2014 : Chip validation success: SF1S60
+RUN-1002 : start command "bit_to_vec -chip SF1S60 -m jtag_burst -freq 4 -bit FOC_Controller_Runs/phy_1/FOC_Controller.bit"
+RUN-1002 : start command "program -cable 0 -mode svf -spd 7 -p"
+RUN-1003 : finish command "program -cable 0 -mode svf -spd 7 -p" in  2.270354s wall, 0.015625s user + 0.000000s system = 0.015625s CPU (0.7%)
+
+RUN-1004 : used memory is 393 MB, reserved memory is 439 MB, peak memory is 503 MB
+RUN-1003 : finish command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode jtag -spd 7 -sec 64 -cable 0" in  2.459676s wall, 0.062500s user + 0.000000s system = 0.062500s CPU (2.5%)
+
+RUN-1004 : used memory is 393 MB, reserved memory is 439 MB, peak memory is 503 MB
+GUI-1001 : Downloading succeeded!
+HDL-1007 : analyze verilog file RTL/fpga_top.v
+HDL-1007 : analyze verilog file RTL/fpga_top.v
+HDL-1007 : analyze verilog file RTL/fpga_top.v
+HDL-1007 : analyze verilog file RTL/fpga_top.v
+RUN-1001 : reset_run phy_1 syn_1.
+GUI-6001 WARNING: File C:/Users/15597/Desktop/sf1/MyProject/FOC_Controller/FOC_Controller_Runs/phy_1/FOC_Controller.bit does not exist!
+RUN-1001 : launch_runs syn_1 phy_1  -jobs 6.
+RUN-1001 : syn_1: run complete.
+RUN-1001 : phy_1: run complete.
+RUN-1002 : start command "download -bit ..\..\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -mode jtag -spd 7 -sec 64 -cable 0"
+PRG-2014 : Chip validation success: SF1S60
+PRG-8003 ERROR: Download: the bit file(..\..\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex) is invalid
+GUI-8702 ERROR: Downloading failed!
+RUN-1002 : start command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode jtag -spd 7 -sec 64 -cable 0"
+PRG-2014 : Chip validation success: SF1S60
+RUN-1002 : start command "bit_to_vec -chip SF1S60 -m jtag_burst -freq 4 -bit FOC_Controller_Runs/phy_1/FOC_Controller.bit"
+RUN-1002 : start command "program -cable 0 -mode svf -spd 7 -p"
+RUN-1003 : finish command "program -cable 0 -mode svf -spd 7 -p" in  2.263387s wall, 0.015625s user + 0.062500s system = 0.078125s CPU (3.5%)
+
+RUN-1004 : used memory is 395 MB, reserved memory is 440 MB, peak memory is 503 MB
+RUN-1003 : finish command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode jtag -spd 7 -sec 64 -cable 0" in  2.472539s wall, 0.093750s user + 0.062500s system = 0.156250s CPU (6.3%)
+
+RUN-1004 : used memory is 395 MB, reserved memory is 440 MB, peak memory is 503 MB
+GUI-1001 : Downloading succeeded!
+HDL-1007 : analyze verilog file RTL/fpga_top.v
+HDL-1007 : analyze verilog file RTL/fpga_top.v
+HDL-8007 ERROR: syntax error near '256' in RTL/fpga_top.v(250)
+HDL-8007 ERROR: ignore module module due to previous errors in RTL/fpga_top.v(6)
+HDL-1007 : Verilog file 'RTL/fpga_top.v' ignored due to errors
+HDL-1007 : analyze verilog file RTL/fpga_top.v
+HDL-8007 ERROR: syntax error near '256' in RTL/fpga_top.v(250)
+HDL-8007 ERROR: extra semicolon is not allowed here in this dialect; use SystemVerilog mode instead in RTL/fpga_top.v(250)
+HDL-8007 ERROR: ignore module module due to previous errors in RTL/fpga_top.v(6)
+HDL-1007 : Verilog file 'RTL/fpga_top.v' ignored due to errors
+HDL-1007 : analyze verilog file RTL/fpga_top.v
+HDL-1007 : analyze verilog file RTL/fpga_top.v
+RUN-1001 : reset_run phy_1 syn_1.
+GUI-6001 WARNING: File C:/Users/15597/Desktop/sf1/MyProject/FOC_Controller/FOC_Controller_Runs/phy_1/FOC_Controller.bit does not exist!
+RUN-1001 : launch_runs syn_1 phy_1  -jobs 6.
+RUN-1001 : syn_1: run complete.
+RUN-1001 : phy_1: run complete.
+RUN-1001 : open_run phy_1.
+RUN-1002 : start command "import_db C:/Users/15597/Desktop/sf1/MyProject/FOC_Controller/FOC_Controller_Runs/phy_1/FOC_Controller_pr.db"
+RUN-1001 : Importing database generated by Tang Dynasty, V5.6.71036.
+RUN-1001 : Database version number 46146.
+RUN-1001 : Import flow parameters
+PHY-1001 : Generate detailed routing grids ...
+PHY-1001 : Generate nets ...
+PHY-1001 : net I_clk_25m_dup_1 will be routed on clock mesh
+PHY-5010 WARNING: Net u_ahb_foc_controller/I_ahb_hsize[2] is skipped due to 0 input or output
+PHY-5010 WARNING: Net u_ahb_foc_controller/I_ahb_hsize[1] is skipped due to 0 input or output
+PHY-5010 WARNING: Net u_ahb_foc_controller/I_ahb_hsize[0] is skipped due to 0 input or output
+PHY-1001 : clock net u_mcu/hclk will be merged with clock u_pll/clk0_buf
+PHY-1001 : net u_ahb_foc_controller/u_foc_controller/u_hall_encoder/u_divider/clk will be routed on clock mesh
+PHY-1001 : clock net u_ahb_foc_controller/u_foc_controller/S_angle_velocity_clk_syn_4 will be merged with clock u_ahb_foc_controller/u_foc_controller/S_angle_velocity_clk
+PHY-5010 WARNING: Net u_ahb_foc_controller/I_ahb_hsize[2] is skipped due to 0 input or output
+PHY-5010 WARNING: Net u_ahb_foc_controller/I_ahb_hsize[1] is skipped due to 0 input or output
+PHY-5010 WARNING: Net u_ahb_foc_controller/I_ahb_hsize[0] is skipped due to 0 input or output
+PHY-1001 : eco open net = 0
+PHY-5014 WARNING: Detail route doesn't find pib for u_pll/pll_inst.dsm_refclk[0]
+PHY-5014 WARNING: Detail route doesn't find pib for u_pll/pll_inst.ssc_en[0]
+PHY-5014 WARNING: Detail route doesn't find pib for u_pll/pll_inst.frac_offset_valid[0]
+PHY-5014 WARNING: Detail route doesn't find pib for u_pll/pll_inst.dsm_rst[0]
+PHY-1001 : 216 feed throughs used by 100 nets
+RUN-1001 : Import IO constraints
+RUN-1001 : Import Inst constraints
+RUN-1001 : Import design success TD_VERSION=5.6.71036 , DB_VERSION=46146
+RUN-1003 : finish command "import_db C:/Users/15597/Desktop/sf1/MyProject/FOC_Controller/FOC_Controller_Runs/phy_1/FOC_Controller_pr.db" in  1.675825s wall, 1.203125s user + 0.015625s system = 1.218750s CPU (72.7%)
+
+RUN-1004 : used memory is 422 MB, reserved memory is 458 MB, peak memory is 503 MB
+RUN-1002 : start command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode jtag -spd 7 -sec 64 -cable 0"
+PRG-2014 : Chip validation success: SF1S60
+RUN-1002 : start command "bit_to_vec -chip SF1S60 -m jtag_burst -freq 4 -bit FOC_Controller_Runs/phy_1/FOC_Controller.bit"
+RUN-1002 : start command "program -cable 0 -mode svf -spd 7 -p"
+RUN-1003 : finish command "program -cable 0 -mode svf -spd 7 -p" in  2.267920s wall, 0.031250s user + 0.031250s system = 0.062500s CPU (2.8%)
+
+RUN-1004 : used memory is 424 MB, reserved memory is 460 MB, peak memory is 503 MB
+RUN-1003 : finish command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode jtag -spd 7 -sec 64 -cable 0" in  2.470265s wall, 0.093750s user + 0.031250s system = 0.125000s CPU (5.1%)
+
+RUN-1004 : used memory is 424 MB, reserved memory is 460 MB, peak memory is 503 MB
+GUI-1001 : Downloading succeeded!
+HDL-1007 : analyze verilog file RTL/fpga_top.v
+HDL-1007 : analyze verilog file RTL/fpga_top.v
+HDL-1007 : analyze verilog file RTL/fpga_top.v
+HDL-1007 : analyze verilog file RTL/fpga_top.v
+HDL-8007 ERROR: syntax error near 'or' in RTL/fpga_top.v(308)
+HDL-8007 ERROR: Verilog 2000 keyword 'or' used in incorrect context in RTL/fpga_top.v(308)
+HDL-5007 WARNING: empty statement in always construct in RTL/fpga_top.v(308)
+HDL-8007 ERROR: syntax error near 'endmodule' in RTL/fpga_top.v(314)
+HDL-8007 ERROR: Verilog 2000 keyword 'endmodule' used in incorrect context in RTL/fpga_top.v(314)
+HDL-1007 : Verilog file 'RTL/fpga_top.v' ignored due to errors
+HDL-1007 : analyze verilog file RTL/fpga_top.v
+RUN-1001 : reset_run phy_1 syn_1.
+GUI-6001 WARNING: File C:/Users/15597/Desktop/sf1/MyProject/FOC_Controller/FOC_Controller_Runs/phy_1/FOC_Controller.bit does not exist!
+RUN-1001 : launch_runs syn_1 phy_1  -jobs 6.
+RUN-1001 : syn_1: run complete.
+RUN-1001 : phy_1: run complete.
+RUN-1001 : open_run phy_1.
+RUN-1002 : start command "import_db C:/Users/15597/Desktop/sf1/MyProject/FOC_Controller/FOC_Controller_Runs/phy_1/FOC_Controller_pr.db"
+RUN-1001 : Importing database generated by Tang Dynasty, V5.6.71036.
+RUN-1001 : Database version number 46146.
+RUN-1001 : Import flow parameters
+PHY-1001 : Generate detailed routing grids ...
+PHY-1001 : Generate nets ...
+PHY-1001 : net I_clk_25m_dup_1 will be routed on clock mesh
+PHY-5010 WARNING: Net u_ahb_foc_controller/I_ahb_hsize[2] is skipped due to 0 input or output
+PHY-5010 WARNING: Net u_ahb_foc_controller/I_ahb_hsize[1] is skipped due to 0 input or output
+PHY-5010 WARNING: Net u_ahb_foc_controller/I_ahb_hsize[0] is skipped due to 0 input or output
+PHY-1001 : clock net u_mcu/hclk will be merged with clock u_pll/clk0_buf
+PHY-1001 : clock net u_ahb_foc_controller/u_foc_controller/S_angle_position_clk_syn_4 will be merged with clock u_ahb_foc_controller/u_foc_controller/S_angle_position_clk
+PHY-1001 : clock net u_ahb_foc_controller/u_foc_controller/S_angle_velocity_clk_syn_4 will be merged with clock u_ahb_foc_controller/u_foc_controller/S_angle_velocity_clk
+PHY-1001 : net u_ahb_foc_controller/u_foc_controller/u_hall_encoder/u_divider/clk will be routed on clock mesh
+PHY-5010 WARNING: Net u_ahb_foc_controller/I_ahb_hsize[2] is skipped due to 0 input or output
+PHY-5010 WARNING: Net u_ahb_foc_controller/I_ahb_hsize[1] is skipped due to 0 input or output
+PHY-5010 WARNING: Net u_ahb_foc_controller/I_ahb_hsize[0] is skipped due to 0 input or output
+PHY-1001 : eco open net = 0
+PHY-5014 WARNING: Detail route doesn't find pib for u_pll/pll_inst.frac_offset_valid[0]
+PHY-5014 WARNING: Detail route doesn't find pib for u_pll/pll_inst.dsm_refclk[0]
+PHY-5014 WARNING: Detail route doesn't find pib for u_pll/pll_inst.dsm_rst[0]
+PHY-5014 WARNING: Detail route doesn't find pib for u_pll/pll_inst.ssc_en[0]
+PHY-1001 : 169 feed throughs used by 86 nets
+RUN-1001 : Import IO constraints
+RUN-1001 : Import Inst constraints
+RUN-1001 : Import design success TD_VERSION=5.6.71036 , DB_VERSION=46146
+RUN-1003 : finish command "import_db C:/Users/15597/Desktop/sf1/MyProject/FOC_Controller/FOC_Controller_Runs/phy_1/FOC_Controller_pr.db" in  1.550146s wall, 1.218750s user + 0.062500s system = 1.281250s CPU (82.7%)
+
+RUN-1004 : used memory is 414 MB, reserved memory is 450 MB, peak memory is 503 MB
+RUN-1002 : start command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode jtag -spd 7 -sec 64 -cable 0"
+PRG-2014 : Chip validation success: SF1S60
+RUN-1002 : start command "bit_to_vec -chip SF1S60 -m jtag_burst -freq 4 -bit FOC_Controller_Runs/phy_1/FOC_Controller.bit"
+RUN-1002 : start command "program -cable 0 -mode svf -spd 7 -p"
+RUN-1003 : finish command "program -cable 0 -mode svf -spd 7 -p" in  2.269409s wall, 0.000000s user + 0.015625s system = 0.015625s CPU (0.7%)
+
+RUN-1004 : used memory is 419 MB, reserved memory is 453 MB, peak memory is 503 MB
+RUN-1003 : finish command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode jtag -spd 7 -sec 64 -cable 0" in  2.447948s wall, 0.046875s user + 0.015625s system = 0.062500s CPU (2.6%)
+
+RUN-1004 : used memory is 419 MB, reserved memory is 453 MB, peak memory is 503 MB
+GUI-1001 : Downloading succeeded!
+HDL-1007 : analyze verilog file RTL/fpga_top.v
+HDL-1007 : analyze verilog file RTL/fpga_top.v
+HDL-1007 : analyze verilog file RTL/fpga_top.v
+HDL-1007 : analyze verilog file RTL/fpga_top.v
+RUN-1001 : reset_run phy_1 syn_1.
+GUI-6001 WARNING: File C:/Users/15597/Desktop/sf1/MyProject/FOC_Controller/FOC_Controller_Runs/phy_1/FOC_Controller.bit does not exist!
+RUN-1001 : launch_runs syn_1 phy_1  -jobs 6.
+RUN-1001 : syn_1: run complete.
+RUN-1001 : phy_1: run complete.
+RUN-1001 : open_run phy_1.
+RUN-1002 : start command "import_db C:/Users/15597/Desktop/sf1/MyProject/FOC_Controller/FOC_Controller_Runs/phy_1/FOC_Controller_pr.db"
+RUN-1001 : Importing database generated by Tang Dynasty, V5.6.71036.
+RUN-1001 : Database version number 46146.
+RUN-1001 : Import flow parameters
+PHY-1001 : Generate detailed routing grids ...
+PHY-1001 : Generate nets ...
+PHY-1001 : net I_clk_25m_dup_1 will be routed on clock mesh
+PHY-5010 WARNING: Net u_ahb_foc_controller/I_ahb_hsize[2] is skipped due to 0 input or output
+PHY-5010 WARNING: Net u_ahb_foc_controller/I_ahb_hsize[1] is skipped due to 0 input or output
+PHY-5010 WARNING: Net u_ahb_foc_controller/I_ahb_hsize[0] is skipped due to 0 input or output
+PHY-1001 : clock net u_mcu/hclk will be merged with clock u_pll/clk0_buf
+PHY-1001 : clock net u_ahb_foc_controller/u_foc_controller/S_angle_position_clk_syn_4 will be merged with clock u_ahb_foc_controller/u_foc_controller/S_angle_position_clk
+PHY-1001 : clock net u_ahb_foc_controller/u_foc_controller/S_angle_velocity_clk_syn_4 will be merged with clock u_ahb_foc_controller/u_foc_controller/S_angle_velocity_clk
+PHY-1001 : net u_ahb_foc_controller/u_foc_controller/u_hall_encoder/u_divider/clk will be routed on clock mesh
+PHY-5010 WARNING: Net u_ahb_foc_controller/I_ahb_hsize[2] is skipped due to 0 input or output
+PHY-5010 WARNING: Net u_ahb_foc_controller/I_ahb_hsize[1] is skipped due to 0 input or output
+PHY-5010 WARNING: Net u_ahb_foc_controller/I_ahb_hsize[0] is skipped due to 0 input or output
+PHY-1001 : eco open net = 0
+PHY-5014 WARNING: Detail route doesn't find pib for u_pll/pll_inst.dsm_refclk[0]
+PHY-5014 WARNING: Detail route doesn't find pib for u_pll/pll_inst.ssc_en[0]
+PHY-5014 WARNING: Detail route doesn't find pib for u_pll/pll_inst.dsm_rst[0]
+PHY-5014 WARNING: Detail route doesn't find pib for u_pll/pll_inst.frac_offset_valid[0]
+PHY-1001 : 171 feed throughs used by 80 nets
+RUN-1001 : Import IO constraints
+RUN-1001 : Import Inst constraints
+RUN-1001 : Import design success TD_VERSION=5.6.71036 , DB_VERSION=46146
+RUN-1003 : finish command "import_db C:/Users/15597/Desktop/sf1/MyProject/FOC_Controller/FOC_Controller_Runs/phy_1/FOC_Controller_pr.db" in  2.152404s wall, 1.296875s user + 0.046875s system = 1.343750s CPU (62.4%)
+
+RUN-1004 : used memory is 450 MB, reserved memory is 487 MB, peak memory is 503 MB
+RUN-1002 : start command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode jtag -spd 7 -sec 64 -cable 0"
+PRG-2014 : Chip validation success: SF1S60
+RUN-1002 : start command "bit_to_vec -chip SF1S60 -m jtag_burst -freq 4 -bit FOC_Controller_Runs/phy_1/FOC_Controller.bit"
+RUN-1002 : start command "program -cable 0 -mode svf -spd 7 -p"
+RUN-1003 : finish command "program -cable 0 -mode svf -spd 7 -p" in  2.265005s wall, 0.015625s user + 0.031250s system = 0.046875s CPU (2.1%)
+
+RUN-1004 : used memory is 453 MB, reserved memory is 489 MB, peak memory is 503 MB
+RUN-1003 : finish command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode jtag -spd 7 -sec 64 -cable 0" in  2.471347s wall, 0.093750s user + 0.046875s system = 0.140625s CPU (5.7%)
+
+RUN-1004 : used memory is 453 MB, reserved memory is 489 MB, peak memory is 503 MB
+GUI-1001 : Downloading succeeded!
+RUN-1002 : start command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0"
+PRG-2014 : Chip validation success: SF1S60
+PRG-2505 : ProgramSvf:  program FOC_Controller_Runs/phy_1/FOC_Controller.svf successfully
+RUN-1003 : finish command "program_svf -svf FOC_Controller_Runs/phy_1/FOC_Controller.svf -spd 6" in  12.894047s wall, 0.156250s user + 0.062500s system = 0.218750s CPU (1.7%)
+
+RUN-1004 : used memory is 451 MB, reserved memory is 488 MB, peak memory is 503 MB
+RUN-1003 : finish command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0" in  13.136225s wall, 0.296875s user + 0.062500s system = 0.359375s CPU (2.7%)
+
+RUN-1004 : used memory is 451 MB, reserved memory is 488 MB, peak memory is 503 MB
+GUI-1001 : Downloading succeeded!
+RUN-1002 : start command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0"
+PRG-2014 : Chip validation success: SF1S60
+PRG-2505 : ProgramSvf:  program FOC_Controller_Runs/phy_1/FOC_Controller.svf successfully
+RUN-1003 : finish command "program_svf -svf FOC_Controller_Runs/phy_1/FOC_Controller.svf -spd 6" in  12.829030s wall, 0.359375s user + 0.140625s system = 0.500000s CPU (3.9%)
+
+RUN-1004 : used memory is 452 MB, reserved memory is 489 MB, peak memory is 503 MB
+RUN-1003 : finish command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0" in  13.071503s wall, 0.437500s user + 0.171875s system = 0.609375s CPU (4.7%)
+
+RUN-1004 : used memory is 452 MB, reserved memory is 489 MB, peak memory is 503 MB
+GUI-1001 : Downloading succeeded!
+HDL-1007 : analyze verilog file RTL/fpga_top.v
+RUN-1001 : reset_run phy_1 syn_1.
+GUI-6001 WARNING: File C:/Users/15597/Desktop/sf1/MyProject/FOC_Controller/FOC_Controller_Runs/phy_1/FOC_Controller.bit does not exist!
+RUN-1001 : launch_runs syn_1 phy_1  -jobs 6.
+RUN-1001 : syn_1: run complete.
+HDL-1007 : analyze verilog file RTL/fpga_top.v
+RUN-6001 WARNING: phy_1: run failed.
+RUN-1001 : reset_run phy_1 syn_1.
+RUN-1001 : launch_runs syn_1 phy_1  -jobs 6.
+RUN-6001 WARNING: syn_1: run failed.
+HDL-1007 : analyze verilog file RTL/fpga_top.v
+RUN-1001 : reset_run phy_1 syn_1.
+RUN-1001 : launch_runs syn_1 phy_1  -jobs 6.
+RUN-1001 : syn_1: run complete.
+RUN-1001 : phy_1: run complete.
+RUN-1001 : open_run phy_1.
+RUN-1002 : start command "import_db C:/Users/15597/Desktop/sf1/MyProject/FOC_Controller/FOC_Controller_Runs/phy_1/FOC_Controller_pr.db"
+RUN-1001 : Importing database generated by Tang Dynasty, V5.6.71036.
+RUN-1001 : Database version number 46146.
+RUN-1001 : Import flow parameters
+PHY-1001 : Generate detailed routing grids ...
+PHY-1001 : Generate nets ...
+PHY-1001 : net I_clk_25m_dup_1 will be routed on clock mesh
+PHY-5010 WARNING: Net u_ahb_foc_controller/I_ahb_hsize[2] is skipped due to 0 input or output
+PHY-5010 WARNING: Net u_ahb_foc_controller/I_ahb_hsize[1] is skipped due to 0 input or output
+PHY-5010 WARNING: Net u_ahb_foc_controller/I_ahb_hsize[0] is skipped due to 0 input or output
+PHY-1001 : clock net u_ahb_foc_controller/u_foc_controller/S_angle_position_clk_syn_4 will be merged with clock u_ahb_foc_controller/u_foc_controller/S_angle_position_clk
+PHY-1001 : clock net u_ahb_foc_controller/u_foc_controller/S_angle_velocity_clk_syn_4 will be merged with clock u_ahb_foc_controller/u_foc_controller/S_angle_velocity_clk
+PHY-1001 : net u_ahb_foc_controller/u_foc_controller/u_adc_ad7928/clk will be routed on clock mesh
+PHY-1001 : clock net u_mcu/hclk will be merged with clock u_pll/clk0_buf
+PHY-1001 : clock net u_ahb_foc_controller/u_foc_controller/u_foc_top/O_init_done_syn_10 will be merged with clock u_ahb_foc_controller/u_foc_controller/u_foc_top/O_init_done
+PHY-5010 WARNING: Net u_ahb_foc_controller/I_ahb_hsize[2] is skipped due to 0 input or output
+PHY-5010 WARNING: Net u_ahb_foc_controller/I_ahb_hsize[1] is skipped due to 0 input or output
+PHY-5010 WARNING: Net u_ahb_foc_controller/I_ahb_hsize[0] is skipped due to 0 input or output
+PHY-1001 : eco open net = 0
+PHY-5014 WARNING: Detail route doesn't find pib for u_pll/pll_inst.frac_offset_valid[0]
+PHY-5014 WARNING: Detail route doesn't find pib for u_pll/pll_inst.dsm_refclk[0]
+PHY-5014 WARNING: Detail route doesn't find pib for u_pll/pll_inst.dsm_rst[0]
+PHY-5014 WARNING: Detail route doesn't find pib for u_pll/pll_inst.ssc_en[0]
+PHY-1001 : 461 feed throughs used by 239 nets
+RUN-1001 : Import IO constraints
+RUN-1001 : Import Inst constraints
+RUN-1001 : Import design success TD_VERSION=5.6.71036 , DB_VERSION=46146
+RUN-1003 : finish command "import_db C:/Users/15597/Desktop/sf1/MyProject/FOC_Controller/FOC_Controller_Runs/phy_1/FOC_Controller_pr.db" in  4.000067s wall, 2.593750s user + 0.156250s system = 2.750000s CPU (68.7%)
+
+RUN-1004 : used memory is 558 MB, reserved memory is 601 MB, peak memory is 562 MB
+RUN-1002 : start command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0"
+PRG-2014 : Chip validation success: SF1S60
+PRG-2505 : ProgramSvf:  program FOC_Controller_Runs/phy_1/FOC_Controller.svf successfully
+RUN-1003 : finish command "program_svf -svf FOC_Controller_Runs/phy_1/FOC_Controller.svf -spd 6" in  13.322777s wall, 0.203125s user + 0.031250s system = 0.234375s CPU (1.8%)
+
+RUN-1004 : used memory is 554 MB, reserved memory is 597 MB, peak memory is 569 MB
+RUN-1003 : finish command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0" in  13.626609s wall, 0.375000s user + 0.031250s system = 0.406250s CPU (3.0%)
+
+RUN-1004 : used memory is 554 MB, reserved memory is 597 MB, peak memory is 569 MB
+GUI-1001 : Downloading succeeded!
+RUN-1002 : start command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0"
+PRG-2014 : Chip validation success: SF1S60
+PRG-2505 : ProgramSvf:  program FOC_Controller_Runs/phy_1/FOC_Controller.svf successfully
+RUN-1003 : finish command "program_svf -svf FOC_Controller_Runs/phy_1/FOC_Controller.svf -spd 6" in  13.395069s wall, 0.203125s user + 0.140625s system = 0.343750s CPU (2.6%)
+
+RUN-1004 : used memory is 554 MB, reserved memory is 597 MB, peak memory is 569 MB
+RUN-1003 : finish command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0" in  13.637170s wall, 0.328125s user + 0.140625s system = 0.468750s CPU (3.4%)
+
+RUN-1004 : used memory is 554 MB, reserved memory is 597 MB, peak memory is 569 MB
+GUI-1001 : Downloading succeeded!
+RUN-1002 : start command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0"
+PRG-2014 : Chip validation success: SF1S60
+PRG-2505 : ProgramSvf:  program FOC_Controller_Runs/phy_1/FOC_Controller.svf successfully
+RUN-1003 : finish command "program_svf -svf FOC_Controller_Runs/phy_1/FOC_Controller.svf -spd 6" in  13.336421s wall, 0.234375s user + 0.359375s system = 0.593750s CPU (4.5%)
+
+RUN-1004 : used memory is 546 MB, reserved memory is 597 MB, peak memory is 569 MB
+RUN-1003 : finish command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0" in  13.585981s wall, 0.390625s user + 0.375000s system = 0.765625s CPU (5.6%)
+
+RUN-1004 : used memory is 546 MB, reserved memory is 597 MB, peak memory is 569 MB
+GUI-1001 : Downloading succeeded!
+RUN-1002 : start command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0"
+PRG-2014 : Chip validation success: SF1S60
+PRG-2505 : ProgramSvf:  program FOC_Controller_Runs/phy_1/FOC_Controller.svf successfully
+RUN-1003 : finish command "program_svf -svf FOC_Controller_Runs/phy_1/FOC_Controller.svf -spd 6" in  13.431540s wall, 0.156250s user + 0.093750s system = 0.250000s CPU (1.9%)
+
+RUN-1004 : used memory is 545 MB, reserved memory is 597 MB, peak memory is 569 MB
+RUN-1003 : finish command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0" in  13.681024s wall, 0.296875s user + 0.093750s system = 0.390625s CPU (2.9%)
+
+RUN-1004 : used memory is 545 MB, reserved memory is 597 MB, peak memory is 569 MB
+GUI-1001 : Downloading succeeded!
+RUN-1002 : start command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0"
+PRG-2014 : Chip validation success: SF1S60
+PRG-2505 : ProgramSvf:  program FOC_Controller_Runs/phy_1/FOC_Controller.svf successfully
+RUN-1003 : finish command "program_svf -svf FOC_Controller_Runs/phy_1/FOC_Controller.svf -spd 6" in  13.412305s wall, 0.093750s user + 0.015625s system = 0.109375s CPU (0.8%)
+
+RUN-1004 : used memory is 542 MB, reserved memory is 597 MB, peak memory is 569 MB
+RUN-1003 : finish command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0" in  13.658337s wall, 0.187500s user + 0.015625s system = 0.203125s CPU (1.5%)
+
+RUN-1004 : used memory is 542 MB, reserved memory is 597 MB, peak memory is 569 MB
+GUI-1001 : Downloading succeeded!
+RUN-1002 : start command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0"
+PRG-2014 : Chip validation success: SF1S60
+PRG-2505 : ProgramSvf:  program FOC_Controller_Runs/phy_1/FOC_Controller.svf successfully
+RUN-1003 : finish command "program_svf -svf FOC_Controller_Runs/phy_1/FOC_Controller.svf -spd 6" in  13.441665s wall, 0.140625s user + 0.125000s system = 0.265625s CPU (2.0%)
+
+RUN-1004 : used memory is 542 MB, reserved memory is 597 MB, peak memory is 569 MB
+RUN-1003 : finish command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0" in  13.703596s wall, 0.250000s user + 0.125000s system = 0.375000s CPU (2.7%)
+
+RUN-1004 : used memory is 542 MB, reserved memory is 597 MB, peak memory is 569 MB
+GUI-1001 : Downloading succeeded!
+RUN-1002 : start command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0"
+PRG-2014 : Chip validation success: SF1S60
+PRG-2505 : ProgramSvf:  program FOC_Controller_Runs/phy_1/FOC_Controller.svf successfully
+RUN-1003 : finish command "program_svf -svf FOC_Controller_Runs/phy_1/FOC_Controller.svf -spd 6" in  13.341337s wall, 0.187500s user + 0.031250s system = 0.218750s CPU (1.6%)
+
+RUN-1004 : used memory is 540 MB, reserved memory is 597 MB, peak memory is 569 MB
+RUN-1003 : finish command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0" in  13.590166s wall, 0.312500s user + 0.031250s system = 0.343750s CPU (2.5%)
+
+RUN-1004 : used memory is 540 MB, reserved memory is 597 MB, peak memory is 569 MB
+GUI-1001 : Downloading succeeded!
+RUN-1002 : start command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0"
+PRG-2014 : Chip validation success: SF1S60
+PRG-2505 : ProgramSvf:  program FOC_Controller_Runs/phy_1/FOC_Controller.svf successfully
+RUN-1003 : finish command "program_svf -svf FOC_Controller_Runs/phy_1/FOC_Controller.svf -spd 6" in  13.316276s wall, 0.203125s user + 0.078125s system = 0.281250s CPU (2.1%)
+
+RUN-1004 : used memory is 533 MB, reserved memory is 597 MB, peak memory is 569 MB
+RUN-1003 : finish command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0" in  13.573372s wall, 0.343750s user + 0.078125s system = 0.421875s CPU (3.1%)
+
+RUN-1004 : used memory is 533 MB, reserved memory is 597 MB, peak memory is 569 MB
+GUI-1001 : Downloading succeeded!
+RUN-1002 : start command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0"
+PRG-2014 : Chip validation success: SF1S60
+PRG-2505 : ProgramSvf:  program FOC_Controller_Runs/phy_1/FOC_Controller.svf successfully
+RUN-1003 : finish command "program_svf -svf FOC_Controller_Runs/phy_1/FOC_Controller.svf -spd 6" in  13.369760s wall, 0.250000s user + 0.125000s system = 0.375000s CPU (2.8%)
+
+RUN-1004 : used memory is 532 MB, reserved memory is 597 MB, peak memory is 569 MB
+RUN-1003 : finish command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0" in  13.655575s wall, 0.421875s user + 0.140625s system = 0.562500s CPU (4.1%)
+
+RUN-1004 : used memory is 532 MB, reserved memory is 597 MB, peak memory is 569 MB
+GUI-1001 : Downloading succeeded!
+RUN-1002 : start command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0"
+PRG-2014 : Chip validation success: SF1S60
+PRG-2505 : ProgramSvf:  program FOC_Controller_Runs/phy_1/FOC_Controller.svf successfully
+RUN-1003 : finish command "program_svf -svf FOC_Controller_Runs/phy_1/FOC_Controller.svf -spd 6" in  13.380406s wall, 0.093750s user + 0.046875s system = 0.140625s CPU (1.1%)
+
+RUN-1004 : used memory is 532 MB, reserved memory is 597 MB, peak memory is 569 MB
+RUN-1003 : finish command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0" in  13.625997s wall, 0.187500s user + 0.078125s system = 0.265625s CPU (1.9%)
+
+RUN-1004 : used memory is 532 MB, reserved memory is 597 MB, peak memory is 569 MB
+GUI-1001 : Downloading succeeded!
+RUN-1002 : start command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0"
+PRG-2014 : Chip validation success: SF1S60
+PRG-2505 : ProgramSvf:  program FOC_Controller_Runs/phy_1/FOC_Controller.svf successfully
+RUN-1003 : finish command "program_svf -svf FOC_Controller_Runs/phy_1/FOC_Controller.svf -spd 6" in  13.277780s wall, 0.171875s user + 0.031250s system = 0.203125s CPU (1.5%)
+
+RUN-1004 : used memory is 527 MB, reserved memory is 597 MB, peak memory is 569 MB
+RUN-1003 : finish command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0" in  13.522364s wall, 0.296875s user + 0.031250s system = 0.328125s CPU (2.4%)
+
+RUN-1004 : used memory is 527 MB, reserved memory is 597 MB, peak memory is 569 MB
+GUI-1001 : Downloading succeeded!
+RUN-1002 : start command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0"
+PRG-2014 : Chip validation success: SF1S60
+PRG-2505 : ProgramSvf:  program FOC_Controller_Runs/phy_1/FOC_Controller.svf successfully
+RUN-1003 : finish command "program_svf -svf FOC_Controller_Runs/phy_1/FOC_Controller.svf -spd 6" in  13.375297s wall, 0.140625s user + 0.062500s system = 0.203125s CPU (1.5%)
+
+RUN-1004 : used memory is 528 MB, reserved memory is 597 MB, peak memory is 569 MB
+RUN-1003 : finish command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0" in  13.624379s wall, 0.265625s user + 0.078125s system = 0.343750s CPU (2.5%)
+
+RUN-1004 : used memory is 528 MB, reserved memory is 597 MB, peak memory is 569 MB
+GUI-1001 : Downloading succeeded!
+RUN-1002 : start command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0"
+PRG-2014 : Chip validation success: SF1S60
+PRG-2505 : ProgramSvf:  program FOC_Controller_Runs/phy_1/FOC_Controller.svf successfully
+RUN-1003 : finish command "program_svf -svf FOC_Controller_Runs/phy_1/FOC_Controller.svf -spd 6" in  13.346071s wall, 0.140625s user + 0.078125s system = 0.218750s CPU (1.6%)
+
+RUN-1004 : used memory is 443 MB, reserved memory is 597 MB, peak memory is 569 MB
+RUN-1003 : finish command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0" in  13.595072s wall, 0.265625s user + 0.078125s system = 0.343750s CPU (2.5%)
+
+RUN-1004 : used memory is 443 MB, reserved memory is 597 MB, peak memory is 569 MB
+GUI-1001 : Downloading succeeded!
+RUN-1002 : start command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0"
+PRG-2014 : Chip validation success: SF1S60
+PRG-2505 : ProgramSvf:  program FOC_Controller_Runs/phy_1/FOC_Controller.svf successfully
+RUN-1003 : finish command "program_svf -svf FOC_Controller_Runs/phy_1/FOC_Controller.svf -spd 6" in  13.327085s wall, 0.156250s user + 0.015625s system = 0.171875s CPU (1.3%)
+
+RUN-1004 : used memory is 443 MB, reserved memory is 597 MB, peak memory is 569 MB
+RUN-1003 : finish command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0" in  13.573109s wall, 0.281250s user + 0.015625s system = 0.296875s CPU (2.2%)
+
+RUN-1004 : used memory is 443 MB, reserved memory is 597 MB, peak memory is 569 MB
+GUI-1001 : Downloading succeeded!
+RUN-1002 : start command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0"
+PRG-2014 : Chip validation success: SF1S60
+PRG-2505 : ProgramSvf:  program FOC_Controller_Runs/phy_1/FOC_Controller.svf successfully
+RUN-1003 : finish command "program_svf -svf FOC_Controller_Runs/phy_1/FOC_Controller.svf -spd 6" in  13.258114s wall, 0.156250s user + 0.031250s system = 0.187500s CPU (1.4%)
+
+RUN-1004 : used memory is 249 MB, reserved memory is 597 MB, peak memory is 569 MB
+RUN-1003 : finish command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0" in  13.500121s wall, 0.281250s user + 0.031250s system = 0.312500s CPU (2.3%)
+
+RUN-1004 : used memory is 249 MB, reserved memory is 597 MB, peak memory is 569 MB
+GUI-1001 : Downloading succeeded!
+RUN-1002 : start command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0"
+PRG-2014 : Chip validation success: SF1S60
+PRG-2505 : ProgramSvf:  program FOC_Controller_Runs/phy_1/FOC_Controller.svf successfully
+RUN-1003 : finish command "program_svf -svf FOC_Controller_Runs/phy_1/FOC_Controller.svf -spd 6" in  13.260889s wall, 0.156250s user + 0.031250s system = 0.187500s CPU (1.4%)
+
+RUN-1004 : used memory is 246 MB, reserved memory is 597 MB, peak memory is 569 MB
+RUN-1003 : finish command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0" in  13.505711s wall, 0.281250s user + 0.046875s system = 0.328125s CPU (2.4%)
+
+RUN-1004 : used memory is 246 MB, reserved memory is 597 MB, peak memory is 569 MB
+GUI-1001 : Downloading succeeded!
+RUN-1002 : start command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0"
+PRG-2014 : Chip validation success: SF1S60
+PRG-2505 : ProgramSvf:  program FOC_Controller_Runs/phy_1/FOC_Controller.svf successfully
+RUN-1003 : finish command "program_svf -svf FOC_Controller_Runs/phy_1/FOC_Controller.svf -spd 6" in  13.243854s wall, 0.156250s user + 0.109375s system = 0.265625s CPU (2.0%)
+
+RUN-1004 : used memory is 246 MB, reserved memory is 597 MB, peak memory is 569 MB
+RUN-1003 : finish command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0" in  13.506187s wall, 0.281250s user + 0.109375s system = 0.390625s CPU (2.9%)
+
+RUN-1004 : used memory is 246 MB, reserved memory is 597 MB, peak memory is 569 MB
+GUI-1001 : Downloading succeeded!
+RUN-1002 : start command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0"
+PRG-2014 : Chip validation success: SF1S60
+PRG-2505 : ProgramSvf:  program FOC_Controller_Runs/phy_1/FOC_Controller.svf successfully
+RUN-1003 : finish command "program_svf -svf FOC_Controller_Runs/phy_1/FOC_Controller.svf -spd 6" in  13.224349s wall, 0.234375s user + 0.109375s system = 0.343750s CPU (2.6%)
+
+RUN-1004 : used memory is 247 MB, reserved memory is 597 MB, peak memory is 569 MB
+RUN-1003 : finish command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0" in  13.471851s wall, 0.328125s user + 0.109375s system = 0.437500s CPU (3.2%)
+
+RUN-1004 : used memory is 247 MB, reserved memory is 597 MB, peak memory is 569 MB
+GUI-1001 : Downloading succeeded!
+RUN-1002 : start command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0"
+PRG-2014 : Chip validation success: SF1S60
+PRG-2505 : ProgramSvf:  program FOC_Controller_Runs/phy_1/FOC_Controller.svf successfully
+RUN-1003 : finish command "program_svf -svf FOC_Controller_Runs/phy_1/FOC_Controller.svf -spd 6" in  13.217600s wall, 0.140625s user + 0.015625s system = 0.156250s CPU (1.2%)
+
+RUN-1004 : used memory is 247 MB, reserved memory is 597 MB, peak memory is 569 MB
+RUN-1003 : finish command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0" in  13.461561s wall, 0.265625s user + 0.031250s system = 0.296875s CPU (2.2%)
+
+RUN-1004 : used memory is 247 MB, reserved memory is 597 MB, peak memory is 569 MB
+GUI-1001 : Downloading succeeded!
+RUN-1002 : start command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0"
+PRG-2014 : Chip validation success: SF1S60
+PRG-2505 : ProgramSvf:  program FOC_Controller_Runs/phy_1/FOC_Controller.svf successfully
+RUN-1003 : finish command "program_svf -svf FOC_Controller_Runs/phy_1/FOC_Controller.svf -spd 6" in  13.271019s wall, 0.218750s user + 0.046875s system = 0.265625s CPU (2.0%)
+
+RUN-1004 : used memory is 245 MB, reserved memory is 597 MB, peak memory is 569 MB
+RUN-1003 : finish command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0" in  13.518427s wall, 0.359375s user + 0.046875s system = 0.406250s CPU (3.0%)
+
+RUN-1004 : used memory is 245 MB, reserved memory is 597 MB, peak memory is 569 MB
+GUI-1001 : Downloading succeeded!
+RUN-1002 : start command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0"
+PRG-2014 : Chip validation success: SF1S60
+PRG-2505 : ProgramSvf:  program FOC_Controller_Runs/phy_1/FOC_Controller.svf successfully
+RUN-1003 : finish command "program_svf -svf FOC_Controller_Runs/phy_1/FOC_Controller.svf -spd 6" in  13.181208s wall, 0.140625s user + 0.046875s system = 0.187500s CPU (1.4%)
+
+RUN-1004 : used memory is 245 MB, reserved memory is 597 MB, peak memory is 569 MB
+RUN-1003 : finish command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0" in  13.430086s wall, 0.250000s user + 0.046875s system = 0.296875s CPU (2.2%)
+
+RUN-1004 : used memory is 245 MB, reserved memory is 597 MB, peak memory is 569 MB
+GUI-1001 : Downloading succeeded!
+RUN-1002 : start command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0"
+PRG-2014 : Chip validation success: SF1S60
+PRG-2505 : ProgramSvf:  program FOC_Controller_Runs/phy_1/FOC_Controller.svf successfully
+RUN-1003 : finish command "program_svf -svf FOC_Controller_Runs/phy_1/FOC_Controller.svf -spd 6" in  13.229983s wall, 1.468750s user + 0.078125s system = 1.546875s CPU (11.7%)
+
+RUN-1004 : used memory is 242 MB, reserved memory is 597 MB, peak memory is 569 MB
+RUN-1003 : finish command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0" in  13.476268s wall, 1.515625s user + 0.093750s system = 1.609375s CPU (11.9%)
+
+RUN-1004 : used memory is 242 MB, reserved memory is 597 MB, peak memory is 569 MB
+GUI-1001 : Downloading succeeded!
+RUN-1002 : start command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0"
+PRG-2014 : Chip validation success: SF1S60
+PRG-2505 : ProgramSvf:  program FOC_Controller_Runs/phy_1/FOC_Controller.svf successfully
+RUN-1003 : finish command "program_svf -svf FOC_Controller_Runs/phy_1/FOC_Controller.svf -spd 6" in  13.208637s wall, 0.171875s user + 0.109375s system = 0.281250s CPU (2.1%)
+
+RUN-1004 : used memory is 242 MB, reserved memory is 597 MB, peak memory is 569 MB
+RUN-1003 : finish command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0" in  13.459680s wall, 0.312500s user + 0.109375s system = 0.421875s CPU (3.1%)
+
+RUN-1004 : used memory is 242 MB, reserved memory is 597 MB, peak memory is 569 MB
+GUI-1001 : Downloading succeeded!
+RUN-1002 : start command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0"
+PRG-2014 : Chip validation success: SF1S60
+PRG-2505 : ProgramSvf:  program FOC_Controller_Runs/phy_1/FOC_Controller.svf successfully
+RUN-1003 : finish command "program_svf -svf FOC_Controller_Runs/phy_1/FOC_Controller.svf -spd 6" in  13.239899s wall, 2.406250s user + 0.078125s system = 2.484375s CPU (18.8%)
+
+RUN-1004 : used memory is 243 MB, reserved memory is 597 MB, peak memory is 569 MB
+RUN-1003 : finish command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0" in  13.486870s wall, 2.468750s user + 0.109375s system = 2.578125s CPU (19.1%)
+
+RUN-1004 : used memory is 243 MB, reserved memory is 597 MB, peak memory is 569 MB
+GUI-1001 : Downloading succeeded!
+RUN-1002 : start command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0"
+PRG-2014 : Chip validation success: SF1S60
+PRG-2505 : ProgramSvf:  program FOC_Controller_Runs/phy_1/FOC_Controller.svf successfully
+RUN-1003 : finish command "program_svf -svf FOC_Controller_Runs/phy_1/FOC_Controller.svf -spd 6" in  13.237945s wall, 0.109375s user + 0.046875s system = 0.156250s CPU (1.2%)
+
+RUN-1004 : used memory is 243 MB, reserved memory is 597 MB, peak memory is 569 MB
+RUN-1003 : finish command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0" in  13.480438s wall, 0.203125s user + 0.046875s system = 0.250000s CPU (1.9%)
+
+RUN-1004 : used memory is 243 MB, reserved memory is 597 MB, peak memory is 569 MB
+GUI-1001 : Downloading succeeded!
+RUN-1002 : start command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0"
+PRG-2014 : Chip validation success: SF1S60
+PRG-2505 : ProgramSvf:  program FOC_Controller_Runs/phy_1/FOC_Controller.svf successfully
+RUN-1003 : finish command "program_svf -svf FOC_Controller_Runs/phy_1/FOC_Controller.svf -spd 6" in  13.265048s wall, 2.796875s user + 0.015625s system = 2.812500s CPU (21.2%)
+
+RUN-1004 : used memory is 244 MB, reserved memory is 597 MB, peak memory is 569 MB
+RUN-1003 : finish command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0" in  13.635528s wall, 3.062500s user + 0.046875s system = 3.109375s CPU (22.8%)
+
+RUN-1004 : used memory is 244 MB, reserved memory is 597 MB, peak memory is 569 MB
+GUI-1001 : Downloading succeeded!
+RUN-1002 : start command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0"
+PRG-2014 : Chip validation success: SF1S60
+PRG-2505 : ProgramSvf:  program FOC_Controller_Runs/phy_1/FOC_Controller.svf successfully
+RUN-1003 : finish command "program_svf -svf FOC_Controller_Runs/phy_1/FOC_Controller.svf -spd 6" in  13.241963s wall, 0.171875s user + 0.046875s system = 0.218750s CPU (1.7%)
+
+RUN-1004 : used memory is 240 MB, reserved memory is 593 MB, peak memory is 569 MB
+RUN-1003 : finish command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0" in  13.490814s wall, 0.265625s user + 0.062500s system = 0.328125s CPU (2.4%)
+
+RUN-1004 : used memory is 240 MB, reserved memory is 593 MB, peak memory is 569 MB
+GUI-1001 : Downloading succeeded!
+RUN-1002 : start command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0"
+PRG-2014 : Chip validation success: SF1S60
+PRG-2505 : ProgramSvf:  program FOC_Controller_Runs/phy_1/FOC_Controller.svf successfully
+RUN-1003 : finish command "program_svf -svf FOC_Controller_Runs/phy_1/FOC_Controller.svf -spd 6" in  13.238687s wall, 1.640625s user + 0.093750s system = 1.734375s CPU (13.1%)
+
+RUN-1004 : used memory is 239 MB, reserved memory is 592 MB, peak memory is 569 MB
+RUN-1003 : finish command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0" in  13.489365s wall, 1.718750s user + 0.093750s system = 1.812500s CPU (13.4%)
+
+RUN-1004 : used memory is 239 MB, reserved memory is 592 MB, peak memory is 569 MB
+GUI-1001 : Downloading succeeded!
+RUN-1002 : start command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0"
+PRG-2014 : Chip validation success: SF1S60
+PRG-2505 : ProgramSvf:  program FOC_Controller_Runs/phy_1/FOC_Controller.svf successfully
+RUN-1003 : finish command "program_svf -svf FOC_Controller_Runs/phy_1/FOC_Controller.svf -spd 6" in  13.215356s wall, 0.171875s user + 0.125000s system = 0.296875s CPU (2.2%)
+
+RUN-1004 : used memory is 239 MB, reserved memory is 592 MB, peak memory is 569 MB
+RUN-1003 : finish command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0" in  13.463697s wall, 0.250000s user + 0.125000s system = 0.375000s CPU (2.8%)
+
+RUN-1004 : used memory is 239 MB, reserved memory is 592 MB, peak memory is 569 MB
+GUI-1001 : Downloading succeeded!
+RUN-1002 : start command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0"
+PRG-2014 : Chip validation success: SF1S60
+PRG-2505 : ProgramSvf:  program FOC_Controller_Runs/phy_1/FOC_Controller.svf successfully
+RUN-1003 : finish command "program_svf -svf FOC_Controller_Runs/phy_1/FOC_Controller.svf -spd 6" in  13.247686s wall, 2.687500s user + 0.062500s system = 2.750000s CPU (20.8%)
+
+RUN-1004 : used memory is 239 MB, reserved memory is 592 MB, peak memory is 569 MB
+RUN-1003 : finish command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0" in  13.491846s wall, 2.765625s user + 0.093750s system = 2.859375s CPU (21.2%)
+
+RUN-1004 : used memory is 239 MB, reserved memory is 592 MB, peak memory is 569 MB
+GUI-1001 : Downloading succeeded!
+RUN-1002 : start command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0"
+PRG-2014 : Chip validation success: SF1S60
+PRG-2505 : ProgramSvf:  program FOC_Controller_Runs/phy_1/FOC_Controller.svf successfully
+RUN-1003 : finish command "program_svf -svf FOC_Controller_Runs/phy_1/FOC_Controller.svf -spd 6" in  13.313549s wall, 0.187500s user + 0.046875s system = 0.234375s CPU (1.8%)
+
+RUN-1004 : used memory is 237 MB, reserved memory is 592 MB, peak memory is 569 MB
+RUN-1003 : finish command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0" in  13.564944s wall, 0.281250s user + 0.062500s system = 0.343750s CPU (2.5%)
+
+RUN-1004 : used memory is 237 MB, reserved memory is 592 MB, peak memory is 569 MB
+GUI-1001 : Downloading succeeded!
+RUN-1002 : start command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0"
+PRG-2014 : Chip validation success: SF1S60
+PRG-2505 : ProgramSvf:  program FOC_Controller_Runs/phy_1/FOC_Controller.svf successfully
+RUN-1003 : finish command "program_svf -svf FOC_Controller_Runs/phy_1/FOC_Controller.svf -spd 6" in  13.333772s wall, 0.281250s user + 0.109375s system = 0.390625s CPU (2.9%)
+
+RUN-1004 : used memory is 237 MB, reserved memory is 592 MB, peak memory is 569 MB
+RUN-1003 : finish command "download -bit FOC_Controller_Runs\phy_1\FOC_Controller.bit -mode program_riscv -hex2 C:\Users\15597\Desktop\sf1\FutureDynasty_workspace\foc_controller\Debug\foc_controller.hex -spd 6 -sec 64 -cable 0" in  13.736318s wall, 0.625000s user + 0.140625s system = 0.765625s CPU (5.6%)
+
+RUN-1004 : used memory is 237 MB, reserved memory is 592 MB, peak memory is 569 MB
+GUI-1001 : Downloading succeeded!

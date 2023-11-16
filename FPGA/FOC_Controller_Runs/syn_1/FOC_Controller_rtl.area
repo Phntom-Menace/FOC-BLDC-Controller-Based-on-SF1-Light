@@ -1,0 +1,52 @@
+standard
+***Report Model: fpga_top Device: SF1S60CG121I***
+
+IO Statistics
+#IO                        21
+  #input                   10
+  #output                  10
+  #inout                    1
+
+Gate Statistics
+#Basic gates             3319
+  #and                    219
+  #nand                     0
+  #or                      58
+  #nor                      0
+  #xor                      0
+  #xnor                     0
+  #buf                      0
+  #not                    107
+  #bufif1                   1
+  #MX21                   127
+  #FADD                     0
+  #DFF                   2807
+  #LATCH                    0
+#MACRO_ADD                126
+#MACRO_EQ                  56
+#MACRO_MULT                12
+#MACRO_MUX               2296
+#MACRO_OTHERS              11
+
+Report Hierarchy Area:
++----------------------------------------------------------------------+
+|Instance                  |Module             |gates  |seq    |macros |
++----------------------------------------------------------------------+
+|top                       |fpga_top           |512    |2807   |205    |
+|  u_ahb_foc_controller    |ahb_foc_controller |511    |2807   |198    |
+|    u_foc_controller      |foc_controller     |360    |1685   |173    |
+|      u_adc_ad7928        |adc_ad7928         |45     |76     |11     |
+|      u_as5600_encoder    |as5600_encoder     |115    |73     |28     |
+|        u_as5600_read     |i2c_register_read  |115    |61     |24     |
+|      u_foc_top           |foc_top            |195    |1331   |120    |
+|        u_adc_sn_ctrl     |hold_detect        |6      |10     |3      |
+|        u_cartesian2polar |cartesian2polar    |10     |189    |23     |
+|        u_clark_tr        |clark_tr           |0      |128    |11     |
+|        u_id_pi           |pi_controller      |12     |229    |13     |
+|        u_iq_pi           |pi_controller      |12     |225    |13     |
+|        u_park_tr         |park_tr            |14     |250    |16     |
+|          u_sincos        |sincos             |14     |88     |10     |
+|        u_svpwm           |svpwm              |136    |207    |30     |
+|  u_mcu                   |MCU                |0      |0      |6      |
+|  u_pll                   |pll                |0      |0      |1      |
++----------------------------------------------------------------------+

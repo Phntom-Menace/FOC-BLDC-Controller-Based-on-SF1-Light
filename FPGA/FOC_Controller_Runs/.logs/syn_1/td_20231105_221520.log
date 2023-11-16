@@ -1,0 +1,687 @@
+============================================================
+   Tang Dynasty, V5.6.71036
+      Copyright (c) 2012-2023 Anlogic Inc.
+   Executable = D:/Anlogic/TD5.6.2/bin/td.exe
+   Built at =   20:34:38 Mar 21 2023
+   Run by =     15597
+   Run Date =   Sun Nov  5 22:15:20 2023
+
+   Run on =     XR097-DELL-G7
+============================================================
+RUN-1002 : start command "open_project FOC_Controller.prj"
+RUN-1001 : Print Global Property
+RUN-1001 : ---------------------------------------------------------------
+RUN-1001 :        Parameters        |  Settings  |  Default Values  |  Note  
+RUN-1001 : ---------------------------------------------------------------
+RUN-1001 :          message         |  standard  |     standard     |        
+RUN-1001 :   mixed_pack_place_flow  |     on     |        on        |        
+RUN-1001 :        qor_monitor       |    off     |       off        |        
+RUN-1001 :        syn_ip_flow       |    off     |       off        |        
+RUN-1001 :          thread          |    auto    |       auto       |        
+RUN-1001 : ---------------------------------------------------------------
+RUN-1001 : Print Design Property
+RUN-1001 : --------------------------------------------------------------
+RUN-1001 :        Parameters       |  Settings  |  Default Values  |  Note  
+RUN-1001 : --------------------------------------------------------------
+RUN-1001 :   default_reg_initial   |    auto    |       auto       |        
+RUN-1001 :        infer_add        |     on     |        on        |        
+RUN-1001 :        infer_fsm        |    off     |       off        |        
+RUN-1001 :        infer_mult       |     on     |        on        |        
+RUN-1001 :        infer_ram        |     on     |        on        |        
+RUN-1001 :        infer_reg        |     on     |        on        |        
+RUN-1001 :   infer_reg_init_value  |     on     |        on        |        
+RUN-1001 :        infer_rom        |     on     |        on        |        
+RUN-1001 :      infer_shifter      |     on     |        on        |        
+RUN-1001 : --------------------------------------------------------------
+RUN-1001 : Print Rtl Property
+RUN-1001 : --------------------------------------------------------------
+RUN-1001 :        Parameters       |  Settings  |  Default Values  |  Note  
+RUN-1001 : --------------------------------------------------------------
+RUN-1001 :       compress_add      |   ripple   |      ripple      |        
+RUN-1001 :        elf_sload        |    off     |       off        |        
+RUN-1001 :       fix_undriven      |     0      |        0         |        
+RUN-1001 :         flatten         |    off     |       off        |        
+RUN-1001 :       gate_sharing      |     on     |        on        |        
+RUN-1001 :    hdl_warning_level    |   normal   |      normal      |        
+RUN-1001 :   impl_internal_tribuf  |     on     |        on        |        
+RUN-1001 :      impl_set_reset     |     on     |        on        |        
+RUN-1001 :        infer_gsr        |    off     |       off        |        
+RUN-1001 :      keep_hierarchy     |    auto    |       auto       |        
+RUN-1001 :        max_fanout       |    9999    |       9999       |        
+RUN-1001 :      max_oh2bin_len     |     10     |        10        |        
+RUN-1001 :       merge_equal       |     on     |        on        |        
+RUN-1001 :       merge_equiv       |     on     |        on        |        
+RUN-1001 :        merge_mux        |    off     |       off        |        
+RUN-1001 :     min_control_set     |     8      |        8         |        
+RUN-1001 :      min_ripple_len     |    auto    |       auto       |        
+RUN-1001 :       oh2bin_ratio      |    0.08    |       0.08       |        
+RUN-1001 :     opt_adder_fanout    |     on     |        on        |        
+RUN-1001 :        opt_arith        |     on     |        on        |        
+RUN-1001 :       opt_big_gate      |    off     |       off        |        
+RUN-1001 :        opt_const        |     on     |        on        |        
+RUN-1001 :      opt_const_mult     |     on     |        on        |        
+RUN-1001 :       opt_lessthan      |     on     |        on        |        
+RUN-1001 :         opt_mux         |    off     |       off        |        
+RUN-1001 :         opt_ram         |    high    |       high       |        
+RUN-1001 :      rtl_sim_model      |    off     |       off        |        
+RUN-1001 :         seq_syn         |     on     |        on        |        
+RUN-1001 : --------------------------------------------------------------
+HDL-1007 : analyze verilog file ../../al_ip/pll.v
+HDL-1007 : undeclared symbol 'open', assumed default net type 'wire' in ../../al_ip/pll.v(96)
+HDL-1007 : analyze verilog file ../../RTL/adc_ad7928.v
+HDL-1007 : analyze verilog file ../../RTL/foc/cartesian2polar.v
+HDL-1007 : analyze verilog file ../../RTL/foc/clark_tr.v
+HDL-1007 : analyze verilog file ../../RTL/foc/foc_top.v
+HDL-1007 : analyze verilog file ../../RTL/foc/hold_detect.v
+HDL-1007 : analyze verilog file ../../RTL/foc/park_tr.v
+HDL-1007 : analyze verilog file ../../RTL/foc/pi_controller.v
+HDL-1007 : analyze verilog file ../../RTL/foc/sincos.v
+HDL-1007 : analyze verilog file ../../RTL/foc/svpwm.v
+HDL-1007 : analyze verilog file ../../RTL/fpga_top.v
+HDL-1007 : undeclared symbol 'S_sys_clk_100m', assumed default net type 'wire' in ../../RTL/fpga_top.v(82)
+HDL-1007 : undeclared symbol 'i2c2_trash', assumed default net type 'wire' in ../../RTL/fpga_top.v(197)
+HDL-1007 : analyze verilog file ../../RTL/i2c_register_read.v
+RUN-1001 : Project manager successfully analyzed 12 source files.
+RUN-1002 : start command "import_device sf1_6.db -package SF1S60CG121I"
+ARC-1001 : Device Initialization.
+ARC-1001 : -------------------------------------------------
+ARC-1001 :       OPTION       |      IO       |   SETTING   
+ARC-1001 : -------------------------------------------------
+ARC-1001 :        done        |      B4       |    gpio    
+ARC-1001 :        initn       |      A5       |    gpio    
+ARC-1001 :       jtagen       |      B7       |    gpio    
+ARC-1001 :      programn      |      B5       |  dedicate  
+ARC-1001 :   tdi/tms/tck/tdo  |  C4/A6/A7/C5  |  dedicate  
+ARC-1001 : -------------------------------------------------
+ARC-1004 : Device setting, marked 5 dedicate IOs in total.
+RUN-1002 : start command "elaborate -top TOP"
+RUN-1001 : Print Design Property
+RUN-1001 : --------------------------------------------------------------
+RUN-1001 :        Parameters       |  Settings  |  Default Values  |  Note  
+RUN-1001 : --------------------------------------------------------------
+RUN-1001 :   default_reg_initial   |    auto    |       auto       |        
+RUN-1001 :        infer_add        |     on     |        on        |        
+RUN-1001 :        infer_fsm        |    off     |       off        |        
+RUN-1001 :        infer_mult       |     on     |        on        |        
+RUN-1001 :        infer_ram        |     on     |        on        |        
+RUN-1001 :        infer_reg        |     on     |        on        |        
+RUN-1001 :   infer_reg_init_value  |     on     |        on        |        
+RUN-1001 :        infer_rom        |     on     |        on        |        
+RUN-1001 :      infer_shifter      |     on     |        on        |        
+RUN-1001 : --------------------------------------------------------------
+RUN-1001 : Print Rtl Property
+RUN-1001 : --------------------------------------------------------------
+RUN-1001 :        Parameters       |  Settings  |  Default Values  |  Note  
+RUN-1001 : --------------------------------------------------------------
+RUN-1001 :       compress_add      |   ripple   |      ripple      |        
+RUN-1001 :        elf_sload        |    off     |       off        |        
+RUN-1001 :       fix_undriven      |     0      |        0         |        
+RUN-1001 :         flatten         |    off     |       off        |        
+RUN-1001 :       gate_sharing      |     on     |        on        |        
+RUN-1001 :    hdl_warning_level    |   normal   |      normal      |        
+RUN-1001 :   impl_internal_tribuf  |     on     |        on        |        
+RUN-1001 :      impl_set_reset     |     on     |        on        |        
+RUN-1001 :        infer_gsr        |    off     |       off        |        
+RUN-1001 :      keep_hierarchy     |    auto    |       auto       |        
+RUN-1001 :        max_fanout       |    9999    |       9999       |        
+RUN-1001 :      max_oh2bin_len     |     10     |        10        |        
+RUN-1001 :       merge_equal       |     on     |        on        |        
+RUN-1001 :       merge_equiv       |     on     |        on        |        
+RUN-1001 :        merge_mux        |    off     |       off        |        
+RUN-1001 :     min_control_set     |     8      |        8         |        
+RUN-1001 :      min_ripple_len     |    auto    |       auto       |        
+RUN-1001 :       oh2bin_ratio      |    0.08    |       0.08       |        
+RUN-1001 :     opt_adder_fanout    |     on     |        on        |        
+RUN-1001 :        opt_arith        |     on     |        on        |        
+RUN-1001 :       opt_big_gate      |    off     |       off        |        
+RUN-1001 :        opt_const        |     on     |        on        |        
+RUN-1001 :      opt_const_mult     |     on     |        on        |        
+RUN-1001 :       opt_lessthan      |     on     |        on        |        
+RUN-1001 :         opt_mux         |    off     |       off        |        
+RUN-1001 :         opt_ram         |    high    |       high       |        
+RUN-1001 :      rtl_sim_model      |    off     |       off        |        
+RUN-1001 :         seq_syn         |     on     |        on        |        
+RUN-1001 : --------------------------------------------------------------
+RUN-1001 : Print Global Property
+RUN-1001 : ---------------------------------------------------------------
+RUN-1001 :        Parameters        |  Settings  |  Default Values  |  Note  
+RUN-1001 : ---------------------------------------------------------------
+RUN-1001 :          message         |  standard  |     standard     |        
+RUN-1001 :   mixed_pack_place_flow  |     on     |        on        |        
+RUN-1001 :        qor_monitor       |    off     |       off        |        
+RUN-1001 :        syn_ip_flow       |    off     |       off        |        
+RUN-1001 :          thread          |    auto    |       auto       |        
+RUN-1001 : ---------------------------------------------------------------
+RUN-1001 : Print Design Property
+RUN-1001 : --------------------------------------------------------------
+RUN-1001 :        Parameters       |  Settings  |  Default Values  |  Note  
+RUN-1001 : --------------------------------------------------------------
+RUN-1001 :   default_reg_initial   |    auto    |       auto       |        
+RUN-1001 :        infer_add        |     on     |        on        |        
+RUN-1001 :        infer_fsm        |    off     |       off        |        
+RUN-1001 :        infer_mult       |     on     |        on        |        
+RUN-1001 :        infer_ram        |     on     |        on        |        
+RUN-1001 :        infer_reg        |     on     |        on        |        
+RUN-1001 :   infer_reg_init_value  |     on     |        on        |        
+RUN-1001 :        infer_rom        |     on     |        on        |        
+RUN-1001 :      infer_shifter      |     on     |        on        |        
+RUN-1001 : --------------------------------------------------------------
+HDL-1007 : elaborate module TOP in ../../RTL/fpga_top.v(11)
+HDL-1007 : elaborate module pll in ../../al_ip/pll.v(23)
+HDL-1007 : elaborate module SF1_LOGIC_BUFG in D:/Anlogic/TD5.6.2/arch/sf1_macro.v(8)
+HDL-1007 : elaborate module SF1_PHY_PLL(FIN="25.000",FBCLK_DIV=4,CLKC0_DIV=7,CLKC1_DIV=19,CLKC0_ENABLE="ENABLE",CLKC1_ENABLE="ENABLE",FEEDBK_PATH="CLKC0_EXT",STDBY_ENABLE="DISABLE",CLKC0_CPHASE=6,CLKC1_CPHASE=18,GMC_GAIN=2,GMC_TEST=9,ICP_CURRENT=9,KVCO=2,LPF_CAPACITOR=1,LPF_RESISTOR=8,SYNC_ENABLE="DISABLE",OFFSET_MODE="EXT",CLKC0_DUTY=0.5,CLKC1_DUTY=0.5,CLKC0_DUTY_INT=4,CLKC1_DUTY_INT=10) in D:/Anlogic/TD5.6.2/arch/sf1_macro.v(1354)
+HDL-1007 : elaborate module i2c_register_read(CLK_DIV=16'b01010) in ../../RTL/i2c_register_read.v(9)
+HDL-1007 : elaborate module adc_ad7928(CH_CNT=3'b010,CH0=3'b01,CH1=3'b010,CH2=3'b011) in ../../RTL/adc_ad7928.v(11)
+HDL-1007 : elaborate module foc_top(ANGLE_INV=1'b0) in ../../RTL/foc/foc_top.v(11)
+HDL-1007 : elaborate module clark_tr in ../../RTL/foc/clark_tr.v(9)
+HDL-1007 : elaborate module park_tr in ../../RTL/foc/park_tr.v(9)
+HDL-1007 : elaborate module sincos in ../../RTL/foc/sincos.v(11)
+HDL-1007 : elaborate module pi_controller in ../../RTL/foc/pi_controller.v(9)
+HDL-1007 : elaborate module cartesian2polar in ../../RTL/foc/cartesian2polar.v(9)
+HDL-1007 : elaborate module svpwm in ../../RTL/foc/svpwm.v(13)
+HDL-1007 : elaborate module hold_detect(SAMPLE_DELAY=16'b01111000) in ../../RTL/foc/hold_detect.v(9)
+HDL-5007 WARNING: actual bit length 13 differs from formal bit length 16 for port 'regout' in ../../RTL/fpga_top.v(197)
+HDL-5007 WARNING: input port 'reset' remains unconnected for this instance in ../../RTL/fpga_top.v(80)
+HDL-1200 : Current top model is TOP
+HDL-1100 : Inferred 0 RAMs.
+RUN-1002 : start command "export_db FOC_Controller_elaborate.db"
+RUN-1001 : Exported /
+RUN-1001 : Exported flow parameters
+RUN-1001 : Exported libs
+RUN-1001 : Exported entities
+RUN-1001 : Exported ports
+RUN-1001 : Exported pins
+RUN-1001 : Exported instances
+RUN-1001 : Exported nets
+RUN-1001 : Exported buses
+RUN-1001 : Exported models
+RUN-1001 : Exported congestions
+RUN-1001 : Exported violations
+RUN-1001 : Exported IO constraints
+RUN-1001 : Exported Inst constraints
+RUN-1002 : start command "read_adc ../../foc.adc"
+RUN-1002 : start command "set_pin_assignment  clk_25m   LOCATION = D7; "
+RUN-1002 : start command "set_pin_assignment  clk_25m   IOSTANDARD = LVCMOS18; "
+RUN-1002 : start command "set_pin_assignment  clk_25m   PULLTYPE = PULLUP; "
+RUN-1002 : start command "set_pin_assignment  i2c1_scl   LOCATION = C7; "
+RUN-1002 : start command "set_pin_assignment  i2c1_scl   IOSTANDARD = LVCMOS18; "
+RUN-1002 : start command "set_pin_assignment  i2c1_scl   DRIVESTRENGTH = 8; "
+RUN-1002 : start command "set_pin_assignment  i2c1_scl   PULLTYPE = NONE; "
+RUN-1002 : start command "set_pin_assignment  i2c1_sda   LOCATION = D5; "
+RUN-1002 : start command "set_pin_assignment  i2c1_sda   IOSTANDARD = LVCMOS18; "
+RUN-1002 : start command "set_pin_assignment  i2c1_sda   DRIVESTRENGTH = 8; "
+RUN-1002 : start command "set_pin_assignment  i2c1_sda   PULLTYPE = PULLUP; "
+RUN-1002 : start command "set_pin_assignment  i2c2_scl   LOCATION = D6; "
+RUN-1002 : start command "set_pin_assignment  i2c2_scl   IOSTANDARD = LVCMOS18; "
+RUN-1002 : start command "set_pin_assignment  i2c2_scl   DRIVESTRENGTH = 8; "
+RUN-1002 : start command "set_pin_assignment  i2c2_scl   PULLTYPE = NONE; "
+RUN-1002 : start command "set_pin_assignment  i2c2_sda   LOCATION = J2; "
+RUN-1002 : start command "set_pin_assignment  i2c2_sda   IOSTANDARD = LVCMOS18; "
+RUN-1002 : start command "set_pin_assignment  i2c2_sda   DRIVESTRENGTH = 8; "
+RUN-1002 : start command "set_pin_assignment  i2c2_sda   PULLTYPE = PULLUP; "
+RUN-1002 : start command "set_pin_assignment  pwm1_a   LOCATION = E4; "
+RUN-1002 : start command "set_pin_assignment  pwm1_a   IOSTANDARD = LVCMOS18; "
+RUN-1002 : start command "set_pin_assignment  pwm1_a   DRIVESTRENGTH = 8; "
+RUN-1002 : start command "set_pin_assignment  pwm1_a   PULLTYPE = NONE; "
+RUN-1002 : start command "set_pin_assignment  pwm1_b   LOCATION = C6; "
+RUN-1002 : start command "set_pin_assignment  pwm1_b   IOSTANDARD = LVCMOS18; "
+RUN-1002 : start command "set_pin_assignment  pwm1_b   DRIVESTRENGTH = 8; "
+RUN-1002 : start command "set_pin_assignment  pwm1_b   PULLTYPE = NONE; "
+RUN-1002 : start command "set_pin_assignment  pwm1_c   LOCATION = J5; "
+RUN-1002 : start command "set_pin_assignment  pwm1_c   IOSTANDARD = LVCMOS18; "
+RUN-1002 : start command "set_pin_assignment  pwm1_c   DRIVESTRENGTH = 8; "
+RUN-1002 : start command "set_pin_assignment  pwm1_c   PULLTYPE = NONE; "
+RUN-1002 : start command "set_pin_assignment  pwm1_en   LOCATION = H5; "
+RUN-1002 : start command "set_pin_assignment  pwm1_en   IOSTANDARD = LVCMOS18; "
+RUN-1002 : start command "set_pin_assignment  pwm1_en   DRIVESTRENGTH = 8; "
+RUN-1002 : start command "set_pin_assignment  pwm1_en   PULLTYPE = NONE; "
+RUN-1002 : start command "set_pin_assignment  pwm2_a   LOCATION = G4; "
+RUN-1002 : start command "set_pin_assignment  pwm2_a   IOSTANDARD = LVCMOS18; "
+RUN-1002 : start command "set_pin_assignment  pwm2_a   DRIVESTRENGTH = 8; "
+RUN-1002 : start command "set_pin_assignment  pwm2_a   PULLTYPE = NONE; "
+RUN-1002 : start command "set_pin_assignment  pwm2_b   LOCATION = C10; "
+RUN-1002 : start command "set_pin_assignment  pwm2_b   IOSTANDARD = LVCMOS18; "
+RUN-1002 : start command "set_pin_assignment  pwm2_b   DRIVESTRENGTH = 8; "
+RUN-1002 : start command "set_pin_assignment  pwm2_b   PULLTYPE = NONE; "
+RUN-1002 : start command "set_pin_assignment  pwm2_c   LOCATION = C11; "
+RUN-1002 : start command "set_pin_assignment  pwm2_c   IOSTANDARD = LVCMOS18; "
+RUN-1002 : start command "set_pin_assignment  pwm2_c   DRIVESTRENGTH = 8; "
+RUN-1002 : start command "set_pin_assignment  pwm2_c   PULLTYPE = NONE; "
+RUN-1002 : start command "set_pin_assignment  pwm2_en   LOCATION = E11; "
+RUN-1002 : start command "set_pin_assignment  pwm2_en   IOSTANDARD = LVCMOS18; "
+RUN-1002 : start command "set_pin_assignment  pwm2_en   DRIVESTRENGTH = 8; "
+RUN-1002 : start command "set_pin_assignment  pwm2_en   PULLTYPE = NONE; "
+RUN-1002 : start command "set_pin_assignment  spi1_miso   LOCATION = F11; "
+RUN-1002 : start command "set_pin_assignment  spi1_miso   IOSTANDARD = LVCMOS18; "
+RUN-1002 : start command "set_pin_assignment  spi1_miso   PULLTYPE = PULLUP; "
+RUN-1002 : start command "set_pin_assignment  spi1_mosi   LOCATION = A10; "
+RUN-1002 : start command "set_pin_assignment  spi1_mosi   IOSTANDARD = LVCMOS18; "
+RUN-1002 : start command "set_pin_assignment  spi1_mosi   DRIVESTRENGTH = 8; "
+RUN-1002 : start command "set_pin_assignment  spi1_mosi   PULLTYPE = NONE; "
+RUN-1002 : start command "set_pin_assignment  spi1_sck   LOCATION = A11; "
+RUN-1002 : start command "set_pin_assignment  spi1_sck   IOSTANDARD = LVCMOS18; "
+RUN-1002 : start command "set_pin_assignment  spi1_sck   DRIVESTRENGTH = 8; "
+RUN-1002 : start command "set_pin_assignment  spi1_sck   PULLTYPE = NONE; "
+RUN-1002 : start command "set_pin_assignment  spi1_ss   LOCATION = B10; "
+RUN-1002 : start command "set_pin_assignment  spi1_ss   IOSTANDARD = LVCMOS18; "
+RUN-1002 : start command "set_pin_assignment  spi1_ss   DRIVESTRENGTH = 8; "
+RUN-1002 : start command "set_pin_assignment  spi1_ss   PULLTYPE = NONE; "
+RUN-1002 : start command "set_pin_assignment  spi2_miso   LOCATION = B11; "
+RUN-1002 : start command "set_pin_assignment  spi2_miso   IOSTANDARD = LVCMOS18; "
+RUN-1002 : start command "set_pin_assignment  spi2_miso   PULLTYPE = PULLUP; "
+RUN-1002 : start command "set_pin_assignment  spi2_mosi   LOCATION = A4; "
+RUN-1002 : start command "set_pin_assignment  spi2_mosi   IOSTANDARD = LVCMOS18; "
+RUN-1002 : start command "set_pin_assignment  spi2_mosi   DRIVESTRENGTH = 8; "
+RUN-1002 : start command "set_pin_assignment  spi2_mosi   PULLTYPE = NONE; "
+RUN-1002 : start command "set_pin_assignment  spi2_sck   LOCATION = A5; "
+RUN-1002 : start command "set_pin_assignment  spi2_sck   IOSTANDARD = LVCMOS18; "
+RUN-1002 : start command "set_pin_assignment  spi2_sck   DRIVESTRENGTH = 8; "
+RUN-1002 : start command "set_pin_assignment  spi2_sck   PULLTYPE = NONE; "
+RUN-1002 : start command "set_pin_assignment  spi2_ss   LOCATION = A8; "
+RUN-1002 : start command "set_pin_assignment  spi2_ss   IOSTANDARD = LVCMOS18; "
+RUN-1002 : start command "set_pin_assignment  spi2_ss   DRIVESTRENGTH = 8; "
+RUN-1002 : start command "set_pin_assignment  spi2_ss   PULLTYPE = NONE; "
+RUN-1001 : Starting of IO setups legality check.
+RUN-1001 : Starting of IO setups legality check.
+RUN-1001 : Starting of IO vref setups legality check.
+RUN-1002 : start command "optimize_rtl"
+RUN-1001 : Open license file D:/Anlogic/TD5.6.2/license/Anlogic.lic
+RUN-1001 : Print Global Property
+RUN-1001 : ---------------------------------------------------------------
+RUN-1001 :        Parameters        |  Settings  |  Default Values  |  Note  
+RUN-1001 : ---------------------------------------------------------------
+RUN-1001 :          message         |  standard  |     standard     |        
+RUN-1001 :   mixed_pack_place_flow  |     on     |        on        |        
+RUN-1001 :        qor_monitor       |    off     |       off        |        
+RUN-1001 :        syn_ip_flow       |    off     |       off        |        
+RUN-1001 :          thread          |    auto    |       auto       |        
+RUN-1001 : ---------------------------------------------------------------
+RUN-1001 : Print Rtl Property
+RUN-1001 : --------------------------------------------------------------
+RUN-1001 :        Parameters       |  Settings  |  Default Values  |  Note  
+RUN-1001 : --------------------------------------------------------------
+RUN-1001 :       compress_add      |   ripple   |      ripple      |        
+RUN-1001 :        elf_sload        |    off     |       off        |        
+RUN-1001 :       fix_undriven      |     0      |        0         |        
+RUN-1001 :         flatten         |    off     |       off        |        
+RUN-1001 :       gate_sharing      |     on     |        on        |        
+RUN-1001 :    hdl_warning_level    |   normal   |      normal      |        
+RUN-1001 :   impl_internal_tribuf  |     on     |        on        |        
+RUN-1001 :      impl_set_reset     |     on     |        on        |        
+RUN-1001 :        infer_gsr        |    off     |       off        |        
+RUN-1001 :      keep_hierarchy     |    auto    |       auto       |        
+RUN-1001 :        max_fanout       |    9999    |       9999       |        
+RUN-1001 :      max_oh2bin_len     |     10     |        10        |        
+RUN-1001 :       merge_equal       |     on     |        on        |        
+RUN-1001 :       merge_equiv       |     on     |        on        |        
+RUN-1001 :        merge_mux        |    off     |       off        |        
+RUN-1001 :     min_control_set     |     8      |        8         |        
+RUN-1001 :      min_ripple_len     |    auto    |       auto       |        
+RUN-1001 :       oh2bin_ratio      |    0.08    |       0.08       |        
+RUN-1001 :     opt_adder_fanout    |     on     |        on        |        
+RUN-1001 :        opt_arith        |     on     |        on        |        
+RUN-1001 :       opt_big_gate      |    off     |       off        |        
+RUN-1001 :        opt_const        |     on     |        on        |        
+RUN-1001 :      opt_const_mult     |     on     |        on        |        
+RUN-1001 :       opt_lessthan      |     on     |        on        |        
+RUN-1001 :         opt_mux         |    off     |       off        |        
+RUN-1001 :         opt_ram         |    high    |       high       |        
+RUN-1001 :      rtl_sim_model      |    off     |       off        |        
+RUN-1001 :         seq_syn         |     on     |        on        |        
+RUN-1001 : --------------------------------------------------------------
+SYN-1012 : SanityCheck: Model "TOP"
+SYN-1012 : SanityCheck: Model "pll"
+SYN-1012 : SanityCheck: Model "adc_ad7928(CH_CNT=3'b010,CH0=3'b01,CH1=3'b010,CH2=3'b011)"
+SYN-1012 : SanityCheck: Model "i2c_register_read(CLK_DIV=16'b01010)"
+SYN-1012 : SanityCheck: Model "foc_top(ANGLE_INV=1'b0)"
+SYN-1012 : SanityCheck: Model "hold_detect(SAMPLE_DELAY=16'b01111000)"
+SYN-1012 : SanityCheck: Model "cartesian2polar"
+SYN-1012 : SanityCheck: Model "clark_tr"
+SYN-1012 : SanityCheck: Model "pi_controller"
+SYN-1012 : SanityCheck: Model "park_tr"
+SYN-1012 : SanityCheck: Model "sincos"
+SYN-1012 : SanityCheck: Model "svpwm"
+SYN-1043 : Mark i2c_register_read(CLK_DIV=16'b01010) as IO macro for instance sda_i
+SYN-1043 : Mark pll as IO macro for instance bufg_feedback
+SYN-1011 : Flatten model TOP
+SYN-1032 : 17090/1457 useful/useless nets, 1906/142 useful/useless insts
+SYN-1016 : Merged 348 instances.
+SYN-1035 : Inferred 8 ROM(s)
+SYN-1032 : 11570/4284 useful/useless nets, 1002/166 useful/useless insts
+SYN-1016 : Merged 603 instances.
+SYN-5011 WARNING: Undriven pin: model "TOP" / inst "u2_foc_top/u_cartesian2polar/mux4_syn_1" in ../../RTL/foc/cartesian2polar.v(94) / pin "addrb[11]"
+SYN-5011 WARNING: Undriven pin: model "TOP" / inst "u2_foc_top/u_cartesian2polar/mux4_syn_1" in ../../RTL/foc/cartesian2polar.v(94) / pin "addrb[10]"
+SYN-5011 WARNING: Undriven pin: model "TOP" / inst "u2_foc_top/u_cartesian2polar/mux4_syn_1" in ../../RTL/foc/cartesian2polar.v(94) / pin "addrb[9]"
+SYN-5011 WARNING: Undriven pin: model "TOP" / inst "u2_foc_top/u_cartesian2polar/mux4_syn_1" in ../../RTL/foc/cartesian2polar.v(94) / pin "addrb[8]"
+SYN-5011 WARNING: Undriven pin: model "TOP" / inst "u2_foc_top/u_cartesian2polar/mux4_syn_1" in ../../RTL/foc/cartesian2polar.v(94) / pin "addrb[7]"
+SYN-5011 WARNING: Undriven pin: model "TOP" / inst "u2_foc_top/u_cartesian2polar/mux4_syn_1" in ../../RTL/foc/cartesian2polar.v(94) / pin "addrb[6]"
+SYN-5011 WARNING: Undriven pin: model "TOP" / inst "u2_foc_top/u_cartesian2polar/mux4_syn_1" in ../../RTL/foc/cartesian2polar.v(94) / pin "addrb[5]"
+SYN-5011 WARNING: Undriven pin: model "TOP" / inst "u2_foc_top/u_cartesian2polar/mux4_syn_1" in ../../RTL/foc/cartesian2polar.v(94) / pin "addrb[4]"
+SYN-5011 WARNING: Undriven pin: model "TOP" / inst "u2_foc_top/u_cartesian2polar/mux4_syn_1" in ../../RTL/foc/cartesian2polar.v(94) / pin "addrb[3]"
+SYN-5011 WARNING: Undriven pin: model "TOP" / inst "u2_foc_top/u_cartesian2polar/mux4_syn_1" in ../../RTL/foc/cartesian2polar.v(94) / pin "addrb[2]"
+SYN-5011 Similar messages will be suppressed.
+SYN-5013 WARNING: Undriven net: model "TOP" / net "pll_inst/reset" in ../../al_ip/pll.v(32)
+SYN-5014 WARNING: the net's pin: pin "reset" in ../../al_ip/pll.v(86)
+SYN-5025 WARNING: Using 0 for all undriven pins and nets
+SYN-1032 : 10103/889 useful/useless nets, 7821/1062 useful/useless insts
+SYN-1014 : Optimize round 1
+SYN-1017 : Remove 2 const input seq instances
+SYN-1002 :     reg2_syn_2
+SYN-1002 :     u2_foc_top/u_clark_tr/reg0_syn_2
+SYN-1019 : Optimized 4 mux instances.
+SYN-1021 : Optimized 366 onehot mux instances.
+SYN-1020 : Optimized 677 distributor mux.
+SYN-1001 : Optimize 18 less-than instances
+SYN-1019 : Optimized 11 mux instances.
+SYN-1016 : Merged 1686 instances.
+SYN-1015 : Optimize round 1, 7300 better
+SYN-1014 : Optimize round 2
+SYN-1032 : 8408/80 useful/useless nets, 6126/815 useful/useless insts
+SYN-1017 : Remove 5 const input seq instances
+SYN-1002 :     u2_foc_top/u_id_pi/reg0_syn_11
+SYN-1002 :     u2_foc_top/u_svpwm/reg11_syn_12
+SYN-1002 :     u_foc_top/u_id_pi/reg0_syn_11
+SYN-1002 :     u2_foc_top/u_id_pi/reg1_syn_11
+SYN-1002 :     u_foc_top/u_id_pi/reg1_syn_11
+SYN-1015 : Optimize round 2, 855 better
+SYN-3008 : Optimized 4 const1 DFF(s)
+SYN-3003 : Optimized 2 equivalent DFF(s)
+SYN-3003 : Optimized 1 equivalent DFF(s)
+SYN-3003 : Optimized 1 equivalent DFF(s)
+SYN-3003 : Optimized 1 equivalent DFF(s)
+SYN-3003 : Optimized 1 equivalent DFF(s)
+SYN-3003 : Optimized 1 equivalent DFF(s)
+SYN-3003 : Optimized 1 equivalent DFF(s)
+SYN-3003 : Optimized 1 equivalent DFF(s)
+SYN-3003 : Optimized 1 equivalent DFF(s)
+SYN-3003 : Optimized 1 equivalent DFF(s)
+SYN-3003 : Optimized 1 equivalent DFF(s)
+SYN-3003 : Optimized 1 equivalent DFF(s)
+SYN-3003 : Optimized 1 equivalent DFF(s)
+SYN-3003 : Optimized 1 equivalent DFF(s)
+SYN-3003 : Optimized 1 equivalent DFF(s)
+SYN-3003 : Optimized 1 equivalent DFF(s)
+SYN-3003 : Optimized 1 equivalent DFF(s)
+SYN-3003 : Optimized 1 equivalent DFF(s)
+SYN-3003 : Optimized 3 equivalent DFF(s)
+SYN-3004 : Optimized 42 const0 DFF(s)
+SYN-1032 : 8194/207 useful/useless nets, 5953/98 useful/useless insts
+SYN-1014 : Optimize round 1
+SYN-1019 : Optimized 28 mux instances.
+SYN-1016 : Merged 52 instances.
+SYN-1015 : Optimize round 1, 140 better
+SYN-1014 : Optimize round 2
+SYN-1032 : 8067/49 useful/useless nets, 5865/0 useful/useless insts
+SYN-1015 : Optimize round 2, 8 better
+SYN-1014 : Optimize round 3
+SYN-1015 : Optimize round 3, 0 better
+RUN-1003 : finish command "optimize_rtl" in  8.029329s wall, 3.968750s user + 0.390625s system = 4.359375s CPU (54.3%)
+
+RUN-1004 : used memory is 211 MB, reserved memory is 180 MB, peak memory is 241 MB
+RUN-1002 : start command "report_area -file FOC_Controller_rtl.area"
+RUN-1001 : standard
+***Report Model: TOP Device: SF1S60CG121I***
+
+IO Statistics
+#IO                        21
+  #input                    3
+  #output                  16
+  #inout                    2
+
+Gate Statistics
+#Basic gates             3639
+  #and                    380
+  #nand                     0
+  #or                     254
+  #nor                      0
+  #xor                      0
+  #xnor                     0
+  #buf                      0
+  #not                     87
+  #bufif1                   2
+  #MX21                   217
+  #FADD                     0
+  #DFF                   2699
+  #LATCH                    0
+#MACRO_ADD                197
+#MACRO_EQ                  39
+#MACRO_MULT                22
+#MACRO_MUX               1954
+#MACRO_OTHERS               9
+
+Report Hierarchy Area:
++-----------------------------------------------------------------+
+|Instance              |Module            |gates  |seq    |macros |
++-----------------------------------------------------------------+
+|top                   |TOP               |940    |2699   |267    |
+|  pll_inst            |pll               |0      |0      |1      |
+|  u2_adc_ad7928       |adc_ad7928        |69     |76     |11     |
+|  u2_as5600_read      |i2c_register_read |77     |60     |24     |
+|  u2_foc_top          |foc_top           |370    |1237   |119    |
+|    u_adc_sn_ctrl     |hold_detect       |5      |10     |3      |
+|    u_cartesian2polar |cartesian2polar   |38     |189    |22     |
+|    u_clark_tr        |clark_tr          |0      |130    |11     |
+|    u_id_pi           |pi_controller     |12     |175    |13     |
+|    u_iq_pi           |pi_controller     |12     |169    |13     |
+|    u_park_tr         |park_tr           |14     |250    |16     |
+|      u_sincos        |sincos            |14     |88     |10     |
+|    u_svpwm           |svpwm             |284    |197    |29     |
+|  u_adc_ad7928        |adc_ad7928        |69     |76     |11     |
+|  u_as5600_read       |i2c_register_read |1      |24     |0      |
+|  u_foc_top           |foc_top           |353    |1199   |100    |
+|    u_adc_sn_ctrl     |hold_detect       |5      |10     |3      |
+|    u_cartesian2polar |cartesian2polar   |34     |184    |15     |
+|    u_clark_tr        |clark_tr          |0      |128    |11     |
+|    u_id_pi           |pi_controller     |12     |175    |13     |
+|    u_iq_pi           |pi_controller     |12     |169    |13     |
+|    u_park_tr         |park_tr           |6      |247    |16     |
+|      u_sincos        |sincos            |6      |85     |10     |
+|    u_svpwm           |svpwm             |279    |195    |20     |
++-----------------------------------------------------------------+
+
+RUN-1002 : start command "export_db FOC_Controller_rtl.db"
+RUN-1001 : Exported /
+RUN-1001 : Exported flow parameters
+RUN-1001 : Exported libs
+RUN-1001 : Exported entities
+RUN-1001 : Exported ports
+RUN-1001 : Exported pins
+RUN-1001 : Exported instances
+RUN-1001 : Exported nets
+RUN-1001 : Exported buses
+RUN-1001 : Exported models
+RUN-1001 : Exported congestions
+RUN-1001 : Exported violations
+RUN-1001 : Exported IO constraints
+RUN-1001 : Exported Inst constraints
+RUN-1002 : start command "optimize_gate -maparea FOC_Controller_gate.area"
+RUN-1001 : Open license file D:/Anlogic/TD5.6.2/license/Anlogic.lic
+RUN-1001 : Print Global Property
+RUN-1001 : ---------------------------------------------------------------
+RUN-1001 :        Parameters        |  Settings  |  Default Values  |  Note  
+RUN-1001 : ---------------------------------------------------------------
+RUN-1001 :          message         |  standard  |     standard     |        
+RUN-1001 :   mixed_pack_place_flow  |     on     |        on        |        
+RUN-1001 :        qor_monitor       |    off     |       off        |        
+RUN-1001 :        syn_ip_flow       |    off     |       off        |        
+RUN-1001 :          thread          |    auto    |       auto       |        
+RUN-1001 : ---------------------------------------------------------------
+RUN-1001 : Print Gate Property
+RUN-1001 : ------------------------------------------------------------------
+RUN-1001 :          Parameters         |  Settings  |  Default Values  |  Note  
+RUN-1001 : ------------------------------------------------------------------
+RUN-1001 :         cascade_dsp         |    off     |       off        |        
+RUN-1001 :         cascade_eram        |    off     |       off        |        
+RUN-1001 :        gate_sim_model       |    off     |       off        |        
+RUN-1001 :        map_sim_model        |    off     |       off        |        
+RUN-1001 :         map_strategy        |     1      |        1         |        
+RUN-1001 :           opt_area          |   medium   |      medium      |        
+RUN-1001 :          opt_timing         |    auto    |       auto       |        
+RUN-1001 :         pack_effort         |   medium   |      medium      |        
+RUN-1001 :      pack_lslice_ripple     |     on     |        on        |        
+RUN-1001 :   pack_lslice_ripple_ratio  |    0.5     |       0.5        |        
+RUN-1001 :        pack_seq_in_io       |    auto    |       auto       |        
+RUN-1001 :        ph1_mux_ratio        |    1.0     |       1.0        |        
+RUN-1001 :            report           |  standard  |     standard     |        
+RUN-1001 :           retiming          |    off     |       off        |        
+RUN-1001 : ------------------------------------------------------------------
+SYN-2001 : Map 21 IOs to PADs
+SYN-1032 : 8083/5 useful/useless nets, 5879/7 useful/useless insts
+RUN-1002 : start command "update_pll_param -module TOP"
+SYN-2501 : Processed 0 LOGIC_BUF instances.
+SYN-2501 : 1 BUFG to GCLK
+SYN-2512 : LOGIC BRAM "u2_foc_top/u_cartesian2polar/mux4_syn_1"
+SYN-2512 : LOGIC BRAM "u2_foc_top/u_cartesian2polar/mux5_syn_1"
+SYN-2512 : LOGIC BRAM "u2_foc_top/u_park_tr/u_sincos/mux21_syn_1"
+SYN-2512 : LOGIC BRAM "u2_foc_top/u_svpwm/mux54_syn_1"
+SYN-2512 : LOGIC BRAM "u_foc_top/u_cartesian2polar/mux4_syn_1"
+SYN-2512 : LOGIC BRAM "u_foc_top/u_cartesian2polar/mux5_syn_1"
+SYN-2512 : LOGIC BRAM "u_foc_top/u_park_tr/u_sincos/mux21_syn_1"
+SYN-2512 : LOGIC BRAM "u_foc_top/u_svpwm/mux54_syn_1"
+SYN-2571 : Map 22 macro multiplier
+SYN-2571 : Optimize after map_dsp, round 1
+SYN-1032 : 8363/116 useful/useless nets, 5966/0 useful/useless insts
+SYN-1016 : Merged 19 instances.
+SYN-2571 : Optimize after map_dsp, round 1, 19 better
+SYN-2571 : Optimize after map_dsp, round 2
+SYN-2571 : Optimize after map_dsp, round 2, 0 better
+SYN-2571 : Map 16 macro multiplier
+SYN-2571 : Map 16 macro multiplier
+SYN-2561 : Map multiplier u2_foc_top/u_id_pi/mult1_syn_4 into carry-chain logic
+SYN-2561 : Map multiplier u2_foc_top/u_id_pi/mult1_syn_35 into carry-chain logic
+SYN-2561 : Map multiplier u2_foc_top/u_iq_pi/mult1_syn_4 into carry-chain logic
+SYN-2561 : Map multiplier u2_foc_top/u_iq_pi/mult1_syn_35 into carry-chain logic
+SYN-2561 : Map multiplier u_foc_top/u_id_pi/mult1_syn_4 into carry-chain logic
+SYN-2561 : Map multiplier u_foc_top/u_id_pi/mult1_syn_35 into carry-chain logic
+SYN-2561 : Map multiplier u_foc_top/u_iq_pi/mult1_syn_4 into carry-chain logic
+SYN-2561 : Map multiplier u_foc_top/u_iq_pi/mult1_syn_35 into carry-chain logic
+SYN-2561 : Map multiplier u_foc_top/u_park_tr/mult2 into carry-chain logic
+SYN-2561 : Map multiplier u_foc_top/u_park_tr/mult3 into carry-chain logic
+SYN-1001 : Throwback 35 control mux instances
+SYN-2501 : Optimize round 1
+SYN-1032 : 12302/2858 useful/useless nets, 8088/290 useful/useless insts
+SYN-1016 : Merged 929 instances.
+SYN-2501 : Optimize round 1, 2288 better
+SYN-2501 : Optimize round 2
+SYN-1032 : 11345/28 useful/useless nets, 7159/0 useful/useless insts
+SYN-2501 : Optimize round 2, 0 better
+SYN-2501 : Map 311 macro adder
+SYN-3001 : Mapper mapped 7 instances into 1 LUTs, name keeping = 100%.
+SYN-3001 : Mapper mapped 7 instances into 1 LUTs, name keeping = 100%.
+SYN-3001 : Mapper mapped 7 instances into 1 LUTs, name keeping = 100%.
+SYN-3001 : Mapper mapped 7 instances into 1 LUTs, name keeping = 100%.
+SYN-3001 : Mapper mapped 7 instances into 1 LUTs, name keeping = 100%.
+SYN-3001 : Mapper mapped 7 instances into 1 LUTs, name keeping = 100%.
+SYN-3001 : Mapper mapped 7 instances into 1 LUTs, name keeping = 100%.
+SYN-2501 : Inferred 7 ROM instances
+SYN-1019 : Optimized 174 mux instances.
+SYN-1016 : Merged 273 instances.
+SYN-1032 : 17783/214 useful/useless nets, 13599/14 useful/useless insts
+SYN-3001 : Running gate level optimization.
+SYN-2581 : Mapping with K=5, #lut = 2784 (2.89), #lev = 5 (1.58)
+SYN-2551 : Post LUT mapping optimization.
+SYN-2581 : Mapping with K=5, #lut = 2753 (2.92), #lev = 4 (1.49)
+SYN-3001 : Logic optimization runtime opt =   0.26 sec, map =   0.00 sec
+SYN-3001 : Mapper mapped 4807 instances into 2756 LUTs, name keeping = 89%.
+RUN-1002 : start command "report_area -file FOC_Controller_gate.area"
+RUN-1001 : standard
+***Report Model: TOP Device: SF1S60CG121I***
+
+IO Statistics
+#IO                        21
+  #input                    3
+  #output                  16
+  #inout                    2
+
+LUT Statistics
+#Total_luts              9064
+  #lut4                  2486
+  #lut5                   277
+  #lut6                     0
+  #lut5_mx41                0
+  #lut4_alu1b            6301
+
+Utilization Statistics
+#lut                     9064   out of   5824  155.63%
+#reg                     2426   out of   5824   41.66%
+#le                         0
+#dsp                       10   out of     10  100.00%
+#bram                      22   out of     26   84.62%
+  #bram9k                  22
+  #fifo9k                   0
+#hard-ip                    0
+  #mcu                      0   out of      1    0.00%
+  #dsc                      0   out of      1    0.00%
+  #dsi                      0   out of      2    0.00%
+  #psram controller         0   out of      2    0.00%
+#pad                       21   out of     55   38.18%
+  #ireg                     2
+  #oreg                    18
+  #treg                     2
+#pll                        1   out of      2   50.00%
+
+Report Hierarchy Area:
++--------------------------------------------------------------------------------------+
+|Instance              |Module            |lut     |ripple  |seq     |bram    |dsp     |
++--------------------------------------------------------------------------------------+
+|top                   |TOP               |2763    |6301    |2448    |22      |10      |
+|  pll_inst            |pll               |0       |0       |0       |0       |0       |
+|  u2_adc_ad7928       |adc_ad7928        |43      |91      |74      |0       |0       |
+|  u2_as5600_read      |i2c_register_read |84      |177     |60      |0       |0       |
+|  u2_foc_top          |foc_top           |1037    |2480    |1046    |11      |6       |
+|    u_adc_sn_ctrl     |hold_detect       |12      |8       |10      |0       |0       |
+|    u_cartesian2polar |cartesian2polar   |405     |302     |191     |8       |0       |
+|    u_clark_tr        |clark_tr          |0       |142     |98      |0       |0       |
+|    u_id_pi           |pi_controller     |133     |798     |175     |0       |1       |
+|    u_iq_pi           |pi_controller     |133     |798     |169     |0       |1       |
+|    u_park_tr         |park_tr           |91      |125     |90      |2       |4       |
+|      u_sincos        |sincos            |91      |59      |56      |2       |0       |
+|    u_svpwm           |svpwm             |232     |228     |196     |1       |0       |
+|  u_adc_ad7928        |adc_ad7928        |43      |91      |74      |0       |0       |
+|  u_as5600_read       |i2c_register_read |12      |0       |24      |0       |0       |
+|  u_foc_top           |foc_top           |1543    |3437    |1121    |11      |4       |
+|    u_adc_sn_ctrl     |hold_detect       |12      |8       |10      |0       |0       |
+|    u_cartesian2polar |cartesian2polar   |402     |302     |186     |8       |0       |
+|    u_clark_tr        |clark_tr          |0       |140     |112     |0       |0       |
+|    u_id_pi           |pi_controller     |133     |798     |175     |0       |1       |
+|    u_iq_pi           |pi_controller     |133     |1268    |169     |0       |1       |
+|    u_park_tr         |park_tr           |600     |667     |183     |2       |2       |
+|      u_sincos        |sincos            |88      |59      |85      |2       |0       |
+|    u_svpwm           |svpwm             |239     |228     |195     |1       |0       |
++--------------------------------------------------------------------------------------+
+
+SYN-1001 : Packing model "TOP" ...
+SYN-4010 : Pack lib has 65 rtl pack models with 28 top pack blocks
+SYN-1014 : Optimize round 1
+SYN-1015 : Optimize round 1, 0 better
+SYN-4002 : Packing 2426 DFF/LATCH to SEQ ...
+SYN-4009 : Pack 122 carry chain into lslice
+SYN-4007 : Packing 3139 adder to BLE ...
+SYN-4008 : Packed 3139 adder and 230 SEQ to BLE.
+SYN-4007 : Packing 0 gate4 to BLE ...
+SYN-4008 : Packed 0 gate4 and 0 SEQ to BLE.
+SYN-4012 : Packed 0 FxMUX
+RUN-1003 : finish command "optimize_gate -maparea FOC_Controller_gate.area" in  4.042487s wall, 1.921875s user + 0.093750s system = 2.015625s CPU (49.9%)
+
+RUN-1004 : used memory is 295 MB, reserved memory is 265 MB, peak memory is 295 MB
+RUN-1002 : start command "legalize_phy_inst"
+SYN-1011 : Flatten model TOP
+RUN-1002 : start command "export_db FOC_Controller_gate.db"
+RUN-1001 : Exported /
+RUN-1001 : Exported flow parameters
+RUN-1001 : Exported libs
+RUN-1001 : Exported entities
+RUN-1001 : Exported ports
+RUN-1001 : Exported pins
+RUN-1001 : Exported instances
+RUN-1001 : Exported nets
+RUN-1001 : Exported buses
+RUN-1001 : Exported models
+RUN-1001 : Exported congestions
+RUN-1001 : Exported violations
+RUN-1001 : Exported IO constraints
+RUN-1001 : Exported Inst constraints
+RUN-1003 : finish command "export_db FOC_Controller_gate.db" in  1.520324s wall, 1.109375s user + 0.078125s system = 1.187500s CPU (78.1%)
+
+RUN-1004 : used memory is 301 MB, reserved memory is 277 MB, peak memory is 390 MB
+RUN-1002 : start command "backup_run_log run.log ../.logs/syn_1/td_20231105_221520.log"

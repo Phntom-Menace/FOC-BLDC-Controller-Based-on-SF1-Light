@@ -1,0 +1,106 @@
+standard
+***Report Model: fpga_top Device: SF1S60CG121I***
+
+IO Statistics
+#IO                        21
+  #input                   10
+  #output                  10
+  #inout                    1
+
+Utilization Statistics
+#lut                     5261   out of   5824   90.33%
+#reg                     2664   out of   5824   45.74%
+#le                      5306
+  #lut only              2642   out of   5306   49.79%
+  #reg only                45   out of   5306    0.85%
+  #lut&reg               2619   out of   5306   49.36%
+#dsp                       10   out of     10  100.00%
+#bram                      11   out of     26   42.31%
+  #bram9k                  11
+  #fifo9k                   0
+#hard-ip                    1
+  #mcu                      1   out of      1  100.00%
+  #dsc                      0   out of      1    0.00%
+  #dsi                      0   out of      2    0.00%
+  #psram controller         0   out of      2    0.00%
+#pad                       21   out of     55   38.18%
+  #ireg                     2
+  #oreg                     7
+  #treg                     0
+#pll                        1   out of      2   50.00%
+#gclk                       4   out of     16   25.00%
+
+Clock Resource Statistics
+Index     ClockNet                                                       Type               DriverType         Driver                                                                      Fanout
+#1        u_ahb_foc_controller/u_foc_controller/u_adc_ad7928/clk         GCLK               pll                u_pll/pll_inst.clkc1                                                        768
+#2        u_pll/clk0_buf                                                 GCLK               pll                u_pll/pll_inst.clkc0                                                        654
+#3        u_ahb_foc_controller/u_foc_controller/S_angle_velocity_clk     GCLK               lslice             u_ahb_foc_controller/u_foc_controller/S_angle_velocity_clk_reg_syn_23.q1    81
+#4        u_ahb_foc_controller/u_foc_controller/S_angle_position_clk     GCLK               mslice             u_ahb_foc_controller/u_foc_controller/S_angle_position_clk_reg_syn_19.q1    14
+#5        u_ahb_foc_controller/u_foc_controller/u_foc_top/O_init_done    GCLK               lslice             u_ahb_foc_controller/u_foc_controller/u_adc_ad7928/nfirst_reg_syn_12.q0     8
+#6        I_clk_25m_dup_1                                                GCLK               io                 I_clk_25m_syn_2.di                                                          1
+
+
+Detailed IO Report
+
+     Name       Direction    Location    IOStandard    DriveStrength    PullType    PackReg  
+  I_clk_25m       INPUT         D7        LVCMOS18          N/A          PULLUP      NONE    
+   I_hall_u       INPUT        G10        LVCMOS18          N/A          PULLUP      NONE    
+   I_hall_v       INPUT        H11        LVCMOS18          N/A          PULLUP      NONE    
+   I_hall_w       INPUT        H10        LVCMOS18          N/A          PULLUP      NONE    
+  I_jtag_tck      INPUT         C7        LVCMOS18          N/A          PULLUP      NONE    
+  I_jtag_tdi      INPUT         D5        LVCMOS18          N/A          PULLUP      NONE    
+  I_jtag_tms      INPUT         D6        LVCMOS18          N/A          PULLUP      NONE    
+    I_rstn        INPUT         J2        LVCMOS18          N/A          PULLUP      NONE    
+  I_spi_miso      INPUT         B9        LVCMOS18          N/A          PULLUP      IREG    
+  I_uart_rx       INPUT         E4        LVCMOS18          N/A          PULLUP      NONE    
+  O_i2c_scl      OUTPUT         G3        LVCMOS18           8            NONE       OREG    
+  O_jtag_tdo     OUTPUT         C6        LVCMOS18           8            NONE       NONE    
+   O_pwm_a       OUTPUT        C10        LVCMOS18           8            NONE       OREG    
+   O_pwm_b       OUTPUT        C11        LVCMOS18           8            NONE       OREG    
+   O_pwm_c       OUTPUT        E11        LVCMOS18           8            NONE       OREG    
+   O_pwm_en      OUTPUT        F11        LVCMOS18           8            NONE       NONE    
+  O_spi_mosi     OUTPUT         B8        LVCMOS18           8            NONE       OREG    
+  O_spi_sck      OUTPUT         A9        LVCMOS18           8            NONE       OREG    
+   O_spi_ss      OUTPUT         A8        LVCMOS18           8            NONE       OREG    
+  O_uart_tx      OUTPUT         A4        LVCMOS18           8            NONE       NONE    
+  IO_i2c_sda      INOUT         H3        LVCMOS18           8           PULLUP      IREG    
+  hold_n_io3     OUTPUT        S6_1       LVCMOS18           8            NONE       NONE    
+   mosi_io0       INOUT        S6_5       LVCMOS18           8           PULLUP      NONE    
+
+Report Hierarchy Area:
++---------------------------------------------------------------------------------------------------+
+|Instance                  |Module             |le     |lut     |ripple  |seq     |bram    |dsp     |
++---------------------------------------------------------------------------------------------------+
+|top                       |fpga_top           |5306   |4119    |1142    |2673    |11      |10      |
+|  u_ahb_foc_controller    |ahb_foc_controller |5305   |4118    |1142    |2664    |11      |10      |
+|    u_foc_controller      |foc_controller     |4256   |3114    |1142    |1626    |11      |10      |
+|      u_adc_ad7928        |adc_ad7928         |128    |106     |22      |73      |0       |0       |
+|      u_as5600_encoder    |as5600_encoder     |162    |108     |54      |78      |0       |0       |
+|        u_as5600_read     |i2c_register_read  |74     |60      |14      |57      |0       |0       |
+|      u_foc_top           |foc_top            |3663   |2654    |1009    |1272    |11      |10      |
+|        u_adc_sn_ctrl     |hold_detect        |19     |15      |4       |8       |0       |0       |
+|        u_cartesian2polar |cartesian2polar    |463    |366     |97      |221     |8       |0       |
+|        u_clark_tr        |clark_tr           |186    |105     |81      |112     |0       |0       |
+|        u_id_pi           |pi_controller      |598    |395     |203     |233     |0       |4       |
+|        u_iq_pi           |pi_controller      |596    |393     |203     |232     |0       |4       |
+|        u_park_tr         |park_tr            |1078   |853     |225     |163     |2       |2       |
+|          u_sincos        |sincos             |112    |103     |9       |79      |2       |0       |
+|        u_svpwm           |svpwm              |600    |442     |158     |210     |1       |0       |
+|  u_mcu                   |MCU                |0      |0       |0       |0       |0       |0       |
+|  u_pll                   |pll                |0      |0       |0       |0       |0       |0       |
++---------------------------------------------------------------------------------------------------+
+
+
+DataNet Average Fanout:
+
+   Index     Fanout     Nets  
+    #1          1       6906  
+    #2          2       1269  
+    #3          3       201   
+    #4          4        69   
+    #5        5-10      200   
+    #6        11-50     315   
+    #7       51-100      8    
+    #8       101-500     4    
+    #9        >500       2    
+  Average     2.28            

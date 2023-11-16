@@ -1,0 +1,58 @@
+standard
+***Report Model: fpga_top Device: SF1S60CG121I***
+
+IO Statistics
+#IO                        21
+  #input                   10
+  #output                  10
+  #inout                    1
+
+LUT Statistics
+#Total_luts              5876
+  #lut4                  2410
+  #lut5                   547
+  #lut6                     0
+  #lut5_mx41                0
+  #lut4_alu1b            2919
+
+Utilization Statistics
+#lut                     5876   out of   5824  100.89%
+#reg                     2664   out of   5824   45.74%
+#le                         0
+#dsp                       10   out of     10  100.00%
+#bram                      11   out of     26   42.31%
+  #bram9k                  11
+  #fifo9k                   0
+#hard-ip                    1
+  #mcu                      1   out of      1  100.00%
+  #dsc                      0   out of      1    0.00%
+  #dsi                      0   out of      2    0.00%
+  #psram controller         0   out of      2    0.00%
+#pad                       21   out of     55   38.18%
+  #ireg                     2
+  #oreg                     7
+  #treg                     0
+#pll                        1   out of      2   50.00%
+
+Report Hierarchy Area:
++-------------------------------------------------------------------------------------------+
+|Instance                  |Module             |lut     |ripple  |seq     |bram    |dsp     |
++-------------------------------------------------------------------------------------------+
+|top                       |fpga_top           |2957    |2919    |2673    |11      |10      |
+|  u_ahb_foc_controller    |ahb_foc_controller |2956    |2919    |2664    |11      |10      |
+|    u_foc_controller      |foc_controller     |2111    |2919    |1542    |11      |10      |
+|      u_adc_ad7928        |adc_ad7928         |46      |91      |73      |0       |0       |
+|      u_as5600_encoder    |as5600_encoder     |141     |102     |71      |0       |0       |
+|        u_as5600_read     |i2c_register_read  |85      |26      |59      |0       |0       |
+|      u_foc_top           |foc_top            |1859    |2563    |1193    |11      |10      |
+|        u_adc_sn_ctrl     |hold_detect        |12      |8       |10      |0       |0       |
+|        u_cartesian2polar |cartesian2polar    |469     |240     |191     |8       |0       |
+|        u_clark_tr        |clark_tr           |0       |140     |112     |0       |0       |
+|        u_id_pi           |pi_controller      |221     |589     |199     |0       |4       |
+|        u_iq_pi           |pi_controller      |221     |589     |195     |0       |4       |
+|        u_park_tr         |park_tr            |611     |625     |186     |2       |2       |
+|          u_sincos        |sincos             |99      |17      |88      |2       |0       |
+|        u_svpwm           |svpwm              |285     |333     |207     |1       |0       |
+|  u_mcu                   |MCU                |0       |0       |0       |0       |0       |
+|  u_pll                   |pll                |0       |0       |0       |0       |0       |
++-------------------------------------------------------------------------------------------+
